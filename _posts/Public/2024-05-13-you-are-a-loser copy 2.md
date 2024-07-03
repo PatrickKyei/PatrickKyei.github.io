@@ -6,6 +6,7 @@ image:
 date: 2024-04-20 07:00:00 +00
 categories: [Perspective, Reality]
 tags: [letters, reality, perspective] # TAG names should always be lowercase
+feed: show
 ---
 
 Life happens. This is something you have absolutely no control over. 

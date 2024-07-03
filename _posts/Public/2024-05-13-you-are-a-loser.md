@@ -6,6 +6,7 @@ image:
   alt: loser if you think you
 categories: [Perspective, Reality]
 tags: [letters, reality, perspective] # TAG names should always be lowercase
+feed: show
 ---
 
 Life happens. This is something you have absolutely no control over. 
