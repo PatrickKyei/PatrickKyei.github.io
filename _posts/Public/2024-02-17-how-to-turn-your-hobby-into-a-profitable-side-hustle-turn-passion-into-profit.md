@@ -1,6 +1,7 @@
 ---
 title: how to turn your hobby into a profitable side hustle - turn passion into profit
 date: 2024-02-17 07:00:00 +00
+feed: show
 image:
   path: /assets/img/passion-into-profit.png
   alt: turn passion into profit

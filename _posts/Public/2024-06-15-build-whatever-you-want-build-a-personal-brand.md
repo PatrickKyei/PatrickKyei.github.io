@@ -4,6 +4,7 @@ image:
   path: /assets/img/personal-brand.png
   alt: build a personal brand
 date: 2024-06-15 07:35:00 +00
+feed: show
 categories: [Business, Internet]
 tags: [letters, mindset, business] 
 --- 

@@ -1,6 +1,7 @@
 ---
 title: Do You Make These Happiness Mistakes? (How To Stay Ambitious & Content)
 date: 2023-12-20 07:40:00 +00
+feed: hide
 image:
   path: /assets/img/ambition-content.png
   alt: Ambitious Happy Man

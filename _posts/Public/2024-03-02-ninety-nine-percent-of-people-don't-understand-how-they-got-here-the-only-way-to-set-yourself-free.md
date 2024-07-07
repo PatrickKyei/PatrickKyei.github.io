@@ -1,6 +1,7 @@
 ---
 title: 99% of people don't understand how they got here (the only way to set yourself free)
 date: 2024-03-02 07:00:00 +00
+feed: show
 image:
   path: /assets/img/you-are-lost.png
   alt: reject the mindless path

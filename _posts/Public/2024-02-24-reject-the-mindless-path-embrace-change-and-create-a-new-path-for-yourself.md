@@ -1,6 +1,7 @@
 ---
 title: reject the mindless path - embrace change and create a new path for yourself
 date: 2024-02-24 07:00:00 +00
+feed: show
 image:
   path: /assets/img/reject-mindless-path.png
   alt: reject the mindless path

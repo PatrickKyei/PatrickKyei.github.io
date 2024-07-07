@@ -1,6 +1,7 @@
 ---
 title: 7 Ways To Make Conversation With Anyone
 date: 2023-12-16 20:30:01 +00
+feed: hide
 image:
   path: /assets/img/strangers-conversation.png
   alt: Strangers First Conversation

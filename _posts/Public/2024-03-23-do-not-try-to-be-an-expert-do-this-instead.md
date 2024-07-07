@@ -1,6 +1,7 @@
 ---
 title: do not try to be an expert (do this instead) 
 date: 2024-03-23 07:00:00 +00
+feed: show
 image:
   path: /assets/img/stop-trying-to-be-an-expert.png
   alt: build learn

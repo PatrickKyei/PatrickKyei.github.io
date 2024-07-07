@@ -1,6 +1,7 @@
 ---
 title: optimize your life
 date: 2024-05-18 07:00:00 +00
+feed: show
 image:
   path: /assets/img/optimize.png
   alt: achieve optimal efficiency

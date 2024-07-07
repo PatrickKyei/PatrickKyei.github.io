@@ -1,6 +1,7 @@
 ---
 title: you don't have a time problem you have a mindset problem
 date: 2024-04-27 07:00:00 +00
+feed: show
 image:
   path: /assets/img/poverty-mindset.png
   alt: mindset

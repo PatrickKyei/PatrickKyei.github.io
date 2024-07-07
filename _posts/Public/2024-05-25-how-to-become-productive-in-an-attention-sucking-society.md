@@ -4,6 +4,7 @@ image:
   path: /assets/img/creative-hack.png
   alt: creative hack
 date: 2024-05-26 07:35:00 +00
+feed: show
 categories: [Business, Productivity]
 tags: [letters, creativity, business] 
 --- 

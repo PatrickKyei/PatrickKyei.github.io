@@ -1,6 +1,7 @@
 ---
 title: you are a loser if you think you are a loser
 date: 2024-04-20 07:00:00 +00
+feed: show
 image:
   path: /assets/img/losers-talk.png
   alt: you are a loser if you think you are a loser

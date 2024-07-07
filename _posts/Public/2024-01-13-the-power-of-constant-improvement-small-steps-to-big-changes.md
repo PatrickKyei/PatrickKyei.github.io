@@ -1,6 +1,7 @@
 ---
 title: The Power of Constant Improvement (Small Steps to Big Changes)
 date: 2024-01-13 07:00:00 +00
+feed: show
 image:
   path: /assets/img/constant-improvement.png
   alt: constant improvement

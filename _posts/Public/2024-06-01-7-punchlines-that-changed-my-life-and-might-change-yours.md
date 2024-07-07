@@ -1,6 +1,7 @@
 ---
 title: 7 punclines that changed my life and might change yours
 date: 2024-06-01 07:00:00 +00
+feed: show
 image:
   path: /assets/img/notes.png
   alt: quotes to change your life

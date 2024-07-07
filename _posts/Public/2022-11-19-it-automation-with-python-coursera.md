@@ -1,6 +1,7 @@
 ---
 title: IT Automation With Python
 date: 2022-11-16 11:27:00 +00
+feed: hide
 categories: [Technical, Automation]
 tags: [technical, it automation, projects]     # TAG names should always be lowercase
 ---

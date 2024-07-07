@@ -1,6 +1,7 @@
 ---
 title: you become the story you tell yourself - unbox yourself
 date: 2024-05-11 07:00:00 +00
+feed: show
 image:
   path: /assets/img/unlock.png
   alt: don't put yourself in a box

@@ -1,6 +1,7 @@
 ---
 title: focus is a lost Art, how to take back your attention and achieve your goals
 date: 2024-01-27 07:00:00 +00
+feed: show
 image:
   path: /assets/img/focus-lost-art.png
   alt: self-educate

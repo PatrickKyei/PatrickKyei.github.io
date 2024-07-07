@@ -1,6 +1,7 @@
 ---
 title: program your mind for success- use pain as fuel
 date: 2024-02-10 07:00:00 +00
+feed: show
 image:
   path: /assets/img/pain-as-fuel.png
   alt: use pain as fuel

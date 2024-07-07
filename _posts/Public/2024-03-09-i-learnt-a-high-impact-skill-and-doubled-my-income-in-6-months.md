@@ -1,6 +1,7 @@
 ---
 title: i learnt a high impact skill and doubled my $$ income in 6 months 
 date: 2024-03-09 07:00:00 +00
+feed: show
 image:
   path: /assets/img/doubled-income-learning.png
   alt: reject the mindless path

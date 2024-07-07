@@ -1,6 +1,7 @@
 ---
 title: for those who want results in life
 date: 2024-03-30 07:00:00 +00
+feed: show
 image:
   path: /assets/img/want-rest.png
   alt: build learn

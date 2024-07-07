@@ -4,6 +4,7 @@ image:
   path: /assets/img/learn-build.png
   alt: build whatever you want in 2024
 date: 2024-06-08 07:35:00 +00
+feed: show
 categories: [Business, Mindset]
 tags: [letters, mindset, business] 
 --- 

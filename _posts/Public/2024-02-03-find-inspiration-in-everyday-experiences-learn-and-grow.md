@@ -1,6 +1,7 @@
 ---
 title: find inspiration in every day experiences - learn and grow
 date: 2024-02-03 08:00:00 +00
+feed: show
 image:
   path: /assets/img/everyday-inspiration.png
   alt: everyday inspiration

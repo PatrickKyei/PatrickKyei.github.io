@@ -1,6 +1,7 @@
 ---
 title: life transformation for those who self-educate
 date: 2024-01-20 07:00:00 +00
+feed: show
 image:
   path: /assets/img/self-educate.png
   alt: self-educate

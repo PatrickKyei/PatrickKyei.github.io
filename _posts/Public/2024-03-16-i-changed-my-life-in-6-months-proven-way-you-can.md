@@ -1,6 +1,7 @@
 ---
 title: i changed my life in 6 months (proven way you can) 
 date: 2024-03-16 07:00:00 +00
+feed: show
 image:
   path: /assets/img/build.png
   alt: changed life

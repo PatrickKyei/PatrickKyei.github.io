@@ -4,6 +4,7 @@ image:
   path: /assets/img/mental-mastery-2.png
   alt: build mental mastery
 date: 2024-06-29 07:35:00 +00
+feed: show
 categories: [Mindset, Self Improvement]
 tags: [letters, mindset, self improvement] 
 --- 

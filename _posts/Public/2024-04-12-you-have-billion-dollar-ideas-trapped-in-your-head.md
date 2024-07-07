@@ -1,6 +1,7 @@
 ---
 title: billion dollar ideas trapped in your head
 date: 2024-04-12 07:00:00 +00
+feed: show
 image:
   path: /assets/img/billion-dollar.png
   alt: you don't need more knowledge

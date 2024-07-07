@@ -1,6 +1,7 @@
 ---
 title: How can I make my life better?
 date: 2023-12-16 11:35:00 +00
+feed: hide
 image:
   path: /assets/img/better-life.png
   alt: Better life

@@ -4,6 +4,7 @@ image:
   path: /assets/img/connections.png
   alt: learning and linking
 date: 2024-07-06 07:35:00 +00
+feed: show
 categories: [Mental Mastery, Self Education]
 tags: [letters, mindset, education] 
 --- 

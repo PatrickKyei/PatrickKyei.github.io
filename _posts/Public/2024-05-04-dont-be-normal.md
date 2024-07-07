@@ -1,6 +1,7 @@
 ---
 title: don't be normal
 date: 2024-05-04 07:00:00 +00
+feed: show
 image:
   path: /assets/img/not-normal.png
   alt: not normal

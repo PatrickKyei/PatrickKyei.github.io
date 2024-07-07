@@ -1,6 +1,7 @@
 ---
 title: Top 5 Regrets Of People On Death Bed Right Before They Died
 date: 2023-12-05 10:50:00 +00
+feed: hide
 image:
   path: /assets/img/death-bed.png
   alt: Death Bed
