@@ -3,17 +3,17 @@
         <div class="columns is-variable is-8">
             <div class="column is-half">
                 <div class="content has-text-centered">
-                    <h2 class="title is-3">DK</h2>
+                    <h2 class="title is-3">PK</h2>
                     <p class="subtitle">Learn. Build. Expand</p>
                     <p class="has-text-weight-semibold">
                         I dive deep into human potential, lifestyle design, and one-person businesses to give you a
                         unique, digestible way of improving your life.
                     </p>
                     <div class="social-icons is-flex">
-                        <p class="image is-24x24"><a href="https://facebook.com/thepatrickkyei"><img src="assets/img/twitter-icon.svg"
-                                    alt="Facebook"></a></p>
-                        <p class="image is-24x24"><a href="https://linkedin.com/in/thepatrickkyei"><img src="assets/img/linkedin-icon.svg"
-                                    alt="LinkedIn"></a></p>
+                        <p class="image is-24x24"><a href="https://facebook.com/thepatrickkyei"><img
+                                    src="assets/img/twitter-icon.svg" alt="Facebook"></a></p>
+                        <p class="image is-24x24"><a href="https://linkedin.com/in/thepatrickkyei"><img
+                                    src="assets/img/linkedin-icon.svg" alt="LinkedIn"></a></p>
                     </div>
                 </div>
             </div>
@@ -22,18 +22,28 @@
                     <h2 class="title is-4">Gain A New Perspective On Life & Business</h2>
                     <p>Join 140,000+ subscribers getting mindf*cked while reading The Koe Letter every Saturday morning
                         (you may learn a bit about life & business too).</p>
-                    <form action="#" method="POST">
-                        <div class="field">
-                            <div class="control">
-                                <input class="input" type="email" placeholder="Your email">
-                            </div>
-                        </div>
-                        <div class="field">
-                            <div class="control">
-                                <button class="button is-primary">Read For Free</button>
-                            </div>
-                        </div>
-                    </form>
+
+                    <div id="custom-substack-embed"></div>
+
+
+                    <script>
+                        window.CustomSubstackWidget = {
+                            substackUrl: "patrickkyei.substack.com",
+                            placeholder: "example@gmail.com",
+                            buttonText: "Get Free Update",
+                            theme: "custom",
+                            colors: {
+                                primary: "#ACABAB",
+                                input: "#DFDFDF",
+                                email: "#090909",
+                                text: "#000000",
+                            },
+
+                            // Go to substackapi.com to unlock custom redirect
+
+                        };
+                    </script>
+                    <script src="https://substackapi.com/widget.js" async></script>
                 </div>
             </div>
         </div>
