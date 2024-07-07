@@ -2,11 +2,10 @@
 title: you are a loser if you think you are a loser
 date: 2024-04-20 07:00:00 +00
 image:
-  path: assets/img/book.png/
-  alt: loser if you think you
+  path: /assets/img/losers-talk.png
+  alt: you are a loser if you think you are a loser
 categories: [Perspective, Reality]
 tags: [letters, reality, perspective] # TAG names should always be lowercase
-feed: show
 ---
 
 Life happens. This is something you have absolutely no control over. 
