@@ -5,4 +5,4 @@ feedformat: card
 title: Letters
 ---
 
-Expand your mind
+Expand your mind, become a better thinker and performer
