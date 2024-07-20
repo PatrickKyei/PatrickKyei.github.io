@@ -214,13 +214,9 @@ And 9-5 jobs aren’t bad.
 However, it’s not optimal.
 
 You might be earning a profit, but:
-
 - You’re not following your purpose by working a job you hate.
-
 - You’re not free if your boss calls you at night, telling you to show up tomorrow on your day off. If you say no, you lose your job.
-
 - You don’t have time to enjoy life
- 
 - You don't get time to spend with family because you’re required to work like an animal.
 
 You start smoking cigarettes or drinking alcohol to “get rid of” the stress.
