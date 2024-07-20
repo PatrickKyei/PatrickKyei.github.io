@@ -148,9 +148,9 @@ Having control over your time and energy.
 
 There have never been more opportunities to create income for yourself than right now. 
 
-The digital age has opened doors to countless ways to [earn a living](nas.io/skillembassy) on your own terms and not depend on anyone for your survival.
+The digital age has opened doors to countless ways to [earn a living](https://nas.io/skillembassy) on your own terms and not depend on anyone for your survival.
 
-Learn high value [skills.](skillembassy.org)
+Learn high value [skills.](https://skillembassy.org)
 Offer your expertise to those in need. This is how you exit the rat race. 
 
 Skills and entrepreneurship create freedom.
@@ -187,7 +187,7 @@ Ask yourself this question:
 
 ### A personal brand is your digital portfolio
 
-This is why you [need a brand](nas.io/skillembassy) that will represent you in the digital space to sell your solution (product/service) to people in exchange for value (Money).
+This is why you [need a brand](https://nas.io/skillembassy) that will represent you in the digital space to sell your solution (product/service) to people in exchange for value (Money).
 
 To reiterate, you are building an audience to have a traffic source to your products or the service you offer.
 
@@ -225,7 +225,7 @@ You may not have been able to avoid a job altogether, but you could sure as hell
 
 If you didn't get anything at all from today's Letter, I want you to keep this in mind: **business is people.**
 
-[Build](skillembassy.org) where the people are. 
+[Build](https://skillembassy.org) where the people are. 
 
 Gathering information is fantastic, but if you want to avoid the fate of a starving artist, you have to do more than just gather knowledge — you have to build.
 
