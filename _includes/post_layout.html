@@ -24,18 +24,17 @@
               </div>
             </div>
 
-            <div class="is-size-7">
-              {{ post.excerpt }}
+            <div class="is-size-7">{{ post.excerpt | strip_html}}</div>
 
+            <div>
               <a href="{{ post.url }}">Read Full Post</a>
             </div>
 
-            <div class="is-flex is-justify-content-space-between">
-              <p class="is-size-7">{{ post.author | default: site.author }}</p>
-              <time class="is-size-7" datetime="{{ post.date }}"
-                >{{ post.date | date: "%B %d, %Y" }}</time
-              >
+            <div class="is-flex is-justify-content-space-between is-size-7">
+              <p class="author-name">{{ post.author | default: site.author }}</p>
+              <time datetime="{{ post.date }}" class="post-date">{{ post.date | date: "%B %d, %Y" }}</time>
             </div>
+            
           </div>
         </div>
       </div>
