@@ -1641,10 +1641,10 @@ a[href^="http"] {
   }
   
   /* Hover effect */
-  .card:hover {
+  /* .card:hover {
     transform: translateY(-2px);
     transition: transform 0.2s;
-  }
+  } */
   
   /* Normalizing font sizes in post excerpts */
   .post-excerpt {
