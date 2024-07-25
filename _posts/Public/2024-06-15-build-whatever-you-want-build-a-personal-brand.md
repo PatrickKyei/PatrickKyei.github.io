@@ -133,7 +133,7 @@ Once you see social media for what it is, a new world opens up.
 - You can make acquaintances that will play a pivotal role in your life.  
 - You can make income that isn’t limited by a salary
 
-I quit Facebook for a month, created a new [account](https://facebook.com/patrickkyei) and used it to STUDY the platform.  
+I quit Facebook for a month, created a new [account](https://facebook.com/thepatrickkyei) and used it to STUDY the platform.  
 
 I did a lot of experimenting. If I want to grow very fast, I know what growth strategy to execute. 
 
