@@ -1,5 +1,6 @@
 ---
-title: How To Take Back Control Of Your Life (Escape The Modern Slavery)
+title: How To Take Back Control Of Your Life (Escape The Modern Day Slavery)
+
 image:
   path: /assets/img/escape.png
   alt: escape by visualizearchive
