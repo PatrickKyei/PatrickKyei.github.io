@@ -17,6 +17,8 @@ html[data-theme="light"] {
     --color-border-light: #E5E5E5;
 } */
 
+
+
 html[data-theme="light"] {
     --color-bg-main: #000000;
     --color-bg-sub: #000000;

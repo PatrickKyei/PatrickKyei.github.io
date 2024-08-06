@@ -16,3 +16,9 @@ layout: Stylesheet
 .post-navigation a:hover {
   text-decoration: underline;
 }
+
+/* main-content-padding.css */
+.main-content {
+  padding-top: 2em; /* Adjust this value to match your navbar height */
+}
+
