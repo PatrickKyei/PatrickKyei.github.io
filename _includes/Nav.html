@@ -37,22 +37,7 @@
     <script src="{{ site.baseurl }}/assets/js/modeswitcher.js"></script>
     <script src="{{ site.baseurl }}/assets/js/Hamburger.js"></script>
     <div class="navbar-item navbar-dark-mode__mobile is-hidden-tablet" onclick="modeSwitcher()">
-      <div class="buttons">
-        <a class="button is-text">
-          <span class="icon is-small">
-            <img src="{{ '/assets/img/sun.svg' | relative_url }}" id="theme-toggle-img--mobile">
-          </span>
-        </a>
-      </div>
-    </div>
-    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
-      <span aria-hidden="true"></span>
-      <span aria-hidden="true"></span>
-      <span aria-hidden="true"></span>
-    </a>
-  </div>
-  
-  <div id="navbarBasicExample" class="navbar-menu">
+	@@ -55,16 +56,7 @@ <h6> {{site.heading}}</h6></a>
     <div class="navbar-start">
       <a href="{{'/notes' | relative_url}}" class="navbar-item">
         Letters
