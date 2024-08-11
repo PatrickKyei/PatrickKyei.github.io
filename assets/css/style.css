@@ -3,6 +3,37 @@ layout: Stylesheet
 --- 
 @import "fruity.css";
 
+.post-navigation {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2em;
+    padding-top: 1em;
+  }
+  
+  .post-navigation a {
+    text-decoration: none;
+  }
+  
+  .post-navigation a:hover {
+    text-decoration: underline;
+  }
+  
+  /* main-content-padding.css */
+  .main-content {
+    padding-top: 2em; /* Adjust this value to match your navbar height */
+  }
+  
+  /* Margin between author name and time */
+  .is-flex.is-justify-content-space-between .author-name {
+    margin-right: 4px; /* Adjust this value as needed */
+  }
+  
+  /* Optional: Styling for uniform appearance */
+  .is-flex.is-justify-content-space-between .post-date {
+    margin-left: 10px; /* Adjust if needed for additional spacing */
+  }
+
+
 /* mute light mode */
 
 /* html,
