@@ -295,7 +295,7 @@ If you look at the four factors above, you will notice that the last factor, is 
 
 Unfortunately, school trains you to be part of the labor market, rather than to be the entrepreneur.
 
-So you must reeducate yourself into becoming the entrepreneur, if you want to run and succeed in your own business.
+So you must re-educate yourself into becoming the entrepreneur, if you want to run and succeed in your own business.
 
 To do that, you need a few skills and then you need a big Vision.
 
