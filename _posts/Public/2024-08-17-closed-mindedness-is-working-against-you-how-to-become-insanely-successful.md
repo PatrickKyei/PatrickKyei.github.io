@@ -99,7 +99,7 @@ Everybody told me to go to college, find a job, save enough money and retire at 
 And so most people have the goal of going to college, getting a job and retiring at 60.  
   
 When you grow up you tend to get told that the world is the way it is.  
-And your your life is just to live your life inside the world.  
+And your life is just to live your life inside the world.  
   
 Try not to bash into the walls too much.  
 Try to have a nice family life.  
