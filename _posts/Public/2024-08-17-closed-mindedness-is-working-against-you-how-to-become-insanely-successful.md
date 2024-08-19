@@ -35,13 +35,13 @@ You'd rather sit at the comfort of your home, order food you have no idea what w
 
 The business has found a way to make the process you would have used to prepare your own meal at home convenient to you. This is why you indulge it all the time.
 
-I let my curiosity pull me down the rabbit hole of YouTube public library to search for information on how I can get a lot of people to be aware of the my business solution. 
+I let my curiosity pull me down the rabbit hole of YouTube public library to search for information on how I can get a lot of people to be aware of my business solution. 
 
 Nobody knows you.  
   
-You have to make people aware of you.  If have a solution that is so good and nobody knows about it, how is supposed to bring change? If you have a solution that can potentially make life easy for people so that you can make a living from it and nobody knows about it you will continue to starve. 
+You have to make people aware of you.  If you have a solution that is so good and nobody knows about it, how is it supposed to bring change? If you have a solution that can potentially make life easy for people so that you can make a living from it and nobody knows about it you will continue to starve. 
 
-I found wealth of information in the YoutTube library that helped me to create a [facebook group](https://facebook.com/groups/thinkersnperformers) and build an [intimate community](https://nas.io/skillembassy) to supercharge the solution I had built.
+I found a wealth of information in the YoutTube library that helped me to create a [facebook group](https://facebook.com/groups/thinkersnperformers) and build an [intimate community](https://nas.io/skillembassy) to supercharge the solution I had built.
 
 ### Pay attention to good information.
 
