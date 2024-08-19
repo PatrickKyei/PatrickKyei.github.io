@@ -223,7 +223,7 @@ In reality, you formed your entire opinion of another human being on a post that
 
 When you adopt a higher perspective, you can start to see things for what they are.
 
-### Build A own company
+### Build A Business
 
 When the subject of starting a company is discussed, you shy away from it, because you think it is only the successful business people like Dangote, Elon Musk, Oprah Winfrey and co that should start one for themselves.
 
