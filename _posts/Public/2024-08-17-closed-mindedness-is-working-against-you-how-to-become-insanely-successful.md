@@ -225,7 +225,7 @@ When you adopt a higher perspective, you can start to see things for what they a
 
 ### Build A Business
 
-When the subject of starting a company is discussed, you shy away from it, because you think it is only the successful business people like Dangote, Elon Musk, Oprah Winfrey and co that should start one for themselves.
+When the subject of starting a business is discussed, you shy away from it, because you think it is only the successful business people like Dangote, Elon Musk, Oprah Winfrey and co that should start one for themselves.
 
 Typical thinking of the ego self.
 
