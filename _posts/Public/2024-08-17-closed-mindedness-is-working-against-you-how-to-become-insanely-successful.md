@@ -229,7 +229,7 @@ When the subject of starting a business is discussed, you shy away from it, beca
 
 Typical thinking of the ego self.
 
-Worse of all is that, you will even end up calling me a motivational speaker for asking you to start own business.
+Worse of all is that, you will even end up calling me a motivational speaker for asking you to start your own business.
 
 But listen. 
 
