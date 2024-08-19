@@ -79,7 +79,7 @@ Society conditions you to follow the same goal.
 Go to school, 
 get good grades,
 get a decent job,
-retire at 60 when you don't much time left to enjoy the resources in your retirement.
+retire at 60 when you don't have much time left to enjoy the resources in your retirement.
 
 You are conditioned to depend on everyone but yourself.
 
