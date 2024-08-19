@@ -132,7 +132,7 @@ There's no substitute for doing your own work.
   
 While I was doing my 9-5 I was spending 2-4 hours everyday learning.  
   
-If you want to get anywhere in life and you lack the skill you have to bridge the gap with self education and personal experience.  
+If you want to get anywhere in life and you lack the skill, you have to bridge the gap with self education and personal experience.  
   
 To get anywhere in life you have to work extremely hard and you have to be disciplined.  
   
