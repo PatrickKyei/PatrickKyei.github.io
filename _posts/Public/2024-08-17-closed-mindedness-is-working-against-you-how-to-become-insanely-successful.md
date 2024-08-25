@@ -225,11 +225,11 @@ When you adopt a higher perspective, you can start to see things for what they a
 
 ### Build A Business
 
-When the subject of starting a company is discussed, you shy away from it, because you think it is only the successful business people like Dangote, Elon Musk, Oprah Winfrey and co that should start one for themselves.
+When the subject of starting a business is discussed, you shy away from it, because you think it is only the successful business people like Dangote, Elon Musk, Oprah Winfrey and co that should start one for themselves.
 
 Typical thinking of the ego self.
 
-Worse of all is that, you will even end up calling me a motivational speaker for asking you to start own business.
+Worse of all is that, you will even end up calling me a motivational speaker for asking you to start your own business.
 
 But listen. 
 
@@ -295,7 +295,7 @@ If you look at the four factors above, you will notice that the last factor, is 
 
 Unfortunately, school trains you to be part of the labor market, rather than to be the entrepreneur.
 
-So you must reeducate yourself into becoming the entrepreneur, if you want to run and succeed in your own business.
+So you must re-educate yourself into becoming the entrepreneur, if you want to run and succeed in your own business.
 
 To do that, you need a few skills and then you need a big Vision.
 
