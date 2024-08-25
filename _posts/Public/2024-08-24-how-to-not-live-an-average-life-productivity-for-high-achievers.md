@@ -10,10 +10,10 @@ tags: [habit, productivity, discipline]     # TAG names should always be lowerca
 ---
 
 
-I spent 6 months to learn 6 high value skills that will the average person 36 months.
+I spent 6 months to learn 6 high value skills that will take the average person 36 months.
 
-Each course I took was estimated to be completed in 6 months if one average of 
-at 10 hours a week.
+Each course I took was estimated to be completed in 6 months if one spent average of 
+at least 10 hours a week.
 
 I knew if I had to complete the courses in record time I needed more than motivation to finish them.
 
@@ -37,7 +37,7 @@ Here's the problem: motivation changes over time. It is not a constant.
 
 You can be super motivated to start a new project one day, and by the end of the week you don’t feel like doing it any more.
 
-Goals are highly important to achieve your ideal self. The self you continue to project in your mind every day. Without goals your self will cannot actualized.
+Goals are highly important to achieve your ideal self. The self you continue to project in your mind every day. Without goals your ideal self cannot actualized.
 
 But you cannot bang on motivation to knock off all our goals that is targeted in actualizing the ideal version of you.
 
@@ -69,7 +69,7 @@ This isn’t about setting an impossible to-do list. Identify the task that, if 
 
 The power of this habit lies in its simplicity and focus.
  
-Every morning, write down your one critical task. 
+Every morning, write down one critical task. 
 
 Keep it visible as a constant reminder of what you must accomplish before the day ends.
 
@@ -81,7 +81,7 @@ Your brain is sharpest in the morning. Use these first few hours for deep work�
 
 This could be studying, reading, problem-solving, or any work that demands your mental peak.
 
-Every day I have about 3 high leverage tasks I focus on. For example, draft my newsletters, write about 3 posts to repurpose to my social media accounts (these are educational posts, awareness posts that target pain points of my target audience which continue to bring in clients) and do deep research for materials to build and refine my courses.
+Every day I have about 3 high leverage tasks I focus on. For example, I draft my newsletters, write about 3 posts to repurpose to my social media accounts (these are educational posts, awareness posts that target pain points of my target audience which continue to bring in clients) and do deep research for materials to build and refine my courses.
 
 I complete these tasks early in the morning whiles the world is still asleep.
 
@@ -99,7 +99,7 @@ Reward yourself afterward to reinforce this behavior.
 
 #### 4. Eliminate Distractions
 
-Focus is a superpower in a world full of distractions especially with social media and information bombarbing our screens everyday. If you allow distractions control your day, they’ll sap your productivity and destroy your focus.
+Focus is a superpower in a world full of distractions especially with social media and information bombarbing our screens everyday. If you allow distractions to control your day, they’ll sap your productivity and destroy your focus.
 
 Set strict boundaries with social media and other distractions. Use tools to block access during deep work hours.
 
@@ -131,7 +131,7 @@ Writing and speaking your beautiful mind to the masses through social media is h
 
 ###### 5. Practice a Growth Mindset
 
-A growth mindset is the belief that you can develop abilities through skill and distilling your experience through your life's work for people who are two steps behind you. 
+A growth mindset is the belief that you can develop abilities through skill and distill your experience through your life's work for people who are two steps behind you. 
 
 This mindset encourage a willingness to embrace challenges. 
 
@@ -149,7 +149,7 @@ Timetables, deadlines, and schedules are not restrictions—they’re tools that
 
 Plan your day the night before. Set clear deadlines for each task, and stick to them. This structure will keep you on track and prevent procrastination.
 
-If you build self-discipline muscle these habits, you’re transforming yourself into someone who can achieve anything.
+If you build self-discipline muscle with these habits, you’re transforming yourself into someone who can achieve anything.
 
 
 #### Mental Mastery
