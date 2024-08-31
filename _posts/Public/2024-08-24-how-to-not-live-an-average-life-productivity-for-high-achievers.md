@@ -1,5 +1,5 @@
 ---
-title: How To Not Live An Average (Productivity For High Achievers ) 
+title: How To Not Live An Average Life (Productivity For High Achievers ) 
 image:
   path: /assets/img/productive-mind.png
   alt: productive mind

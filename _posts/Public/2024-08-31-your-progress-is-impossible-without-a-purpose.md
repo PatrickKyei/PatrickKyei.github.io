@@ -27,7 +27,7 @@ Of course, the idea of prioritizing truth over all other considerations is a com
 
 There are often tricky situations where the truth may indeed be harmful, and where showing compassion and tempering the truth may be the wiser course of action.
 
-In all my quest for purpose-seeking and meaning in my life, I have stick to the commitment to the power and importance of truth-seeking even if that will challenge my ego or mean I have to let go of certain beliefs and ideologies.
+In all my quest for purpose-seeking and meaning in my life, I have stuck to the commitment to the power and importance of truth-seeking even if that will challenge my ego or mean I have to let go of certain beliefs and ideologies.
 
 The quest to seek out one's purpose is a thought-provoking sentiment that raises important questions about ethics, moral philosophy, and the role of truth in society.
 
