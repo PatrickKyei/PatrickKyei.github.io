@@ -10,7 +10,7 @@ categories: [Lifestyle, Entrepreneurship]
 tags: [purpose, lifestyle, entrepreneurship]     # TAG names should always be lowercase
 ---
 
-I am writing this Letter as the ideas flow, forgive my typos if you come across any.
+_I am writing this Letter as the ideas flow, forgive my typos if you come across any._
 
 > Most people, even though they don’t know it, are asleep. They’re born asleep, they live asleep, they marry in their sleep, they breed children in their sleep, they die in their sleep without ever waking up. They never understand the loveliness and the beauty of this thing that we call human existence. – Anthony De Mello
 
