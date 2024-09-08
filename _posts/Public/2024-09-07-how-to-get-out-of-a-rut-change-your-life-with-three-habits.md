@@ -87,17 +87,17 @@ What if this lifestyle is a distraction from your *true purpose*?
 
 ### A Call To Wake Up
 
-1. **Stop living on autopilot.**
-   - The first step is realizing you’re asleep. Are you making choices that *truly* align with your values, or are you just following the crowd?
+1. **Stop living on autopilot.** 
+   The first step is realizing you’re asleep. Are you making choices that *truly* align with your values, or are you just following the crowd?
 
-2. **Question everything.**
-   - Every decision, every belief, every habit — is it yours, or is it something you’ve inherited from the social condition you find yourself?
+2. **Question everything.** 
+   Every decision, every belief, every habit — is it yours, or is it something you’ve inherited from the social condition you find yourself?
 
-3. **Dare to do more.**
-   - Face your hard truths, break free from the script you have been assigned, and find your own path. This is the only way to live fully.
+3. **Dare to do more.** 
+   Face your hard truths, break free from the script you have been assigned, and find your own path. This is the only way to live fully.
 
-4. **See the world with fresh eyes.**
-   - The beauty of human existence isn’t in the mundane routine. It’s in the small moments — the conversations, the sunsets, the laughter, and the challenges that shape you.
+4. **See the world with fresh eyes.** 
+   The beauty of human existence isn’t in the mundane routine. It’s in the small moments — the conversations, the sunsets, the laughter, and the challenges that shape you.
 
 Discover the beauty of *conscious* living.
 
@@ -363,5 +363,5 @@ Take control and create the future you want, ditch the victim mentality.
 
 Thanks for reading.
 
- - Patrick 
+ -Patrick 
 
