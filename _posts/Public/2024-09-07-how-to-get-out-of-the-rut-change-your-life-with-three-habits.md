@@ -1,5 +1,5 @@
 ---
-title: How To Get Yourself Out Of A Rut ( Change Your Life With Three Habits )
+title: How To Get Yourself Out Of The Rut ( Change Your Life With Three Habits )
 image:
   path: /assets/img/3-habits.png
   alt: 3 habits
