@@ -23,7 +23,7 @@ Most people will never wake up to the beauty of their own existence. They never 
 
 Most people are following the same script society set  for them.
 
-The moment you are born and you are taught to use your first meaningful words you told to go to school, get a job, get married, have kids, retire at 65 or whatever age and wait for your death.
+The moment you are born and you are taught to use your first meaningful words you are told to go to school, get a job, get married, have kids, retire at 65 or whatever age and wait for your death.
 
 Now let me ask you — how much of that journey was conscious?
 
@@ -39,7 +39,7 @@ The social fabric is a groundless web of ideas that allows society to operate co
 
 The government and culture influence the school system. The school system creates resources for students to learn from. The students don’t question what they’re taught. The students go on to be parents. The parents teach their children what they know and send them to school. The children make friends and conform further to fit in. The children grow up, get jobs, become teachers, become parents, become politicians, and create the knowledge and resources online and offline that influence culture. The parents, students, and children vote. The cycle continues to create the society we live in.
 
-Your mind is programmed at birth to see live life in a certain. Limits are imposed on your potential and so you see yourself as not qualified to take on the daring tasks in life which can guarantee your freedom. 
+Your mind is programmed at birth to see live life in a certain way. Limits are imposed on your potential and so you see yourself as not qualified to take on the daring tasks in life which can guarantee your freedom. 
 
 You depend on your parents for what you wear.
 
@@ -54,21 +54,26 @@ You depend on everyone but yourself.
 
 The essence of experience, life, and science is trial and error. You cannot take ideas, opinions, or advice as law without the filter of direct experience. Even if that advice is my own. 
 
-When reading this these letters, hold all of what I say in the realm of possibility until filtered through direct experience. You need to make mistakes through action: identify problems, solve them, and make your process more efficient by creating a system that you can follow, spot novel problems, fix them as they arise, and evolve when the system inevitably loses its power to get results. Systems allow us to invest our mental energy in a more efficient manner through problem-solving on the path toward our goals
+When reading this **Letters**, hold all of what I say in the realm of possibility until filtered through direct experience. You need to make mistakes through action: identify problems, solve them, and make your process more efficient by creating a system that you can follow, spot novel problems, fix them as they arise, and evolve when the system inevitably loses its power to get results. Systems allow us to invest our mental energy in a more efficient manner through problem-solving on the path toward our goals
 
-If these goals, systems, and problems along the way are not conscious, you can imagine the consequences. Humans are creatures of habit. 
+If these goals, systems, and problems along the way are not conscious, you can imagine the consequences. 
+
+Humans are creatures of habit. 
 
 Without a conscious goal, we will pursue one that makes survival seem easy and comfortable, leading to expectations that don’t align with reality. Without a conscious system, we will adopt the habits, beliefs, and opinions of those around us and utilize them to reinforce our unconscious path in life. Without making the problems that arise conscious, we will adopt a victim mentality, reject our ability to change who we are, and have our attention manhandled by others’ goals. 
 
-Without questioning our path in life, the “safe and secure” route that is marketed to us at birth and beyond will become the default option. Beliefs are conditioned into our habit-loving brains. Beliefs influence our thoughts. How we interpret those thoughts influences our state of mind. Our state of mind influences our actions. Our actions compound into our future self. Our future self may not be one of our own creation, and that is the source of the concept of evil.
+Without questioning our path in life, the “safe and secure” route that is marketed to us at birth and beyond will become the default option. 
+
+Beliefs are conditioned into our habit-loving brains. Beliefs influence our thoughts. How we interpret those thoughts influences our state of mind. Our state of mind influences our actions. Our actions compound into our future self. Our future self may not be one of our own creation, and that is the source of the concept of evil.
 
 
 "Let's build a system to keep them busy! 
 That way, they will forget about their dreams and life goals!"
 
-If you feel like you're stuck in a cycle. Wake up.
-
+If you feel like you're stuck in a cycle. 
 Work. Sleep. Repeat.
+
+Wake up.
 
 The system is designed to keep people occupied — so busy that they forget to question *why* thy're doing what they do every day.
 
@@ -134,7 +139,7 @@ Knowledge compounds, skills compound, good habits in general compound.
 This is why I am a big advocate of a personal brand and [micro business solutions](https://nas.io/skillembassy/products/gyjm). Your interests change. Your skills, knowledge, experience, awareness, and network compounds. You are a human. Humans evolve. Your business evolves with you if you follow this path. In fact, it is the vessel for accelerated evolution.
 
 
-### Reading. Read to Gather Ideas 
+### 1. Reading. Read to Gather Ideas 
 
 > Knowledge makes a man unfit to be a slave
 
@@ -146,9 +151,9 @@ At a young age, we transcend the need for physical survival. We don’t have to 
 
 This is easily noticeable across religion, politics, and niche communities like coffee drinkers. If you are conditioned into a religious belief system, you will feel threatened when someone challenges those beliefs. Like a mouse in the binds of a snake, you will lash out and attempt to reproduce the ideas in your head by telling them they are wrong.
 
- Party A and Party B are in a war of opposing ideas they are attached to. 
+- Party A and Party B are in a war of opposing ideas they are attached to. 
  
- They feel physically threatened when someone challenges their beliefs.
+They feel physically threatened when someone challenges their beliefs.
 - If your favorite sports team loses, or somebody says they’re a bad team, how do you feel? Is your survival actually at stake? Or do you not see how silly you are being over a fabricated idea?
 - When you gain weight, do you stress about the physical weight on your body? Or do you stress that the idea of your identity as a healthy individual will die?
 
@@ -174,7 +179,7 @@ Reading is the ultimate life-hack for productivity.
 
 It rewires your brain, expands your perspective and fuels your creativity.
 
-Reading is how you discover ideas beyond your mental conditioning. But most people stop learning after graduation. The school system made hate reading.
+Reading is how you discover ideas beyond your mental conditioning. But most people stop learning after graduation. The school system made you hate reading.
 
 Schools don’t prioritize curiosity, so most people hate learning by the time they graduate.
 
@@ -214,7 +219,7 @@ Read.
 
 One that builds your mind.
 One that builds your business.
-One that redefine your relationship with life.
+One that redefines your relationship with life.
 
 I’m always reading 3 books.  
   
@@ -228,7 +233,7 @@ Current reads:
 • Atomic Habits  
 • Second Brain
 
-I know that CHANGE takes time. It will take you some time to adapt to this lifestyle but you put in the effort.
+I know that CHANGE takes time. It will take you some time to adapt to this lifestyle but you must put in the effort.
 
 Meaningful change does not require radical change.
 
@@ -246,7 +251,7 @@ We do not change by snapping our fingers and deciding to be someone entirely new
 
 We change bit by bit, day by day, habit by habit. We are continually undergoing microevolutions of the self.
 
-### Write. Write To Organize Ideas
+### 2. Write. Write To Organize Ideas
 
 Writing is how you make the unconscious conscious.
 
@@ -254,7 +259,7 @@ Writing is how you pull your deepest thoughts out of the fog and into the light.
 
 Writing is how you gain control over your mind instead of letting it control you.
 
-They’re programmed to exist in the game of life. They wake up, work, consume, sleep, and repeat, never once stopping to question their thoughts, actions, or beliefs. They have zero conscious thought. 
+People are programmed to exist in the game of life. They wake up, work, consume, sleep, and repeat, never once stopping to question their thoughts, actions, or beliefs. They have zero conscious thought. 
 
 You can interact with them, but they remain the same. They never level up
 
@@ -306,7 +311,7 @@ So, in addition to every morning, one of my major contemplative habits is to wri
 
 > I've discovered that writing down my thoughts helps me comprehend why I have that idea; it forces me to think a little more thoroughly, such as, "why did I believe this idea an absolute truth?" And while they might be difficult at times, they have proven to be the most significant.
 
-### Build. Build To Expand Ideas
+### 3. Build. Build To Expand Ideas
 
 The worst aspect of death is to die with your ideas, that would have impacted the world in no small way.
 
@@ -322,7 +327,7 @@ It’s a form of bad mental conditioning that keeps people stuck in a cycle of d
 
 You've been sold the idea that entrepreneurship is for a select few. 
 
-That only certain people have what it takes. The rest? They should stick to working for someone else, following the path laid out for them. 
+That only certain people have what it takes. The rest? They should stick to working for someone else, following the path laid out for them?
 
 This is limiting belief. It’s a mental framework designed to breed interdependence on others instead of empowering people to carve out their own paths.
 
