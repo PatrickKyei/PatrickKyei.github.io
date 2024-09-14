@@ -123,7 +123,7 @@ If you can’t set aside 1 hour each morning, when distractions are minimal, to 
 
 If you want, you can learn the high-value skill of digital writing with my book, [Value Creator Champions Writing Playbook](https://nas.io/skillembassy/products/lsyr), to build a future in the new economy.
 
-### Have Longterm Plan
+### Have A Longterm Plan
 
 You are in this chaotic spot in life because of distractions.
 
