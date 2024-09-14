@@ -179,7 +179,7 @@ You make money by starting a business.
 
 You make money by distributing a product with a price tag on it so people can pay you for it.
 
-Thinking that you don’t have to build a product is foolish. I know some of you will only understand this if I’m harsh with you… so, stop being a dumb ass and finally realize that you need a _product_ and _people_ in the form of an _audience_ to _pay_ you for that _product_.
+Thinking that you don’t have to build a product is foolish. I know some of you will only understand this if I’m harsh with you… so, stop being a dumb ass and finally realize that you need a _product_ and _people_ in the form of an [audience](https://nas.io/skillembassy/challenges/0-10k-sprint3) to _pay_ you for that _product_.
 
 Then, and only then, once you have a minimum of Ghc 10,000 to Ghc 30,000 a month should you think about investing capital as leverage to make more money from it. This is not a hard rule, but it’s wise to treat it as one so you maintain some sense of order in your mind in this journey. Don’t get distracted.
 
