@@ -1,5 +1,6 @@
 ---
 title: Unfollow The Mass Heading Towards The Cliff To Destruction (They Lied To You)
+image:
   path: /assets/img/systematic-lies.png
   alt: sytematic lies
   description: 
@@ -205,4 +206,8 @@ Develop your discipline muscle, challenge your limiting beliefs, and practice se
 As your mental state sharpens, your decisions, habits, and outcomes will align with the life you want. 
 
 Transformation starts in the mind.
+
+Thanks for reading.
+
+ -Patrick 
 
