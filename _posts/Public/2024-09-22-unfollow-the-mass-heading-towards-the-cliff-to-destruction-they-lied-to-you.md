@@ -1,6 +1,5 @@
 ---
-title: You Need 1 Hour Of Deep Focused Work (How To Actually Grow Rich)
-image:
+title: Unfollow The Mass Heading Towards The Cliff To Destruction (They Lied To You)
   path: /assets/img/systematic-lies.png
   alt: sytematic lies
   description: 
