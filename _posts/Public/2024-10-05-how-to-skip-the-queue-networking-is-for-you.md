@@ -1,5 +1,5 @@
 ---
-title: Strangers Will Make You Rich
+title: How To Skip The Queue (Networking Is For You)
 image:
   path: /assets/img/social-networking.png
   alt: Social Networking
