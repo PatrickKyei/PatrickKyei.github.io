@@ -5,7 +5,7 @@ image:
   alt: Social Networking
   description: 
   feed: show
-date: 2024-10-05 07:00:00 +00
+date: 2024-10-13 07:00:00 +00
 categories: [Entrepreneurship, Self Mastery]
 tags: [self mastery, productivity, entrepreneurship]     # TAG names should always be lowercase
 ---
