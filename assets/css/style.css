@@ -113,6 +113,14 @@ html[data-theme="dark"] {
     --padding-normal: 1.2rem;
     --padding-broad: 2rem;
     --padding-thin: 0.8rem;
+    --color-bg-main: #000000;
+    --color-bg-sub: #000000;
+    --color-text-main: #FAFAFC;
+    --color-text-sub: #FFFEFF;
+    --color-text-link: #6D9EFF;
+    --color-border-dark: #E6E6E6;
+    --color-border: #696969;
+    --color-border-light: #353535;
 }
 
 /* 02. Typography */
