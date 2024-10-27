@@ -2,17 +2,11 @@
 <html lang="en">
 
 <head>
+    <!-- Basic Meta Tags -->
     <meta content="width=device-width, initial-scale=1" name="viewport" />
     <meta content="Patrick Kyei" property="og:site_name" />
-    <meta
-        content="Patrick Kyei — Build Your Internet Career"
-        property="og:description">
-    <meta content="{{ site.url }}/about/" property="article:author">
-    <meta property="og:image" content="../assets/img/OGImg.png">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600&display=swap"
-        rel="stylesheet">
+    
+    <!-- Dynamic Title and URL -->
     {%- if page.title -%}
     <meta content="{{ page.title }}" property="og:title">
     <meta content="article" property="og:type">
@@ -21,49 +15,52 @@
     <meta content="website" property="og:type">
     <meta content="{{ site.url }}{{ page.url }}" property="og:url">
     {%- endif -%}
-    <meta property="og:image" content="{{ page.image }}" />
-    <meta property="og:description" content="{{ page.excerpt }}" />
+    
+    <!-- Open Graph: Image, Description, Author -->
+    <meta property="og:image" content="{{ page.image.path | absolute_url }}" />
+    <meta property="og:image:alt" content="{{ page.image.alt }}" />
+    <meta property="og:description" content="{{ page.excerpt | default: 'Check out this post on ' | append: site.title }}" />
+    <meta content="{{ site.url }}/about/" property="article:author">
 
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="{{ page.title }}" />
+    <meta name="twitter:description" content="{{ page.excerpt | default: 'Check out this post on ' | append: site.title }}" />
+    <meta name="twitter:image" content="{{ page.image.path | absolute_url }}" />
 
-    <!-- here goes post link image previews -->
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600&display=swap" rel="stylesheet">
 
-        <!-- Open Graph Meta Tags for Social Media Previews -->
-        <meta property="og:title" content="{{ page.title }}" />
-        <meta property="og:type" content="article" />
-        <meta property="og:url" content="{{ page.url | absolute_url }}" />
-        
-        <!-- Use the image from the post's front matter -->
-        <meta property="og:image" content="{{ page.image.path | absolute_url }}" />
-        <meta property="og:image:alt" content="{{ page.image.alt }}" />
-        
-        <!-- Set the description to either the excerpt or a default description -->
-        <meta property="og:description" content="{{ page.excerpt | default: 'Check out this post on ' | append: site.title }}" />
-      
-        <!-- Twitter Card Tags (Optional) -->
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="{{ page.title }}" />
-        <meta name="twitter:description" content="{{ page.excerpt | default: 'Check out this post on ' | append: site.title }}" />
-        <meta name="twitter:image" content="{{ page.image.path | absolute_url }}" />
-      
+    <!-- Page Title -->
+    <title>{{ page.title }} - {{ site.heading }}</title>
 
-    <title>{{page.title}} - {{site.heading}}</title>
-    <script data-host="https://microanalytics.io" data-dnt="false" src="https://microanalytics.io/js/script.js" id="ZwSg9rf6GA" async defer></script>
-    <link rel="canonical" href="{{site.url}}{{page.url}}" />
+    <!-- Canonical Link -->
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+
+    <!-- Favicons -->
     <link rel="apple-touch-icon" href="{{ site.baseurl }}/assets/img/favicons/apple-touch-icon.png">
     <link rel="icon" href="{{ site.baseurl }}/assets/img/favicons/favicon-16x16.png" type="image/png" sizes="16x16" />
-    <link href="{{ site.baseurl }}/assets/css/style.css" rel="stylesheet" media="all" class="default" />
-    <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet" media="all" class="default" />
-    <link href="{{ site.baseurl }}/assets/css/Util.css" rel="stylesheet" media="all" class="default" />    <link href="{{ site.baseurl }}/assets/css/vendor/Katex.css" rel="stylesheet" media="all" class="default" />
 
-    
-      
+    <!-- Stylesheets -->
+    <link href="{{ site.baseurl }}/assets/css/style.css" rel="stylesheet" media="all" />
+    <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet" media="all" />
+    <link href="{{ site.baseurl }}/assets/css/Util.css" rel="stylesheet" media="all" />
+    <link href="{{ site.baseurl }}/assets/css/vendor/Katex.css" rel="stylesheet" media="all" />
 
+    <!-- IE-specific Stylesheet -->
     <!--[if IE]>
         <link href="/assets/css/ie-target.css" rel="stylesheet" type="text/css"/>
     <![endif]-->
-    <!--<link href="/assets/css/prism.css" rel="stylesheet" />-->
+
+    <!-- Analytics -->
+    <script data-host="https://microanalytics.io" data-dnt="false" src="https://microanalytics.io/js/script.js" id="ZwSg9rf6GA" async defer></script>
+
+    <!-- RSS Feed -->
     <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml">
 </head>
+
 
 <body>
     <main>
