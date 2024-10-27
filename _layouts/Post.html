@@ -24,6 +24,28 @@
     <meta property="og:image" content="{{ page.image }}" />
     <meta property="og:description" content="{{ page.excerpt }}" />
 
+
+    <!-- here goes post link image previews -->
+
+        <!-- Open Graph Meta Tags for Social Media Previews -->
+        <meta property="og:title" content="{{ page.title }}" />
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="{{ page.url | absolute_url }}" />
+        
+        <!-- Use the image from the post's front matter -->
+        <meta property="og:image" content="{{ page.image.path | absolute_url }}" />
+        <meta property="og:image:alt" content="{{ page.image.alt }}" />
+        
+        <!-- Set the description to either the excerpt or a default description -->
+        <meta property="og:description" content="{{ page.excerpt | default: 'Check out this post on ' | append: site.title }}" />
+      
+        <!-- Twitter Card Tags (Optional) -->
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="{{ page.title }}" />
+        <meta name="twitter:description" content="{{ page.excerpt | default: 'Check out this post on ' | append: site.title }}" />
+        <meta name="twitter:image" content="{{ page.image.path | absolute_url }}" />
+      
+
     <title>{{page.title}} - {{site.heading}}</title>
     <script data-host="https://microanalytics.io" data-dnt="false" src="https://microanalytics.io/js/script.js" id="ZwSg9rf6GA" async defer></script>
     <link rel="canonical" href="{{site.url}}{{page.url}}" />

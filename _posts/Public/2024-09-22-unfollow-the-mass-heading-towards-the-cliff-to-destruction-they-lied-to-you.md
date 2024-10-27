@@ -3,7 +3,7 @@ title: Unfollow The Mass Heading Towards The Cliff To Destruction (They Lied To 
 image:
   path: /assets/img/systematic-lies.png
   alt: sytematic lies
-  description: 
+  excerpt: 
   feed: show
 date: 2024-09-22 07:00:00 +00
 categories: [Entrepreneurship, Self Mastery]
