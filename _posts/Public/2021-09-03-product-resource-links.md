@@ -21,17 +21,13 @@ If you find something which doesn't make sense, or something which is missing, p
 ## For Product Designers
 
 * [All In One Design Resources](https://www.evernote.design/categories/design-tools/)
-
 * [Designer Roadmap](https://roadmap.sh/)
-
 * [Create Prototypes](https://humbleux.com)
 
 ### Design Systems
 
 * [Material Design - Google](https://material.io/design)
-
 * [Human Interface Guidelines - Apple](https://developer.apple.com/design/)
-
 * [Atlassian Design System - Atlassion](https://atlassian.design/)
 
 * [Carbon Design System - IBM](https://www.carbondesignsystem.com/)
