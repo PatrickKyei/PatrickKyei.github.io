@@ -33,6 +33,21 @@ layout: Stylesheet
     margin-left: 10px; /* Adjust if needed for additional spacing */
   }
 
+  /* Subcription wrapper */
+
+  .iframe-wrapper {
+    max-width: 100%;
+    overflow: hidden;
+  }
+  
+  .iframe-wrapper iframe {
+    width: 100%;
+    height: 150px;
+    border: 1px solid #000; /* or #EEE based on design */
+    background: black; /* or white */
+  }
+  
+
 
 /* mute light mode */
 
