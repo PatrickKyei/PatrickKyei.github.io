@@ -10,7 +10,10 @@
 
     <div id="posts-container" class="columns is-multiline">
       {% for post in site.posts %}
-      <div class="column is-one-third-desktop is-half-tablet is-full-mobile post-item" style="{% if forloop.index > 6 %}display: none;{% endif %}">
+      <div
+        class="column is-one-third-desktop is-half-tablet is-full-mobile post-item"
+        style="{% if forloop.index > 6 %}display: none;{% endif %}"
+      >
         <div class="card">
           <div class="card-image">
             <a href="{{ post.url }}">
@@ -22,26 +25,38 @@
           <div class="card-content">
             <div class="media">
               <div class="media-content">
-                <a href="{{ post.url }}" class="title is-4">{{ post.title }}</a>
+                <a href="{{ post.url }}">
+                  <h3 class="title is-5 has-text-white mb-2">
+                    {{ post.title }}
+                  </h3>
+                </a>
               </div>
             </div>
 
             {% if post.description %}
-            <div class="is-size-7">{{ post.description }}</div>
-          {% else %}
-            <div class="is-size-7">{{ post.excerpt | strip_html | truncate: 150, "..." }}</div>
-          {% endif %}
-          
-          
+            <p class="has-text-grey-light is-size-6 line-clamp">
+              {{ post.description }}
+            </p>
+            {% else %}
+            <p class="has-text-grey-light is-size-6 line-clamp">
+              {{ post.excerpt | strip_html | truncate: 150, "..." }}
+            </p>
+            {% endif %}
 
             <div>
               <a href="{{ post.url }}">Read Full Post</a>
             </div>
 
             <div class="is-flex is-justify-content-space-between is-size-7">
-              <p class="author-name">{{ post.author | default: site.author }}</p>
-              
-              <p><time datetime="{{ post.date }}" class="post-date">{{ post.date | date: "%B %d, %Y" }}</time></p>
+              <p class="author-name">
+                {{ post.author | default: site.author }}
+              </p>
+
+              <p>
+                <time datetime="{{ post.date }}" class="post-date"
+                  >{{ post.date | date: "%B %d, %Y" }}</time
+                >
+              </p>
             </div>
           </div>
         </div>
@@ -56,18 +71,22 @@
 </section>
 
 <script>
-  document.addEventListener("DOMContentLoaded", function() {
+  document.addEventListener("DOMContentLoaded", function () {
     const loadMoreBtn = document.getElementById("load-more");
     const postsContainer = document.getElementById("posts-container");
-    let postItems = Array.from(postsContainer.getElementsByClassName("post-item"));
+    let postItems = Array.from(
+      postsContainer.getElementsByClassName("post-item")
+    );
     let visiblePosts = 6;
 
-    loadMoreBtn.addEventListener("click", function() {
+    loadMoreBtn.addEventListener("click", function () {
       const totalPosts = postItems.length;
       visiblePosts += 3;
-      postItems.slice(0, visiblePosts).forEach(item => item.style.display = 'block');
+      postItems
+        .slice(0, visiblePosts)
+        .forEach((item) => (item.style.display = "block"));
       if (visiblePosts >= totalPosts) {
-        loadMoreBtn.style.display = 'none';
+        loadMoreBtn.style.display = "none";
       }
     });
   });
