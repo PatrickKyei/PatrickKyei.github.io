@@ -1,9 +1,9 @@
 ---
 title: Take Responsibility For The Outcome Of Your Life (Pursue Self Generated Goals)
+description: "Since we were born, we go to school to learn things we don't care about to get a job we don't care about to wind up in a life we don't care about."
 image:
   path: /assets/img/self-generated-goals.png
   alt: 180 Days
-  excerpt: Since we were born, we go to school to learn things we don't care about to get a job we don't care about to wind up in a life we don't care about.
   feed: show
 date: 2025-01-04 07:00:00 +00
 categories: [Entrepreneurship, Self Mastery]

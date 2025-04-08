@@ -26,7 +26,13 @@
               </div>
             </div>
 
-            <div class="is-size-7">{{ post.excerpt | strip_html }}</div>
+            {% if post.description %}
+            <div class="is-size-7">{{ post.description }}</div>
+          {% else %}
+            <div class="is-size-7">{{ post.excerpt | strip_html | truncate: 150, "..." }}</div>
+          {% endif %}
+          
+          
 
             <div>
               <a href="{{ post.url }}">Read Full Post</a>
