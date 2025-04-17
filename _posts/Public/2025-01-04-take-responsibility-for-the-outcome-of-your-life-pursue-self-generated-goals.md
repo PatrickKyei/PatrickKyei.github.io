@@ -50,6 +50,7 @@ What tends to happen is that your subconscious is driving a lot of what you do t
 When things are happening subconsciously, it means that when you’re executing your morning routine or when you’re even having a conversation with a friend, you’re not breaking a lot of the things and behaviors that are happening there down in your mind and saying, _“Okay, I need to pull out the toothbrush, put the toothpaste on it, stick it in my mouth, scrape it around for five minutes, then pull it out and rinse.”_
 
 Now do you see how your subconscious mind plays a major role in your life? If you are not aware of what is going on in there.
+
 ## Reprogram Your Mind
 
 Your mind is the operating system for reality.
@@ -90,7 +91,6 @@ From that information, you will interpret life differently from everyone else. U
 
 I made a post on my [Facebook wall](https://facebook.com/thepatrickkyei):
 
-[image]()
 
 Interestingly, one user wrote, "Data is not free."
 
