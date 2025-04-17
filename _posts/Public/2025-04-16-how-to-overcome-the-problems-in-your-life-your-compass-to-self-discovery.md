@@ -25,7 +25,7 @@ We live in a delusion that we want to make progress without it being hard. Peopl
 
 Reality is experience.
 
-![Algorithm Of Life](assets/img/algorithmOfLife.png)
+![Algorithm Of Life](/assets/img/algorithmOfLife.png)
 
 
 Everything is experience and all concepts, knowledge, etc are layers over experience.
