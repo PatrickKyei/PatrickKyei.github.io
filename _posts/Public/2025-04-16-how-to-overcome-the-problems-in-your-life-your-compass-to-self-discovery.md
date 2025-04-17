@@ -2,7 +2,7 @@
 title: How To Overcome The Problems In Your Life (Your Compass To Self Discovey)
 description: "Everything is experience and all concepts, knowledge, etc are layers over experience. Reality, which is individual reality is an everflowing quality of experience."
 image:
-  path: /assets/img/overcome-problem.png
+  path: /assets/img/overcome-problems.png
   alt: overcome problems
   feed: show
 date: 2025-04-16 07:00:00 +00
