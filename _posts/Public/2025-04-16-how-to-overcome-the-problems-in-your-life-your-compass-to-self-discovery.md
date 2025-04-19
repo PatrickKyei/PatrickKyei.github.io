@@ -10,7 +10,7 @@ categories: [Productivity, Self Mastery]
 tags: [self mastery, productivity, lifestyle design]     # TAG names should always be lowercase
 ---
 
-{% include embed/youtube.html id='q0Fjt7xsIxP2qROQ' %}
+{% include embed/youtube.html id='GtTIxngrdk0' %}
 
 
 
