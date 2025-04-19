@@ -185,7 +185,7 @@ You just need to focus.
 
 P.S. If you want to build a profitable brand so that you can eventually do what you love, enroll in the upcoming [30 Days Brand Challenge](https://nas.io/checkout-global?communityId=63cca6ba6b6b7d12431df1eb&communityCode=CAREERS_IN_TECH&requestor=signupRequestor&sourceInfoType=challenge&sourceInfoOrigin=66f95f500bf20d6dbafa4c65) and turn your brand into a money printing machine. The cool thing is that you can pay for anything you want.
 
-For starters take the FREE [Online Marketing For Beginners](https://nas.io/skillembassy/products/wtxn). You’ll learn what have been hidden from you for years and see many ways you can make money in your 20’s.
+For starters take the FREE [Online Marketing For Beginners](https://selar.co/creators-marketing). You’ll learn what have been hidden from you for years and see many ways you can make money in your 20’s.
 
 ---
 
