@@ -10,38 +10,6 @@ categories: [Entrepreneurship, Self Mastery]
 tags: [self mastery, productivity, entrepreneurship]     # TAG names should always be lowercase
 ---
 
-
-
-I am sharing these lists with you because I wished someone had told me this earlier on in my career. That I could make millions in my 20’s. The conventional and old ways of saving pennies and investing it in real estate or the stock market no longer works. Investment is for those who have a hefty cash flow to invest. For starters, what I am about to share with you is the most accessible way to make millions in your 20’s and 30’s. If you lock in, your 2025 is going to be completely different.
-
-After watching these YouTube lectures and practicing the lessons for 6 - 18 months consistently and you don’t become a millonaire, come back and I’ll refund everything you spent. And I hope after today, I have opened your mind to a whole new world of infinite possibilities.
-
-0- [The Value Creator (A New Internet Career Path For Intelligent People)](https://youtu.be/PhbJLu0RFHQ?si=TnU57NvsZNiOgc6n)
-
-1- [Navl Ravikant ( how to get rich without getting lucky)](https://youtu.be/1-TZqOsVCNM?si=Q-qLHDG3RGmuRi38)
-
-2- [Navel Ravikant ( with Joe Rogan)](https://youtu.be/3qHkcs3kG44?si=O2JdR7krHmHF73FI)
-
-[3-](https://youtu.be/3qHkcs3kG44?si=O2JdR7krHmHF73FI3-) [James Clear ( atomic Habits) Daily stoic podcast](https://youtu.be/0QKd-ulbH5E?si=Zv_OCKOQzHqAqpRH)
-
-[4-](https://youtu.be/0QKd-ulbH5E?si=Zv_OCKOQzHqAqpRH4-) [Jordan Peterson (modern Wisdon )](https://youtu.be/WEP5ubPMGDU?si=P9fuuSNos97I3ZbB)
-
-[5-](https://youtu.be/WEP5ubPMGDU?si=P9fuuSNos97I3ZbB5-) [Rob Dyrdek (My first Million)](https://youtu.be/3pAMJ2WHjp4?si=bP8OCujfGAt1vZoe)
-
-[6-](https://youtu.be/3pAMJ2WHjp4?si=bP8OCujfGAt1vZoe6-) [Anddy Frisella ( You are in Control) On TheDanny Miranda Podcast](https://youtu.be/tGd5uKHxOsM?si=sycmxGhfQKmKFrCh)
-
-[7-](https://youtu.be/tGd5uKHxOsM?si=sycmxGhfQKmKFrCh7-) [Seth Godin On the Tim Ferriss Show](https://youtu.be/HekHk6yLmF0?si=xjNxhHXy5ijgXMj4)
-
-[8](https://youtu.be/HekHk6yLmF0?si=xjNxhHXy5ijgXMj48)[-](https://youtu.be/tGd5uKHxOsM?si=sycmxGhfQKmKFrCh7-) [Alex Hormozi ( you are not doing enough)Modern Wisdom](https://youtu.be/M4PzOjM5BJQ?si=VK6v86V_hwC2Xl_9)
-
-[9-](https://youtu.be/M4PzOjM5BJQ?si=VK6v86V_hwC2Xl_99-) [Scott Galloway ( They are keeping you broke ) Impact theory](https://youtu.be/KVaUG3PUjcw?si=omuB0SLgu5t-O_WP)
-
-[10-](https://youtu.be/KVaUG3PUjcw?si=omuB0SLgu5t-O_WP10-) [Navl Ravikant ( Get Rich and be happy ) On the Tim Ferriss Show](https://youtu.be/HiYo14wylQw?si=TCBxP9dQVGXGSeNR)
-
-[11-](https://youtu.be/HiYo14wylQw?si=TCBxP9dQVGXGSeNR11-) [Codie Sabchez ( Hard work doesn't buildwealth) Diary of CEO](https://youtu.be/XkxZCJ2pYqs?si=aNe1_ipR-bcTECuF)
-
----
-
 The thing is, we’re not in the industrial age anymore, we’re in the information age.  
   
 Getting a job and investing your savings isn’t the only option.  
@@ -217,6 +185,62 @@ You just need to focus.
 
 P.S. If you want to build a profitable brand so that you can eventually do what you love, enroll in the upcoming [30 Days Brand Challenge](https://nas.io/checkout-global?communityId=63cca6ba6b6b7d12431df1eb&communityCode=CAREERS_IN_TECH&requestor=signupRequestor&sourceInfoType=challenge&sourceInfoOrigin=66f95f500bf20d6dbafa4c65) and turn your brand into a money printing machine. The cool thing is that you can pay for anything you want.
 
-For starters take the FREE [Online Making For Beginners](https://nas.io/skillembassy/products/wtxn). You’ll learn what have been hidden from you for years and see many ways you can make money in your 20’s.
+For starters take the FREE [Online Marketing For Beginners](https://nas.io/skillembassy/products/wtxn). You’ll learn what have been hidden from you for years and see many ways you can make money in your 20’s.
+
+---
+
+I am sharing these lists with you because I wished someone had told me this earlier on in my career. That I could make millions in my 20’s. The conventional and old ways of saving pennies and investing it in real estate or the stock market no longer works. Investment is for those who have a hefty cash flow to invest. For starters, what I am about to share with you is the most accessible way to make millions in your 20’s and 30’s. If you lock in, your 2025 is going to be completely different.
+
+After watching these YouTube lectures and practicing the lessons for 6 - 18 months consistently and you don’t become a millonaire, come back and I’ll refund everything you spent. And I hope after today, I have opened your mind to a whole new world of infinite possibilities.
+
+0- [The Value Creator (A New Internet Career Path For Intelligent People)](https://youtu.be/PhbJLu0RFHQ?si=TnU57NvsZNiOgc6n)
+
+{% include embed/youtube.html id='PhbJLu0RFHQ' %}
+
+1- [Navl Ravikant ( how to get rich without getting lucky)](https://youtu.be/1-TZqOsVCNM?si=Q-qLHDG3RGmuRi38)
+
+{% include embed/youtube.html id='1-TZqOsVCNM' %}
+
+2- [Navel Ravikant ( with Joe Rogan)](https://youtu.be/3qHkcs3kG44?si=O2JdR7krHmHF73FI)
+
+{% include embed/youtube.html id='3qHkcs3kG44' %}
+
+[3-](https://youtu.be/0QKd-ulbH5E?si=Zv_OCKOQzHqAqpRH-) [James Clear ( atomic Habits) Daily stoic podcast](https://youtu.be/0QKd-ulbH5E?si=Zv_OCKOQzHqAqpRH)
+
+{% include embed/youtube.html id='0QKd-ulbH5E' %}
+
+[4-](https://youtu.be/WEP5ubPMGDU?si=P9fuuSNos97I3ZbB) [Jordan Peterson (modern Wisdon )](https://youtu.be/WEP5ubPMGDU?si=P9fuuSNos97I3ZbB)
+
+{% include embed/youtube.html id='WEP5ubPMGDU?si=P9fuuSNos97I3ZbB)
+' %}
+
+[5-](hhttps://youtu.be/3pAMJ2WHjp4?si=bP8OCujfGAt1vZoe) [Rob Dyrdek (My first Million)](https://youtu.be/3pAMJ2WHjp4?si=bP8OCujfGAt1vZoe)
+
+{% include embed/youtube.html id='3pAMJ2WHjp4' %}
+
+[6-](https://youtu.be/tGd5uKHxOsM?si=sycmxGhfQKmKFrCh) [Anddy Frisella ( You are in Control) On TheDanny Miranda Podcast](https://youtu.be/tGd5uKHxOsM?si=sycmxGhfQKmKFrCh)
+
+{% include embed/youtube.html id='tGd5uKHxOsM' %}
+
+[7-](https://youtu.be/HekHk6yLmF0?si=xjNxhHXy5ijgXMj4) [Seth Godin On the Tim Ferriss Show](https://youtu.be/HekHk6yLmF0?si=xjNxhHXy5ijgXMj4)
+
+{% include embed/youtube.html id='HekHk6yLmF0' %}
+
+[8](https://youtu.be/M4PzOjM5BJQ?si=VK6v86V_hwC2Xl_9) [Alex Hormozi ( you are not doing enough)Modern Wisdom](https://youtu.be/M4PzOjM5BJQ?si=VK6v86V_hwC2Xl_9)
+
+{% include embed/youtube.html id='M4PzOjM5BJQ' %}
+
+[9-](https://youtu.be/KVaUG3PUjcw?si=omuB0SLgu5t-O_WP) [Scott Galloway ( They are keeping you broke ) Impact theory](https://youtu.be/KVaUG3PUjcw?si=omuB0SLgu5t-O_WP)
+
+{% include embed/youtube.html id='KVaUG3PUjcw' %}
+
+[10-](https://youtu.be/HiYo14wylQw?si=TCBxP9dQVGXGSeNR) [Navl Ravikant ( Get Rich and be happy ) On the Tim Ferriss Show](https://youtu.be/HiYo14wylQw?si=TCBxP9dQVGXGSeNR)
+
+{% include embed/youtube.html id='HiYo14wylQw' %}
+
+[11-](https://youtu.be/XkxZCJ2pYqs?si=aNe1_ipR-bcTECuF) [Codie Sabchez ( Hard work doesn't buildwealth) Diary of CEO](https://youtu.be/XkxZCJ2pYqs?si=aNe1_ipR-bcTECuF)
+
+{% include embed/youtube.html id='XkxZCJ2pYqs' %}
+
 
 Have a wonderful week.
