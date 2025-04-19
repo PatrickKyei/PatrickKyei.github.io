@@ -99,9 +99,7 @@ This is easily noticeable across religion, politics, and niche communities like 
 - Party A and Party B are in a war of opposing ideas they are attached to.
 
 They feel physically threatened when someone challenges their beliefs.
-
 - If your favorite sports team loses, or somebody says they're a bad team, how do you feel? Is your survival actually at stake? Or do you not see how silly you are being over a fabricated idea?
-
 - When you gain weight, do you stress about the physical weight on your body? Or do you stress that the idea of your identity as a healthy individual will die?
 
 You are surviving and reproducing your identity through words and actions in every situation. If you did not create yourself, you are furthering the spread of mindlessness, evil, and destruction without even knowing it. And you probably don’t even care.
@@ -261,7 +259,7 @@ The truth is, everyone has the potential to be an entrepreneur.
 
 It's about:
 
-- **Problem-solving:** Recognizing a need and creating solutions.
+**Problem-solving:** Recognizing a need and creating solutions.
 **Creativity:** Taking a new approach to old problems.
 **Independence:** Gaining control over your time, resources, and life.
 
