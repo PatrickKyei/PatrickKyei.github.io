@@ -234,7 +234,7 @@ Seeing what works and what doesn’t. Slowly making small upgrades in the traits
 We live in a delusion that we want to make progress without it been hard.
 
 
-![hardDecisions](assets/img/hardDecisions.png)
+![hardDecisions](/assets/img/hardDecisions.png)
 
 You need to stop living in the delusion that you are so different from everyone else that other people don't make sacrifices to achieve their goals and that you won't have to either.
 
