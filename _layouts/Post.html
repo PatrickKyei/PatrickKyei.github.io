@@ -6,28 +6,6 @@
     <meta content="width=device-width, initial-scale=1" name="viewport" />
     <meta content="Patrick Kyei" property="og:site_name" />
     
-    <!-- Dynamic Title and URL -->
-    {%- if page.title -%}
-    <meta content="{{ page.title }}" property="og:title">
-    <meta content="article" property="og:type">
-    <meta content="{{ site.url }}{{ page.url }}" property="og:url">
-    {%- else -%}
-    <meta content="website" property="og:type">
-    <meta content="{{ site.url }}{{ page.url }}" property="og:url">
-    {%- endif -%}
-    
-    <!-- Open Graph: Image, Description, Author -->
-    <meta property="og:image" content="{{ page.image.path | absolute_url }}" />
-    <meta property="og:image:alt" content="{{ page.image.alt }}" />
-    <meta property="og:description" content="{{ page.excerpt | default: 'Check out this post on ' | append: site.title }}" />
-    <meta content="{{ site.url }}/about/" property="article:author">
-
-    <!-- Twitter Card Meta Tags -->
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="{{ page.title }}" />
-    <meta name="twitter:description" content="{{ page.excerpt | default: 'Check out this post on ' | append: site.title }}" />
-    <meta name="twitter:image" content="{{ page.image.path | absolute_url }}" />
-
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
