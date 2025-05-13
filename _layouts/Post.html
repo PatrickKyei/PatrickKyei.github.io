@@ -17,16 +17,16 @@
     {%- endif -%}
     
     <!-- Open Graph: Image, Description, Author -->
-    <meta property="og:image" content="{{ page.image.path | /assets/img/value-book.png }}" />
+    <meta property="og:image" content="{{ page.image.path | absolute_url }}" />
     <meta property="og:image:alt" content="{{ page.image.alt }}" />
-    <meta property="og:description" content="{{ page.excerpt | default: 'I write to expand the collective consciouness| append: site.title }}" />
+    <meta property="og:description" content="{{ page.excerpt | default: 'Check out this post on ' | append: site.title }}" />
     <meta content="{{ site.url }}/about/" property="article:author">
 
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="{{ page.title }}" />
-    <meta name="twitter:description" content="{{ page.excerpt | default: 'I write to expand the collective consciouness' | append: site.title }}" />
-    <meta name="twitter:image" content="{{ page.image.path | /assets/img/value-book.png }}" />
+    <meta name="twitter:description" content="{{ page.excerpt | default: 'Check out this post on ' | append: site.title }}" />
+    <meta name="twitter:image" content="{{ page.image.path | absolute_url }}" />
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -157,6 +157,19 @@
                                      <h5 class="meta-title">← BACK</h5>
                              </a>
                          </div>
+
+                         <section class="subscription-cta" style="margin-bottom: 2rem; padding: 1.5rem; border: 1px solid #ccc; border-radius: 10px;">
+                            <h2 style="margin-top: 0;">Not A Subscriber?</h2>
+                            <p>Join <strong>2,000+</strong> getting mindblown every Wednesday morning while reading deep dives on business, effortless productivity and human potential.</p>
+                            <p>When you join, I’ll send you my <strong>Life Reset Plan</strong> to take back control of your life.</p>
+                            <div class="iframe-wrapper" style="margin-top: 1rem;">
+                              <iframe src="https://patrickkyei.substack.com/embed" frameborder="0" scrolling="no" style="width:100%; max-width:600px; height:150px;"></iframe>
+                            </div>
+                          </section>
+                          <p class="post-meta" style="margin-top: -1rem; margin-bottom: 2rem; color: #555; font-size: 0.95rem;">
+                            {{ page.date | date: "%B %-d, %Y" }} | Patrick Kyei
+                          </p>
+                          
                      <h1>{{page.title}}</h1>
                      {%- include Content.html -%}
                      {%- include Backlinks.html -%}
