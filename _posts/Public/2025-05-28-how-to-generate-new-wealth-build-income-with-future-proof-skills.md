@@ -10,6 +10,8 @@ categories: [Productivity, Self Mastery]
 tags: [self mastery, productivity, lifestyle design]     # TAG names should always be lowercase
 ---
 
+{% include embed/youtube.html id='1e67VZTaRxo' %}
+
 
 Today, starting a business is the most accessible way to financial freedom.
 
@@ -213,3 +215,7 @@ Be you, learn to persuade and you get to skip ahead of those that lack distribut
 You can literally make millions doing creative work and doing less of manual labor with the internet and social media.
 
 But of course, you need to learn how to monetize an audience to get there.
+
+Thanks for reading.
+
+ -Patrick 
