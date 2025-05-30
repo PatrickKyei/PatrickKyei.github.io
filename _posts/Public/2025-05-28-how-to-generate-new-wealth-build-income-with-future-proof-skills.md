@@ -117,26 +117,26 @@ If you can write, speak, market, and sell you no longer have to worry about the 
 
 The future-proof skill stack:
 
-Ai
-Sales
-Design
-Writing
-Agency
-Speaking
-Marketing
-Persuasion
-Articulation
-Web design
-Copywriting
-No-code tools
-Email marketing
-Entrepreneurship
-Data Manipulation
+Ai  
+Sales  
+Design  
+Writing  
+Agency  
+Speaking  
+Marketing  
+Persuasion  
+Articulation  
+Web design  
+Copywriting  
+No-code tools  
+Email marketing  
+Entrepreneurship  
+Data Manipulation  
 Personal Branding
 
 Learn to collect, create, and communicate value and you will become irreplaceable.
 
-##Solve Your Own Problems. Sell The Solution.
+## Solve Your Own Problems. Sell The Solution.
 
 The easiest way to build an independent income source is to solve a problem in your life, document the solution, and use your personal experience to market it. Writing helps you achieve that.
 
