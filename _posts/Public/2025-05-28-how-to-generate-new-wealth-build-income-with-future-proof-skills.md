@@ -1,40 +1,38 @@
 ---
 title: How To Generate New Wealth (Build Income With Future Proof Skills)
-description: ""
+description: "No matter how busy you are, set time aside for self development. Learn high Income Skills. Your skills will be your leverage."
+
 image:
   path: /assets/img/future-proof-ai.png
   alt: future proof ai
   feed: show
 date: 2025-05-28 07:00:00 +00
-categories: [Productivity, Self Mastery]
+categories: [Productivity, Business]
 tags: [self mastery, productivity, lifestyle design]     # TAG names should always be lowercase
 ---
 
 {% include embed/youtube.html id='1e67VZTaRxo' %}
 
 
-Today, starting a business is the most accessible way to financial freedom.
+Today, starting a [business](https://selar.com/fullstack-creator) is the most accessible way to financial freedom.
 
 However it is way difficult to start a business in say, real estate or investment. The capital to start is huge.
 
 This is what I meant when I wrote:
 
+![richest people](/assets/img/richest-people.jpg)
 
 "The richest people in 90's:
 
-Owned oil
-
-Owned land.
-
-Owned factories.
+- Owned oil
+- Owned land.
+- Owned factories.
 
 The richest people today:
 
-Create content
-
-Own audiences.
-
-Use leverage
+- Create content
+- Own audiences.
+- Use leverage
 
 The internet changed the rules."
 
@@ -48,7 +46,8 @@ Most people don’t know what to do to generate new wealth.
 
 I would argue that you do know. You’re looking at it right now. But you still have the “consume and save” mindset that limits how you perceive the gold rush happening right in front of you.
 
-How To Build New Wealth, Where To Start.
+## How To Build New Wealth, Where To Start.
+
 All new fortunes are being built in the digital space.
 
 All new fortunes are being built in the digital space.
@@ -59,11 +58,9 @@ It's the easiest path for beginners to take control of their financial future.
 
 All you need is:
 
-An internet connection
-
-A few ideas
-
-The ability to stick it out until the end
+- An internet connection
+- A few ideas
+- The ability to stick it out until the end
 
 The best thing you can do to achieve freedom is to build your skills and your brand.
 
@@ -75,13 +72,10 @@ The rich and wealthy of our time are all taking advantage of social media.
 
 Cristiano Ronaldo has
 
-636M Instagram followers
-
-170M Facebook followers
-
-112M X(Twitter) followers
-
-32M YouTube subscribers in record time
+- 636M Instagram followers
+- 170M Facebook followers
+- 112M X(Twitter) followers
+- 32M YouTube subscribers in record time
 
 We're at a critical moment in history.
 
@@ -105,20 +99,16 @@ Jobs are useful for skill acquisition, status, and opportunity.
 
 But getting stuck in one is dangerous for your psyche which is wired to hunt. You become a monkey in a cubicle. It is against your nature.
 
-Entrepreneurship Is Modern Survival.
+## Entrepreneurship Is Modern Survival.
+
 Entrepreneurship is modern survival.
 
-Set a goal.
-
-Find a problem.
-
-Learn how to solve it.
-
-Document how you solved it.
-
-Distill into a replicable process.
-
-Give it to others that want to be helped.
+- Set a goal.
+- Find a problem.
+- Learn how to solve it.
+- Document how you solved it.
+- Distill into a replicable process.
+- Give it to others that want to be helped.
 
 Do it offline and it's called growth.
 Do it online and it's called business.
@@ -127,34 +117,36 @@ If you can write, speak, market, and sell you no longer have to worry about the 
 
 The future-proof skill stack:
 
-Ai
-Sales
-Design
-Writing
-Agency
-Speaking
-Marketing
-Persuasion
-Articulation
-Web design
-Copywriting
-No-code tools
-Email marketing
-Entrepreneurship
-Data Manipulation
+Ai  
+Sales  
+Design  
+Writing  
+Agency  
+Speaking  
+Marketing  
+Persuasion  
+Articulation  
+Web design  
+Copywriting  
+No-code tools  
+Email marketing  
+Entrepreneurship  
+Data Manipulation  
 Personal Branding
 
 Learn to collect, create, and communicate value and you will become irreplaceable.
 
-Solve Your Own Problems. Sell The Solution.
+## Solve Your Own Problems. Sell The Solution.
+
 The easiest way to build an independent income source is to solve a problem in your life, document the solution, and use your personal experience to market it. Writing helps you achieve that.
 
 When you stop hiding what you have to offer and put yourself on the market, only then does your luck increase beyond 0%.
 
 Marketing, sales, and persuasion are neutral until put in the hands of the mindful or mindless, authentic or corrupt, good or evil.
 
-Punch The Skeptical Beliefs
-“Having followers on social media won’t pay your bills.”
+## Punch The Skeptical Beliefs.
+
+_“Having followers on social media won’t pay your bills._
 
 I always laugh when I hear this.
 
@@ -168,17 +160,12 @@ And it’s changed so many people’s lives.
 
 Some examples:
 
-Book deals
-
-Career growth
-
-Speaking gigs
-
-People finding a new job
-
-People building communities
-
-Founders finding investors
+- Book deals
+- Career growth
+- Speaking gigs
+- People finding a new job
+- People building communities
+- Founders finding investors
 
 An audience or readership or just distribution in general is how you get a job without a job board, sell a book without a publisher, and make music without a record deal.
 
@@ -200,15 +187,12 @@ Boom! that's how you make millions.
 
 A robust, comprehensive brand can put your career on the fast track;
 
-create content around your niche
-
-get community support
-
-build your brand and
-
-ensure your profile and activity clearly communicate the value
-
-get seen
+- create content around your niche
+- get community support
+- build your brand and
+- ensure your profile and activity clearly
+- communicate the value
+- get seen
 
 Be you, learn to persuade and you get to skip ahead of those that lack distribution.
 
