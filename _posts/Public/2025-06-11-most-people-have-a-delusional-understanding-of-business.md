@@ -218,9 +218,9 @@ There’s no need to do anything other than solve the problems in your life, acq
 
 When it comes to building internet wealth, you need:
 
-A skill
-A bulletproof mindset
-A way of capturing attention
+A skill  
+A bulletproof mindset  
+A way of capturing attention  
 
 But 99% of people fail to execute all three.
 
