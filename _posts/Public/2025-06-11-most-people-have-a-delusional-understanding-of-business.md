@@ -1,5 +1,5 @@
 ---
-title: The Delusional Perception Of Business (Why Most People Are Still Stuck At 9-5 Jobs)
+title: The Delusional Perception Of Business (Why Most People Are Stuck At 9-5 Jobs)
 description: "Distribution is the new leverage. And your audience is the engine that powers it. You have permissionless leverage. If you want financial freedom start a business."
 
 image:
