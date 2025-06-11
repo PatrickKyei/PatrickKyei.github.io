@@ -59,7 +59,7 @@ I was very hopeful it would be successful, but let me pause that story here for 
 
 Even though at that time I didn't have a solid idea how audience building can be leveraged to business growth, I had the intuition that could be a thing.
 
-# Build Distribution, Then Build Whatever You Want
+# Build Distribution Then Build Whatever You Want
 
 Distribution is the new leverage.
 And your audience is the engine that powers it.
@@ -168,7 +168,7 @@ If you zoom out and think, yes, they can. I’ll save my logic for another lette
   
 We're at a critical moment in history.
 
-It is very good to have a skill or posses a technical skill but if no one knows what you do, people can't partronize you.
+It is very good to have a skill or posses a technical skill but if no one knows what you do, people can't patronize you.
 
 The Internet has given everyone the opportunity to do what they love.
 
