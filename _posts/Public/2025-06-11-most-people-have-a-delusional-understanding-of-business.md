@@ -75,9 +75,9 @@ And here’s what should shock you…
 Even the billionaires who built empires in the old world are now building audiences in the new one:
 
 
-• Elon Musk → 219M followers
-• Jeff Bezos → 6.9M followers
-• Bill Gates → 66.1M followers
+- Elon Musk → 219M followers
+- Jeff Bezos → 6.9M followers
+- Bill Gates → 66.1M followers
 
 Why?
 
