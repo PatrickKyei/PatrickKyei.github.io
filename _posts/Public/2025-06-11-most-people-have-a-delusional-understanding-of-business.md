@@ -306,36 +306,38 @@ You need a personal brand.
 
 A representation of who you are, what you stand for, and how you think.
 
-I found this out the hard way when I started offering video editing services. I created an account on Fiverr, set up my profile, and offered my services. Yet, after three months of waiting, nothing happened. I had the skills, but nobody was paying attention.
+Nobody knows you.
 
-I began to question everything.
+You have the skill but who knows you have the skill?
 
-I wasn’t going to give up. I kept reminding myself that success in business is a slow process, so I shouldn’t make it slower by quitting every three months.
+Most people complain they can't make money online because of the single reason that nobody knows you have the skill.
 
-But something had to change.
+You have to make people aware of you.
 
-I knew something was off. Something was missing.
+The most accessible path is to learn, build and share in public.
 
-So, I began watching YouTube videos until I found one that changed my perspective.
+If you want to start freelancing, learn a skill.
 
-I needed to capture attention.
+If you want to start a YouTube channel, make videos.
 
-That required more than just listing my services online. It required building a personal brand that resonated with potential clients.
+If you want to grow on Facebook, start writing.
 
-Yesterday, I watched a video of Leila Hormozi where she explained that when someone wants to work for their company, she doesn’t look at their physical resume. She checks their social media profiles—LinkedIn, Instagram, X, even TikTok—to get a better sense of who they are. Then, she goes through their physical resumes.
+If you want to avoid the 9-5, start building.
+
+Nothing good comes in life without intentional action.
 
 People are drawn to those they can relate to.
 
 Those who share their values and perspectives.
 
-Capturing attention is much easier
-In the past, gaining attention was a laborious process.
+Capturing attention is much easier In the past, gaining attention was a laborious process.
 
 You had to physically go out, knock on doors, and pitch your services.
 
-Today, the internet has simplified this process. You can reach a global audience with a single post. 
+Today, the internet has simplified this process. You can reach a global audience with a single post.
 
 You need to be strategic about how you capture and sustain attention.
+
 
 #### How To Capture Attention
 
