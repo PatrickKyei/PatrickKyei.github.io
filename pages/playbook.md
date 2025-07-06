@@ -10,7 +10,7 @@ permalink: /playbook
       <!-- LEFT COLUMN -->
       <div class="column is-6">
         <p class="is-uppercase has-text-grey-light has-text-weight-medium mb-2" style="letter-spacing: 2px;">
-          VALUE CREATOR PLAYBOOK
+          VALUE CREATOR WRITING PLAYBOOK
         </p>
 
         <h1 class="title has-text-white is-2 has-text-weight-bold mb-4" style="line-height: 1.3;">
