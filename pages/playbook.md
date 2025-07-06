@@ -1,32 +1,43 @@
 ---
 layout: page
-title: "Value Creator Playbook"
-permalink: /playbook/
+title: The Value Creator Playbook
+permalink: /playbook
 ---
 
-<section class="section">
-  <div class="container has-text-centered">
+<section class="section has-background-black has-text-white">
+  <div class="container">
+    <div class="columns is-vcentered is-variable is-8">
+      <!-- LEFT COLUMN -->
+      <div class="column is-6">
+        <p class="is-uppercase has-text-grey-light has-text-weight-medium mb-2" style="letter-spacing: 2px;">
+          VALUE CREATOR PLAYBOOK
+        </p>
 
-    <h1 class="title is-2">Value Creator Playbook</h1>
-    <p class="subtitle is-5">Learn how to write high-converting ideas that build trust, attract attention, and grow your digital business.</p>
+        <h1 class="title has-text-white is-2 has-text-weight-bold mb-4" style="line-height: 1.3;">
+          Transform Your Writing & Build A Profitable Brand
+        </h1>
 
-    <figure class="image is-3by2 is-inline-block mb-5">
-      <img src="/assets/img/value-book.png" alt="Value Creator Playbook" style="max-width: 400px;">
-    </figure>
+        <p class="mb-5 is-size-5">
+          Most people post randomly online and wonder why nobody buys from them.
+          <em>Writing is a tool to build trust at scale.</em> Inside this playbook, you'll learn how to write persuasively, grow your audience, and turn attention into income.
+        </p>
 
-    <div class="content">
-      <p>
-        This playbook is a distilled system that helps you write like a creator who sells.
-        It’s not about grammar. It’s about psychology, positioning, storytelling, and demand creation.
-      </p>
+        <a href="https://selar.com/writing-playbook-pro" class="button is-white is-outlined is-medium">
+          <span class="icon"><i class="fa-solid fa-cart-shopping"></i></span>
+          <span>Get The Playbook</span>
+        </a>
 
-      <p>
-        If you’ve ever struggled with writing that gets ignored, or want to make your words work harder for your business —
-        this is for you.
-      </p>
+        <p class="is-size-7 mt-3">
+          Creators Writing Companion
+        </p>
+      </div>
 
-      <a href="https://selar.com/writing-playbook-pro" class="button is-warning is-medium mt-4">Get Your Copy Now</a>
+      <!-- RIGHT COLUMN (BOOK IMAGE) -->
+      <div class="column is-6 has-text-centered">
+        <figure class="image is-4by4" style="max-width: 100%; height: auto; margin: 0 auto;">
+          <img src="/assets/img/value-book.png" alt="Value Creator Playbook" />
+        </figure>
+      </div>
     </div>
-
   </div>
 </section>
