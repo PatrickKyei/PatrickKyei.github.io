@@ -35,7 +35,7 @@ permalink: /playbook
       <!-- RIGHT COLUMN (BOOK IMAGE) -->
       <div class="column is-6 has-text-centered">
         <figure class="image is-4by4" style="max-width: 100%; height: auto; margin: 0 auto;">
-          <img src="/assets/img/value-book.png" alt="Value Creator Playbook" />
+          <img src="/assets/img/value-palybook-1080x1080.png" alt="Value Creator Playbook" />
         </figure>
       </div>
     </div>
