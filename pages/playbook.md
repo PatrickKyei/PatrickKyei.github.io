@@ -22,7 +22,7 @@ permalink: /playbook
           <em>Writing is a tool to build trust at scale.</em> Inside this playbook, you'll learn how to write persuasively, grow your audience, and turn attention into income.
         </p>
 
-        <a href="https://selar.com/writing-playbook-pro" class="button is-white is-outlined is-medium">
+        <a href="https://https://paystack.com/buy/value-creator-pro" class="button is-white is-outlined is-medium">
           <span class="icon"><i class="fa-solid fa-cart-shopping"></i></span>
           <span>Get The Playbook</span>
         </a>
