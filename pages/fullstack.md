@@ -1,42 +1,37 @@
 ---
 layout: page
 title: Fullstack Writer
-permalink: /fullstack
+permalink: /fullstack-writer
 ---
 
-<section class="section has-background-black has-text-white">
-  <div class="container">
-    <div class="columns is-vcentered is-variable is-8">
-      <!-- LEFT COLUMN -->
-      <div class="column is-6">
-        <p class="is-uppercase has-text-grey-light has-text-weight-medium mb-2" style="letter-spacing: 2px;">
-          THE FUTURE BELONGS TO THE CREATIVE
-        </p>
+{% include fullstack/hero.html %}
 
-        <h1 class="title has-text-white is-2 has-text-weight-bold mb-4" style="line-height: 1.3;">
-        Learn The AI-Proof Skill For The Digital Economy (Without Spending $$$ On Another Course That Doesn't Work)
-        </h1>
+{% include fullstack/testimonial-1.html %}
 
-        <p class="mb-5 is-size-5">
-          Implement Our Fullstack Content Ecosystem (With A Swipe File) To Learn High Impact Digital Writing, Boost Your Online Authority, & Systemize Content Creation For Rapid Growth
-        </p>
+{% include fullstack/message.html %}
 
-        <a href="https://paystack.com/buy/fullstack-creator-bootcamp" class="button is-white is-outlined is-medium">
-          <span class="icon"><i class="fa-solid fa-cart-shopping"></i></span>
-          <span>Join 2000+ Students</span>
-        </a>
+{% include fullstack/quote.html %}
 
-        <p class="is-size-7 mt-3">
-          Get Ahead Of 99% Of Creators
-        </p>
-      </div>
+{% include fullstack/story.html %}
 
-      <!-- RIGHT COLUMN (PRODUCT IMAGE) -->
-      <div class="column is-6 has-text-centered">
-        <figure class="image is-4by4" style="max-width: 100%; height: auto; margin: 0 auto;">
-          <img src="/assets/img/Writing.png" alt="Fullstack Writer" />
-        </figure>
-      </div>
-    </div>
-  </div>
-</section>
+{% include fullstack/what-youll-learn.html %}
+
+{% include fullstack/instructor.html %}
+
+{% include fullstack/how-it-works.html %}
+
+{% include fullstack/who-this-is-for.html %}
+
+{% include fullstack/pricing.html %}
+
+{% include fullstack/curriculum.html %}
+
+{% include fullstack/features.html %}
+
+{% include fullstack/guarantee.html %}
+
+{% include fullstack/faqs.html %}
+
+{% include fullstack/instructor.html %}
+
+{% include fullstack/final-cta.html%}
