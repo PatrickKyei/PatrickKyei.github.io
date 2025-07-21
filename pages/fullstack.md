@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Fullstack Writer
-permalink: /fullstack-writer
+title: Fullstack Creator
+permalink: /fullstack-creator
 ---
 
 {% include fullstack/hero.html %}
