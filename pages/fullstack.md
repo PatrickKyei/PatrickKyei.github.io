@@ -6,6 +6,9 @@ permalink: /fullstack-creator
 
 {% include fullstack/hero.html %}
 
+
+{% include fullstack/pain.html %}
+
 {% include fullstack/testimonial-1.html %}
 
 {% include fullstack/message.html %}
