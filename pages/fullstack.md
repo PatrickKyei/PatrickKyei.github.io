@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fullstack Creator
+title: Fullstack Writer
 permalink: /fullstack-writer
 ---
 
