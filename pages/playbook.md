@@ -22,7 +22,7 @@ permalink: /playbook
           <em>Writing is a tool to build trust at scale.</em> Inside this playbook, you'll learn how to write persuasively, grow your audience, and turn attention into income.
         </p>
 
-        <a href="https://https://paystack.com/buy/value-creator-pro" class="button is-white is-outlined is-medium">
+        <a href="https://paystack.com/buy/writing-playbook" class="button is-white is-outlined is-medium">
           <span class="icon"><i class="fa-solid fa-cart-shopping"></i></span>
           <span>Get The Playbook</span>
         </a>
@@ -35,7 +35,7 @@ permalink: /playbook
       <!-- RIGHT COLUMN (BOOK IMAGE) -->
       <div class="column is-6 has-text-centered">
         <figure class="image is-4by4" style="max-width: 100%; height: auto; margin: 0 auto;">
-          <img src="/assets/img/value-palybook-1080x1080.png" alt="Value Creator Playbook" />
+          <img src="/assets/img/value-palybook.png" alt="Value Creator Playbook" />
         </figure>
       </div>
     </div>
