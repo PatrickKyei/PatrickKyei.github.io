@@ -1,7 +1,7 @@
 {%- comment -%}
 *
 * MIT License
-* Copyright (c) 2020 Raghuveer S
+* Copyright (c) 2020 Patrick Kyei
 *
 * Permission is hereby granted, free of charge, to any person obtaining a copy
 * of this software and associated documentation files (the "Software"), to deal
@@ -22,7 +22,7 @@
 * SOFTWARE.
 *
 * File: Footer.html
-* Author@Raghuveer S
+* Author@Patrick Kyei
 *
 * This file contains the markup for the copyright notice.
 *
@@ -30,7 +30,7 @@
 
 {%- if site.copyright.msg != nil and site.copyright.msg != empty and site.copyright.msg != null -%}
 <div id="copyright">
-    <p id="copyright-notice"> {{site.copyright.year}} • {{site.copyright.msg}}
+    <p id="copyright-notice">        <span>© <script>document.write(new Date().getFullYear())</script> </span> {{site.copyright.year}} • {{site.copyright.msg}}
     </p>
 </div>
 {%- endif -%}

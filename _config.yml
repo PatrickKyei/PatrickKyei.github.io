@@ -28,7 +28,7 @@ baseurl: ""
 # Website Header, Description, Footer year and text. 
 # If you are deleting this, make sure you remove it from HTML files too 
 heading: Patrick Kyei # Change this 
-content: Discover thought-provoking content by Patrick Kyei, dedicated to raising collective consciousness.
+content: I write about business, human potential, effortless productivity and self mastery.
 author: Patrick Kyei # Add this line
 copyright:  
   year: Patrick Kyei
@@ -43,7 +43,7 @@ privatelinks:
 # To enable set "enabled : true" else, use "enabled:false"
 preferences:
   search:
-    enabled: true
+    enabled: false
   wiki_style_link: 
     enabled: false
   pagepreview: 
