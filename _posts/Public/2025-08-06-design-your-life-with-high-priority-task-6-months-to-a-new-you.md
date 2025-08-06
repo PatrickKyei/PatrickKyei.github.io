@@ -3,7 +3,7 @@ title: Design Your Life With High-priority Goals (6 Months To A New You)
 description: "My life drastically improved because I chanced on certain information very few people knew. Same for other people. Qualityh information leads to quality life."
 date: 2025-08-06 07:00:00 +00
 image:
-  path: /assets/img/facebook_1754513742452_7358964008022827774.jpg
+  path: /assets/img/3-months-focus.png
   alt: this is an image
 categories:
   - Business
