@@ -47,7 +47,7 @@ Everyone was born with zero knowledge, zero ideas and zero information.
 
 Your identity is a mental conditioning from your parents, teachers and friends.
 
-Your identity determines what information your brains filters as useful and since you have not consciously exposed your yourself to new information, you don't see opportunities when you see one.
+Your identity determines what information your brain filter as useful and since you have not consciously exposed your yourself to new information, you don't see opportunities when you see one.
 
 You don't have ideas because you don't read.
 
@@ -83,9 +83,9 @@ Choosing a book over mindless entertainment and self deprecating memes is self d
 
 I’m always reading 3 books.
 
-• One for business growth 
-• One for Value Creation 
-• One for productivity 
+- One for business growth 
+- One for Value Creation 
+- One for productivity 
 
 ## Focus Is A Superpower In A Distracted World 
 
