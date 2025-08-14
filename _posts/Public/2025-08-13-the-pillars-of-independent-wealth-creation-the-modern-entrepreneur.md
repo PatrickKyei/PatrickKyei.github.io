@@ -67,7 +67,7 @@ A sustainable path to making money on your own is through building a business. A
 
 Without both, you’ll perpetually rely on an employer. With both, you step into the driver’s seat of your financial future.
 
-[quote](/assets/img/FB_IMG_1755110936448.jpg)
+![quote](/assets/img/FB-IMG_1755110936448.jpg)
 
 Now you would say that this is a "_sweet talk_", something very common I see in the comment sections. Before you close your mind off to another information that could completely change your life, I want you to know your mind doesn't want you to succeed.
 
