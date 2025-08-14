@@ -153,9 +153,9 @@ When you adopt a higher perspective, you can start to see things for what they a
 
 Today what is possible that man couldn't do 300 years ago is that you can: 
 
-- **Learn anything:** Acquire a new skill, deepen existing knowledge.
-- **Build anything:** Create a valuable product or service based on what you’ve learned.
-- **Share It With 5 Billion People:** Connect with your [audience](https://paystack.com/buy/1million) and deliver your value.
+-**Learn anything:** Acquire a new skill, deepen existing knowledge.
+-**Build anything:** Create a valuable product or service based on what you’ve learned.
+-**Share It With 5 Billion People:** Connect with your [audience](https://paystack.com/buy/1million) and deliver your value.
     
 
 ### Why You Are Not Where You Want To Be
