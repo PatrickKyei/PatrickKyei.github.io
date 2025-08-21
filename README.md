@@ -24,6 +24,22 @@ PREVIEW IMAGE
 image:
   path: /path/to/image
   alt: image alternative text
+  
+  
+  {% include embed/{Platform}.html id='{ID}' %}
+  
+{%
+  include embed/video.html
+  src='/path/to/video.mp4'
+  types='ogg|mov'
+  poster='poster.png'
+  title='Demo video'
+  autoplay=true
+  loop=true
+  muted=true
+%}
+
+  
 ---
 
 TOP IMAGE RESOLUTION
