@@ -1,6 +1,6 @@
 ---
 title: The Most Important High-Income Skill To Learn Early In Your Career
-description: "You need money to do everythin. It is therefore prudent to take control of your incone."
+description: "You need money to do everything. It is prudent to learn how to take control of your incone."
 date: 2025-08-10 07:00:00 +00
 image:
   path: /assets/img/img_20250821_100644_0000.png
