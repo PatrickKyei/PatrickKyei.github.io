@@ -19,9 +19,9 @@ Before we begin, the fourth batch of [Fullstack Writer](https://patrickkyei.com
 
 If "what you want" involves talking about your interests, building an audience for your work, or having an organic method to get more customers for your business, creating opportunities for landing high paying jobs, consider enrolling for $16. Price increases after 9th September.
 
----
 
-{% include embed/youtube.html id='qeEQPrrPkagrqv1x' %}
+{% include embed/youtube.html id='mCn7LKU-X7s7qzDu' %}
+
 
 Making money is something everybody wants to do.
 
