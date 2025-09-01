@@ -11,7 +11,7 @@ categories: [Productivity, Business]
 tags: [self mastery, productivity, lifestyle design]     # TAG names should always be lowercase
 ---
 
-{% include embed/youtube.html id='1e67VZTaRxo' %}
+{% include embed/youtube.html id='T_3ohkrAdDDkhvmf' %}
 
 
 Today, starting a [business](https://selar.com/fullstack-creator) is the most accessible way to financial freedom.
