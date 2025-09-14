@@ -1,4 +1,3 @@
-
 ---
 title: How To Start A Billion Dollar Company As A One Person
 description: My conviction on entrepreneurship
