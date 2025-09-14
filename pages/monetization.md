@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Self Monetization
-permalink: /self-monetization
+permalink: /monetization
 ---
 
 {% include monetization/hero.html %}
