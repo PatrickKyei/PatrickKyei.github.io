@@ -6,9 +6,11 @@ permalink: /monetization
 
 {% include monetization/hero.html %}
 
+{% include monetization/disclaimer.html %}
+
 {% include monetization/pain.html %}
 
-{% include monetization/disclaimer.html %}
+{% include monetization/message.html %}
 
 
 {% include monetization/learn.html %}
