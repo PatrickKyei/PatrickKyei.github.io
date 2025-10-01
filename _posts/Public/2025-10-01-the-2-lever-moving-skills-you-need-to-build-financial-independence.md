@@ -1,6 +1,6 @@
 ---
 title: The 2 Lever Moving Skills You Need To Build Financial Independence
-description: "Without it your business stands" no chance.
+description: "Without it your business stands no chance."
 date: 2025-10-01
 image:
   path: /assets/img/leverage-levels.png
@@ -14,6 +14,7 @@ tags:
   - writing
   - branding
 ---
+
 Starting a business is the most accessible way to financial freedom.
 
 However it is way difficult to start a business in say, real estate or investment. The capital to start is huge.
