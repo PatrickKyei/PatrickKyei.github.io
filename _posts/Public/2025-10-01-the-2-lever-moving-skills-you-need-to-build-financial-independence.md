@@ -15,6 +15,8 @@ tags:
   - branding
 ---
 
+{% include embed/youtube.html id='Ad23AEd4FyY' %}
+
 Starting a business is the most accessible way to financial freedom.
 
 However it is way difficult to start a business in say, real estate or investment. The capital to start is huge.
