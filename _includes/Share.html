@@ -1,40 +1,38 @@
-<div class="social-share is-flex mt-4" style="gap: 10px; justify-content: center;">
-
-  <p>Share this to:</p>
+<div class="social-share is-flex mt-4" style="gap: 12px; justify-content: center;">
 
   <!-- Facebook -->
-  <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}"
+  <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}"
      onclick="window.open(this.href,'fbshare','width=500,height=500'); return false;"
      title="Share on Facebook">
-    <span class="icon"><i class="fab fa-facebook-f"></i></span>
+    <span class="icon is-medium"><i class="fab fa-facebook-f"></i></span>
   </a>
 
   <!-- Twitter -->
-  <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ page.url | absolute_url }}"
+  <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ site.url }}{{ page.url }}"
      onclick="window.open(this.href,'twshare','width=500,height=500'); return false;"
      title="Share on Twitter">
-    <span class="icon"><i class="fab fa-twitter"></i></span>
+    <span class="icon is-medium"><i class="fab fa-twitter"></i></span>
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url }}&title={{ page.title | url_encode }}"
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ page.title | url_encode }}"
      onclick="window.open(this.href,'lnshare','width=500,height=500'); return false;"
      title="Share on LinkedIn">
-    <span class="icon"><i class="fab fa-linkedin-in"></i></span>
+    <span class="icon is-medium"><i class="fab fa-linkedin-in"></i></span>
   </a>
 
   <!-- WhatsApp -->
-  <a href="https://api.whatsapp.com/send?text={{ page.title | url_encode }}%20{{ page.url | absolute_url }}"
+  <a href="https://api.whatsapp.com/send?text={{ page.title | url_encode }}%20{{ site.url }}{{ page.url }}"
      target="_blank"
      title="Share on WhatsApp">
-    <span class="icon"><i class="fab fa-whatsapp"></i></span>
+    <span class="icon is-medium"><i class="fab fa-whatsapp"></i></span>
   </a>
 
   <!-- Telegram -->
-  <a href="https://t.me/share/url?url={{ page.url | absolute_url }}&text={{ page.title | url_encode }}"
+  <a href="https://t.me/share/url?url={{ site.url }}{{ page.url }}&text={{ page.title | url_encode }}"
      target="_blank"
      title="Share on Telegram">
-    <span class="icon"><i class="fab fa-telegram-plane"></i></span>
+    <span class="icon is-medium"><i class="fab fa-telegram-plane"></i></span>
   </a>
 
 </div>
