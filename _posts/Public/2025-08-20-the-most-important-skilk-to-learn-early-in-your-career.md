@@ -15,7 +15,7 @@ tags:
   - entrepreneurship
 ---
 
-{% include embed/youtube.html id='mCn7LKU-X7s7qzDu' %}
+{% include embed/youtube.html id='CwZCBJyFDm4' %}
 
 Before we begin, the fourth batch of [Fullstack Writer](https://patrickkyei.com/fullstack-writer) is accepting registration.
 
