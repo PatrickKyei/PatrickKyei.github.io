@@ -34,6 +34,8 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
 
     <!-- Page Title -->
     <title>{{ page.title }} - {{ site.heading }}</title>
@@ -176,8 +178,9 @@
                                 <section class="subscription-cta"
                                     style="margin-bottom: 2rem; padding: 1.5rem; border: 1px solid #ccc; border-radius: 10px;">
                                     <h2 style="margin-top: 0;">Not A Subscriber?</h2>
-                                    <p>Join <strong>2,500+</strong> readers changing their life with deep dives about business, effortless productivity and human potential.</p>
-                                    
+                                    <p>Join <strong>2,500+</strong> readers changing their life with deep dives about
+                                        business, effortless productivity and human potential.</p>
+
                                     {% include Subscribe.html %}
 
                                 </section>
@@ -200,7 +203,11 @@
                             {%- include Content.html -%}
                         </div>
                         {%- endif -%}
+
                 </div>
+
+                {% include Share.html %}
+                
                 <!--post navigation -->
                 <nav class="post-navigation">
                     <div class="previous-post">
