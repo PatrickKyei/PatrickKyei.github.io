@@ -7,12 +7,23 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
    <!-- Open Graph Meta Tags -->
-   <meta property="og:title" content="The Value Creator Writing Playbook by Patrick Kyei">
-   <meta property="og:description" content="I write to expand the collective consciouness">
-   <meta property="og:image" content="/assets/img/value-book.png">
-   <meta property="og:url" content="https://patrickkyei.com">
-   <meta property="og:type" content="website">
-   <meta property="og:site_name" content="Patrick Kyei">
+ <!-- Open Graph (Facebook, LinkedIn, WhatsApp, Telegram) -->
+<meta property="og:title" content="{{ page.title | default: site.title }}" />
+<meta property="og:description" content="{{ page.excerpt | default: site.description }}" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+<meta property="og:image" content="{% if page.image and page.image.path %}{{ page.image.path | absolute_url }}{% else %}{{ site.url }}/assets/img/default-share.png{% endif %}" />
+<meta property="og:image:alt" content="{{ page.image.alt | default: page.title | default: site.title }}" />
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="{{ page.title | default: site.title }}" />
+<meta name="twitter:description" content="{{ page.excerpt | default: site.description }}" />
+<meta name="twitter:image" content="{% if page.image and page.image.path %}{{ page.image.path | absolute_url }}{% else %}{{ site.url }}/assets/img/default-share.png{% endif %}" />
+
+<!-- Extra -->
+<meta property="article:author" content="{{ site.url }}/about/" />
+
    <title>{{page.title}} | {{site.name}}</title>
 
    {% seo %}
