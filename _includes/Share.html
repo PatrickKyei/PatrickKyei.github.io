@@ -1,54 +1,40 @@
-<div class="social-share has-text-centered mt-6 mb-8">
-  <div class="buttons is-centered">
+<div class="social-share is-flex mt-4" style="gap: 10px; justify-content: center;">
 
-    <a>Share to:</a>
+  <p>Share this to:</p>
 
-    <!-- Facebook -->
-    <a class="button is-small is-link"
-       href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}"
-       onclick="window.open(this.href,'fbshare','width=500,height=500'); return false;"
-       title="Share on Facebook">
-      <span class="icon"><i class="fab fa-facebook-f"></i></span>
-    </a>
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}"
+     onclick="window.open(this.href,'fbshare','width=500,height=500'); return false;"
+     title="Share on Facebook">
+    <span class="icon"><i class="fab fa-facebook-f"></i></span>
+  </a>
 
-    <!-- Twitter -->
-    <a class="button is-small is-info"
-       href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ page.title }}"
-       onclick="window.open(this.href,'twshare','width=500,height=500'); return false;"
-       title="Share on Twitter">
-      <span class="icon"><i class="fab fa-twitter"></i></span>
-    </a>
+  <!-- Twitter -->
+  <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ page.url | absolute_url }}"
+     onclick="window.open(this.href,'twshare','width=500,height=500'); return false;"
+     title="Share on Twitter">
+    <span class="icon"><i class="fab fa-twitter"></i></span>
+  </a>
 
-    <!-- LinkedIn -->
-    <a class="button is-small is-primary"
-       href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ page.title }}"
-       onclick="window.open(this.href,'lnshare','width=500,height=500'); return false;"
-       title="Share on LinkedIn">
-      <span class="icon"><i class="fab fa-linkedin-in"></i></span>
-    </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url }}&title={{ page.title | url_encode }}"
+     onclick="window.open(this.href,'lnshare','width=500,height=500'); return false;"
+     title="Share on LinkedIn">
+    <span class="icon"><i class="fab fa-linkedin-in"></i></span>
+  </a>
 
-    <!-- WhatsApp -->
-    <a class="button is-small is-success"
-       href="https://api.whatsapp.com/send?text={{ page.title }}%20{{ site.url }}{{ page.url }}"
-       target="_blank"
-       title="Share on WhatsApp">
-      <span class="icon"><i class="fab fa-whatsapp"></i></span>
-    </a>
+  <!-- WhatsApp -->
+  <a href="https://api.whatsapp.com/send?text={{ page.title | url_encode }}%20{{ page.url | absolute_url }}"
+     target="_blank"
+     title="Share on WhatsApp">
+    <span class="icon"><i class="fab fa-whatsapp"></i></span>
+  </a>
 
-    <!-- Telegram -->
-    <a class="button is-small is-info"
-       href="https://t.me/share/url?url={{ site.url }}{{ page.url }}&text={{ page.title }}"
-       target="_blank"
-       title="Share on Telegram">
-      <span class="icon"><i class="fab fa-telegram-plane"></i></span>
-    </a>
+  <!-- Telegram -->
+  <a href="https://t.me/share/url?url={{ page.url | absolute_url }}&text={{ page.title | url_encode }}"
+     target="_blank"
+     title="Share on Telegram">
+    <span class="icon"><i class="fab fa-telegram-plane"></i></span>
+  </a>
 
-    <!-- Email -->
-    <a class="button is-small is-dark"
-       href="mailto:?subject={{ page.title }}&body=Check out this article: {{ site.url }}{{ page.url }}"
-       title="Share via Email">
-      <span class="icon"><i class="fas fa-envelope"></i></span>
-    </a>
-
-  </div>
 </div>
