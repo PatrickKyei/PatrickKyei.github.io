@@ -1,6 +1,6 @@
 ---
 title: Design Your Life With High-priority Goals (6 Months To A New You)
-description: "My life drastically improved because I chanced on certain information very few people knew. Same for other people. Qualityh information leads to quality life."
+description: "My life drastically improved because I chanced on certain information very few people knew of."
 date: 2025-08-06 07:00:00 +00
 image:
   path: /assets/img/3-months-focus.png
@@ -14,6 +14,8 @@ tags:
   - writing
   - productivity
 ---
+
+{% include embed/youtube.html id='seo6EV6UWXc' %}
 
 You weren’t born to work 40 hours a week doing something you hate, numb your mind with endless scrolling, and wake up one day wondering where the time went.
 
