@@ -544,7 +544,7 @@ hr {
 .site-heading-rtl>.main-page-heading {
     color: var(--color-text-main);
     font-family: var(--primary-font-family);
-    font-weight: 600;
+    font-weight: 800;
     margin-right: 20px;
 }
 
@@ -1002,7 +1002,7 @@ hr {
     margin-right: 50px;
     font-size: 16.5px;
     font-family: var(--primary-font-family);
-    font-weight: 600;
+    font-weight: 800;
 }
 
 .feed-excerpt {

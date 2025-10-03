@@ -45,6 +45,10 @@
 
 
 <script src="https://kit.fontawesome.com/28ec8bc467.js" crossorigin="anonymous"></script>
+
+<link rel="manifest" href="{{ site.baseurl }}/manifest.json">
+<meta name="theme-color" content="#d4af37">
+
       
 </head>
 <body class="has-navbar-fixed-top">
@@ -52,5 +56,13 @@
     {{ content }}
 
     <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+    <script>
+        if ("serviceWorker" in navigator) {
+          navigator.serviceWorker.register("{{ site.baseurl }}/service-worker.js")
+            .then(reg => console.log("Service worker registered:", reg))
+            .catch(err => console.log("SW registration failed:", err));
+        }
+      </script>
+      
 </body>
 </html>
