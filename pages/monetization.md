@@ -17,14 +17,12 @@ permalink: /monetization
 
 {% include monetization/learn.html %}
 
+{% include monetization/future.html %}
+
 {% include monetization/templates.html%}
 
 {% include monetization/pricing.html %}
 
-{% include monetization/who-for.html %}
+{% include monetization/faqs.html %}
 
-{% include monetization/breakdown.html %}
 
-{% include fullstack/instructor.html %}
-
-{% include monetization/pricing.html %}
