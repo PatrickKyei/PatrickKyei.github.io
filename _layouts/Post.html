@@ -6,31 +6,6 @@
     <meta content="width=device-width, initial-scale=1" name="viewport" />
     <meta content="Patrick Kyei" property="og:site_name" />
 
-    <!-- Dynamic Title and URL -->
-    {%- if page.title -%}
-    <meta content="{{ page.title }}" property="og:title">
-    <meta content="article" property="og:type">
-    <meta content="{{ site.url }}{{ page.url }}" property="og:url">
-    {%- else -%}
-    <meta content="website" property="og:type">
-    <meta content="{{ site.url }}{{ page.url }}" property="og:url">
-    {%- endif -%}
-
- <!-- Open Graph (Facebook, LinkedIn, WhatsApp, Telegram) -->
-<meta property="og:title" content="{{ page.title | default: site.title }}" />
-<meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | truncate: 160 }}{% else %}{{ page.excerpt | strip_html | truncate: 160 }}{% endif %}" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-<meta property="og:image" content="{% if page.image and page.image.path %}{{ page.image.path | absolute_url }}{% else %}{{ site.url }}/assets/img/default-share.png{% endif %}" />
-<meta property="og:image:alt" content="{{ page.image.alt | default: page.title | default: site.title }}" />
-
-<!-- Twitter Card -->
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="{{ page.title | default: site.title }}" />
-<meta name="twitter:description" content="{% if page.description %}{{ page.description | strip_html | truncate: 160 }}{% else %}{{ page.excerpt | strip_html | truncate: 160 }}{% endif %}" />
-<meta name="twitter:image" content="{% if page.image and page.image.path %}{{ page.image.path | absolute_url }}{% else %}{{ site.url }}/assets/img/default-share.png{% endif %}" />
-
-
 <!-- Extra -->
 <meta property="article:author" content="{{ site.url }}/about/" />
 
@@ -43,7 +18,8 @@
 
 
     <!-- Page Title -->
-    <title>{{ page.title }} - {{ site.heading }}</title>
+    <title>{% if page.title %}{{ page.title }} | {{ site.heading }}{% else %}{{ site.heading }}{% endif %}</title>
+    {% include meta.html %}
 
     <!-- Canonical Link -->
     <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
@@ -57,6 +33,8 @@
     <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet" media="all" />
     <link href="{{ site.baseurl }}/assets/css/Util.css" rel="stylesheet" media="all" />
     <link href="{{ site.baseurl }}/assets/css/vendor/Katex.css" rel="stylesheet" media="all" />
+
+    {% include meta.html %}
 
     <!-- IE-specific Stylesheet -->
     <!--[if IE]>

@@ -6,29 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
-    <!-- Open Graph Meta Tags -->
-    <!-- Open Graph (Facebook, LinkedIn, WhatsApp, Telegram) -->
-    <meta property="og:title" content="{{ page.title | default: site.title }}" />
-    <meta property="og:description"
-        content="{% if page.description %}{{ page.description | strip_html | truncate: 160 }}{% else %}{{ page.excerpt | strip_html | truncate: 160 }}{% endif %}" />
-    <meta property="og:type" content="article" />
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-    <meta property="og:image"
-        content="{% if page.image and page.image.path %}{{ page.image.path | absolute_url }}{% else %}{{ site.url }}/assets/img/default-share.png{% endif %}" />
-    <meta property="og:image:alt" content="{{ page.image.alt | default: page.title | default: site.title }}" />
+    {% include meta.html %}
 
-    <!-- Twitter Card -->
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="{{ page.title | default: site.title }}" />
-    <meta name="twitter:description"
-        content="{% if page.description %}{{ page.description | strip_html | truncate: 160 }}{% else %}{{ page.excerpt | strip_html | truncate: 160 }}{% endif %}" />
-    <meta name="twitter:image"
-        content="{% if page.image and page.image.path %}{{ page.image.path | absolute_url }}{% else %}{{ site.url }}/assets/img/default-share.png{% endif %}" />
-
-    <!-- Extra -->
-    <meta property="article:author" content="{{ site.url }}/about/" />
-
-    <title>{{page.title}} | {{site.name}}</title>
+<title>{% if page.title %}{{ page.title }} | {{ site.heading }}{% else %}{{ site.heading }}{% endif %}</title>
 
     {% seo %}
     <!-- Font Awesome Icons -->
