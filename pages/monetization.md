@@ -21,6 +21,8 @@ permalink: /monetization
 
 {% include monetization/templates.html%}
 
+{% include monetization/takeaways.html%}
+
 {% include monetization/pricing.html %}
 
 {% include monetization/faqs.html %}
