@@ -112,11 +112,11 @@ If you want to maximize your max all areas of your life — health, wealth and r
 
 Here are questions to help you start working through that process.
 
-a) Do you like what you're doing now?
-b) What would you like to do?
-c) Can you do what you would like to do?
-d) Do you know why you want to do what you would like to do?
-e) Do you know what to do so you can do what you want to do?
+a) Do you like what you're doing now?  
+b) What would you like to do?  
+c) Can you do what you would like to do?  
+d) Do you know why you want to do what you would like to do?  
+e) Do you know what to do so you can do what you want to do?  
 f) Do you know people who do what you'd
 like to do?
 
@@ -144,14 +144,14 @@ Today we are helping a lot of people gain [future proof](https://Skillembassy.or
 
 In one year, you can:
 
-• master a specific skill.
-• build productive habits.
-• broaden your knowledge base.
-• improve your overall quality of life.
-• earn your first dollar on the internet.
-• connect with like-minded individuals.
-• gain clear insight into your vision and goals.
-• create thousands of different opportunities.
+- master a specific skill.
+- build productive habits.
+- broaden your knowledge base.
+- improve your overall quality of life.
+- earn your first dollar on the internet.
+- connect with like-minded individuals.
+- gain clear insight into your vision and goals.
+- create thousands of different opportunities.
 
 
 You have to build your own thing. 
@@ -189,7 +189,7 @@ You must make the unconscious conscious in order to make changes in your daily r
 
 You become your choices overtime. And if you are the choices you make, should you not make time to review your daily routine?
 
-1) Take Note Of How You Feel
+#### 1) Take Note Of How You Feel
 
 Pull out a notebook and write down:
 
@@ -200,7 +200,7 @@ Take 10 minutes and get specific (Run it with my [Life Reset Prompt](https://sel
 
 This is important for identifying unconscious parasites (time and energy suckers).
 
-2) Prioritize, Remove, & Restructure
+#### 2) Prioritize, Remove, & Restructure
 
 The reason you aren't getting the results you want is because:
 
@@ -224,7 +224,7 @@ There is enough hours in a day if you prioritize the things you do. The rich and
 
 Get the chaotic structure of your mind on paper and reorganize it.
 
-3) Create A Week Long Plan
+#### 3) Create A Week Long Plan
 
 You are in this chaotic spot in life because of entropy.
 
@@ -283,10 +283,10 @@ Move your body daily — lift, walk, or stretch.
 
 5 habits to design a beautiful life:
 
-1. Build your mind.
-2. Build your body.
-3. Build your network 
-4. Build your business.
+1. Build your mind.  
+2. Build your body.  
+3. Build your network.  
+4. Build your business.  
 5. Build your relationships.
 
 Adopting these 5 habits puts you on the path to having and living a life of fulfillment.
@@ -302,8 +302,8 @@ That’s why they never start.
 
 You only need 1–2 hours of focused work.
 
-One hour of writing.
-One hour of building.
+One hour of writing.  
+One hour of building.  
 One hour of connecting.
 
 That’s enough to put you ahead of 99% of people—if you repeat it daily.
