@@ -185,7 +185,7 @@ This is my perspective. None of these are absolute law. Question what I said, te
 
 ## Start Building for Yourself Every Day
 
-You must the unconscious conscious in order to make changes in your daily routines. Your actions contribute to who you are.
+You must make the unconscious conscious in order to make changes in your daily routines. Your actions contribute to who you are.
 
 You become your choices overtime. And if you are the choices you make, should you not make time to review your daily routine?
 
