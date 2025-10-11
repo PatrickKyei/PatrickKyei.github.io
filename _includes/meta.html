@@ -1,17 +1,26 @@
-<!-- Dynamic Meta Tags -->
-<title>{{ page.title | default: site.title }} - {{ site.heading | default: site.title }}</title>
-<link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+<meta property="og:locale" content="en_US" />
 
-<!-- Open Graph (Facebook, LinkedIn, WhatsApp, Telegram) -->
-<meta property="og:title" content="{{ page.title | default: site.title }}" />
-<meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | truncate: 160 }}{% else %}{{ page.excerpt | strip_html | truncate: 160 }}{% endif %}" />
-<meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}" />
+
+<!-- Open Graph meta tags -->
+<meta property="og:title" content="{{ page.title | default: site.heading }}" />
+<meta property="og:type" content="website" />
 <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-<meta property="og:image" content="{% if page.image and page.image.path %}{{ page.image.path | absolute_url }}{% else %}{{ site.url }}/assets/img/default-share.png{% endif %}" />
-<meta property="og:image:alt" content="{{ page.image.alt | default: page.title | default: site.title }}" />
+<meta property="og:description" content="{{ page.description | default: site.content }}" />
+{% if page.image.path %}
+  <meta property="og:image" content="{{ page.image.path | absolute_url }}" />
+{% else %}
+  <meta property="og:image" content="{{ '/assets/img/patrick1.png' | absolute_url }}" />
+{% endif %}
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:site_name" content="{{ site.heading }}" />
 
-<!-- Twitter Card -->
+<!-- Twitter meta tags -->
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="{{ page.title | default: site.title }}" />
-<meta name="twitter:description" content="{% if page.description %}{{ page.description | strip_html | truncate: 160 }}{% else %}{{ page.excerpt | strip_html | truncate: 160 }}{% endif %}" />
-<meta name="twitter:image" content="{% if page.image and page.image.path %}{{ page.image.path | absolute_url }}{% else %}{{ site.url }}/assets/img/default-share.png{% endif %}" />
+<meta name="twitter:title" content="{{ page.title | default: site.heading }}" />
+<meta name="twitter:description" content="{{ page.description | default: site.content }}" />
+{% if page.image.path %}
+  <meta name="twitter:image" content="{{ page.image.path | absolute_url }}" />
+{% else %}
+  <meta name="twitter:image" content="{{ '/assets/img/patrick1.png' | absolute_url }}" />
+{% endif %}
