@@ -275,7 +275,7 @@ We take a different approach.
 
 We focus on _writing._ 
 
-Here's where I promote the [Minimalist Writer](https://paystack.com/buy/writing-sprint) sprint. You can skip to the next part if audience building is not something you are interested in right now.
+Here's where I promote the [Minimalist Writer](//paystack.com/buy/writing-sprint) sprint. You can skip to the next part if audience building is not something you are interested in right now.
 
 You’ll learn how to:
   
