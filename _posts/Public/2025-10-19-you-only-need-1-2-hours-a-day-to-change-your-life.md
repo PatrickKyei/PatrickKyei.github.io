@@ -13,7 +13,7 @@ tags:
   - business
   - lifestyle-design
 ---
-{% include embed/youtube.html id='5s_w2x3KT_Y' %}
+{% include embed/youtube.html id='RjtrDkYwyUo' %}
 
 Look around.
 
@@ -67,11 +67,9 @@ Become _fed up_ with your lack of progress.
 
 Use that frustration to laser in on the meaningful goal you’ve been putting off — the one your inner voice won’t shut up about.
 
-- “You were meant for more than this.”
-    
-- “You have what it takes to be successful.”
-    
-- “You don’t have to end up like the rest.”
+-“You were meant for more than this.”
+-“You have what it takes to be successful.”
+-“You don’t have to end up like the rest.”
 
 
 Seriously, _feel_ it. Stop avoiding it.
@@ -79,7 +77,7 @@ Seriously, _feel_ it. Stop avoiding it.
 The pain of not achieving your goals must outweigh the pain of living comfortably.  
 Only then will your focus become your freedom.
 
-## Focus
+## Create A System For Focus
 
 Once you accept that nobody will hand you permission to pursue your own goals, the next step is reclaiming the one resource you _do_ control — your focus.
 
@@ -113,7 +111,7 @@ Thanks to deep knowledge being accessible to those who want to find it on the in
 
 I realized that the source of most people’s lack of fulfillment is that they’ve never learned or built something that they chose to learn or build.
 
-## The Focus Dividend
+### The Focus Dividend
 
 Imagine a month where you're unstoppable.
 
@@ -158,7 +156,7 @@ This is where the 1-Hour Rule becomes a game.
 
 You need a goal to work towards. You need a skill to to master that will help you solve the problems life present you. If you don't know what you want, experiment. Stop wondering what to do with your life. Start trying everything until you find the one thing that makes you forget to eat. The thing that makes you lose track of time. The thing that keeps you up at night because the ideas won't stop coming. Give everything for that one thing.
 
-You can an evergreen skill. One skill that compounds: [writing](https://patrickkyei.com/fullstack-writer), coding, marketing, or [building a business](https://patrickkyei.com/monetization).  
+You can an evergreen skill. One skill that compounds: [writing](/fullstack-writer), coding, marketing, or [building a business](/monetization).  
 This will be your leverage point.  
 Ask yourself:
 
@@ -277,7 +275,7 @@ We take a different approach.
 
 We focus on _writing._ 
 
-Here's where I promote the [Minimalist Writer]([https://paystack.com/buy/writing-sprint](https://paystack.com/buy/writing-sprint)) sprint. You can skip to the next part if audience building is not something you are interested in right now.
+Here's where I promote the [Minimalist Writer](https://paystack.com/buy/writing-sprint) sprint. You can skip to the next part if audience building is not something you are interested in right now.
 
 You’ll learn how to:
   
