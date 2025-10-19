@@ -67,9 +67,9 @@ Become _fed up_ with your lack of progress.
 
 Use that frustration to laser in on the meaningful goal you’ve been putting off — the one your inner voice won’t shut up about.
 
--“You were meant for more than this.”
--“You have what it takes to be successful.”
--“You don’t have to end up like the rest.”
+- “You were meant for more than this.”
+- “You have what it takes to be successful.”
+- “You don’t have to end up like the rest.”
 
 
 Seriously, _feel_ it. Stop avoiding it.
@@ -91,7 +91,6 @@ You don’t have a **time problem.**
 You have an **attention leak.**
 
 
-[img focus leak]
 
 Think about it — one focused hour a day equals 365 hours a year. That’s **nine full-time workweeks** invested in your dream — without quitting your job or sacrificing your family. You should pursue your interests but I am not asking you to go and quilt your job without any plan on what to do next especially if you have a family who depends on your income.
 
@@ -257,11 +256,11 @@ Without them, your ideas, products, and skills remain invisible.
 
 If you’re:
 
- - A beginner who wants a business that works with any skill
- - A creative tired of waiting for publishers, record labels, or clients
- - A founder who finally sees the power of social media to scale your impact
+- A beginner who wants a business that works with any skill
+- A creative tired of waiting for publishers, record labels, or clients
+- A founder who finally sees the power of social media to scale your impact
 
-  Then here’s your wake-up call:
+Then here’s your wake-up call:
 
 You don’t need luck.
 
