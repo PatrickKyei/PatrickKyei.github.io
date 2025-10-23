@@ -16,7 +16,7 @@ tags:
 
 {% include embed/youtube.html id='1e67VZTaRxo' %}
 
-You are an amalgamation of the ideas, beliefs, and distinctions that you perceive as important based on your programming. And some ideas if you spend enough time to digest and let it sink it, you'd find it answers most of your questions in life.
+You are an amalgamation of the ideas, beliefs, and distinctions that you perceive as important based on your programming. If you spend enough time to digest the novel ideas you consume and let them sink in, you'd find they answer most of the questions of your inner dialogue.
 
 I’ve been thinking about how different ideas influence us, whether we’re grinding at work or just trying to make the most of our daily lives.
 
