@@ -1,9 +1,9 @@
 ---
-title: 10 Quotes That Will Change Your Life (Number 10 Will Destroy Your Excuses)
-description: "Don’t miss the last quote."
-date: 2025-10-23
+title: 4 Side Hustles You Can Start And Why You Should Get One
+description: "You need $0 to start."
+date: 2025-11-04
 image:
-  path: /assets/img/10-quotes.png
+  path: /assets/img/4-business-ideas.png
   alt: this is an image
 categories:
   - Business
@@ -14,187 +14,250 @@ tags:
   - lifestyle-design
 ---
 
-{% include embed/youtube.html id='1e67VZTaRxo' %}
+{% include embed/youtube.html id='V400D-n_Ff8' %}
 
-You are an amalgamation of the ideas, beliefs, and distinctions that you perceive as important based on your programming. If you spend enough time to digest the novel ideas you consume and let them sink in, you'd find they answer most of the questions of your inner dialogue.
+There are over 5B+ people on the internet in 2025.
 
-I’ve been thinking about how different ideas influence us, whether we’re grinding at work or just trying to make the most of our daily lives.
+It’s never been easier to start a side hustle — or even a full-fledged online business — right from your bedroom.
 
-Today, I will share with you some ideas (quotes) that have influenced my life and that will probably change yours as well.
+Or from Port Harcourt.
 
-Don’t miss the last quote.
+Or literally anywhere.
 
-#### 1. P. **Drucker & A. Lincoln**: “The best way to predict the future is to create it.”
+We can now work whenever and wherever we want. You can be fully employed and still build multiple income streams on the side before you go full in.
 
-Stop waiting around for things to happen, and start making them happen.
+Most people spend time, resources and years of hurdles to "upgrade" their certifications, sharpen their skill set, and become the go-to person at their job yet their bank account doesn’t reflect the upgrade. Usually they get a 3-10% raise most.
 
-Grab a notebook.
+Most traditional employment reward positions, not competence.
 
-Write out exactly what you want in your future, don't miss a detail. Then, break it down into goals. Decades, years, months, weeks, and days.
+You’re improving, but your environment isn’t built to scale your value.  
+You’re capped by job titles, salary bands, and other people’s approval.
 
-Every day, write down the 3 levers you can move to create your vision.
+When your skill begins to outgrow your paycheck, it’s time to build an independent source of income — a system where your value compounds without permission.
 
-Then, forget about the goals and execute.
+We are in a permissionless economy. Build an independent source of income.
 
-Goals are for direction. They are not set in stone. The goals you create today may change in the next 3 months.
+Building an independent income means using the internet to package your knowledge into something scalable — content, courses, or consulting.
 
-Clear structures of what you want allow you to achieve those goals.
+Think of it this way:  
+ 
+Use your 9-5 to fund your 5-9 to build your new business.
 
-#### 2. Marcus Aurelius: “You have power over your mind – not outside events. Realize this, and you will find strength.”
+Right now, over **4.95 billion people** around the world have internet access.
 
-No matter what craziness is going on around you, the real control is in how you respond.
+That means access to _people_ has never been greater. And the **attention economy** is booming.
 
-Filter every thought, emotion, decision, habit, problem, or goal through your vision and drop them without question if they don't align.
+With the current market conditions, job stability is at an all-time low.  
+Building multiple income streams isn’t just smart — it’s survival.
 
-Next time you’re facing a tough situation do this:
+## 4 Side Hustles and How to Get Started
 
-- Stop.
-- Take a deep breath.
-- Think about what just happened.
-- Ask yourself, “What caused this trigger?”
+### 1. Career Coaching 
 
-Whether you’re feeling angry, stressed, or anxious, take a moment to pause, reflect, and analyze what just happened.
+When Sarah lost her job in 2020, she started helping a few friends rewrite their resumes and prep for interviews. Within three months, her advice led five people to new roles — and her inbox flooded with new requests. She turned that into a $3,000/month coaching side hustle within six months. 
 
-"**If it doesn't matter it can control you."** That's the mindset I use to navigate my emotions. I have it in front of my study desk.
+This is how the cofounders of Stan started.
 
-#### 3. Benjamin Franklin: “Contentment makes poor men rich; discontent makes rich men poor.”
+If you don’t learn to showcase your skills you'll become a starving artist.
 
-Patterns I've noticed in unhappy people:
+The job market doesn’t care about your degree.
 
-- They care about fitting in
-- They lack vision for the future
-- They expect too much from others
-- They neglect lifelong self-education
-- They unknowingly prioritize negative thoughts
+It cares about the value you bring.
 
-They don't realize that happiness is an inside job.
+If you want to be successful in today's economy, focus on these 3 things:
 
-It’s all about finding richness in what you 
+1. **Identify a high-demand skill**
 
-Social media makes will make you feel like you are missing out on a lot. People post their smiley selfies and don't show the ugly part.
+Web design, digital marketing, coding, or even content creation—find a skill that’s needed in today’s economy.
 
-Pursuing usefulness will make you a lot happier than pursuing happiness
+  
 
-Happiness is the feeling derived from:
+2. **Commit to mastery**
 
-- Doing something (making progress)
-- Doing nothing (at peace)
+You don’t need to be perfect from the start. Take courses, find resources, learn from mentors and practice daily. Progress beats perfection.
 
-Most people are unhappy because they’re stuck in the middle.
+  
 
-They focus on their thoughts instead of reality.
+3. **Brand yourself**
 
-Imagine finding true contentment in where you are and what you’ve got?
+Don’t hide your skills. Use social media to share your journey, build authority, and attract opportunities. Show the world what you’re capable of.
 
-That’s a real wealth that money can’t buy.
+  
+There is always someone who is 1, 2, or 3 steps behind you on the same journey."
 
-Aim for that.
+You can start with your current expertise — no need to be a guru. You simply help people who are one or two steps behind you in their career journey.
+  
+Go back several steps (months, years).
 
-Yes, build a business.
+Share advice you wish you'd known then.
 
-Yes, build anything meaningful to you.
+Show the how. And the now. From your POV.
 
-But don’t tell yourself that once you’ve built it and started making money from it, you will finally be happy.
+  
+Become a value creator. Not just a self-promoter.
 
-Complete happiness is a myth—it’s not real.
+It's the fastest route to authority and trust.
 
-What is real, however, is finding joy in everyday moments, regardless of whether your days are good or bad.
+Sell your services for some → But be a leader for many.
 
-Dream big, work hard, but always find joy in what you have.
+  
+I learnt coding, design, [writing](https://patrickkyei.com/fullstack-writer) from taking courses and learning from mentors — people with actual results when I had no degree, but I’ve built a career through self education, consistency, practice, and personal branding.
 
-#### 4. Seth Godin: “Marketing is no longer about the stuff that you make, but about the stories you tell.”
+Your story doesn’t have to be different.
 
-When selling anything (courses, services, your ideas, beliefs or products) it’s all about connection.
+Start where you are. Commit to longterm learning. 
 
-People don’t just buy stuff.
+And leverage your personal brand to stand out.
 
-They buy into stories.
+**How to start:**
 
-If you’re trying to make a mark with your brand or even just get your ideas out there, think about the story you’re telling.
+- Identify your niche (career changers, job seekers, professionals in your field).
+- Offer 1:1 sessions to test your method.
+- Use LinkedIn or X to share tips and build credibility.
 
-It’s not just what you sell, it’s the why that really hook people.
+**Top 3 Tips:**
 
-#### 5. Winston Churchill: “Success is not final, failure is not fatal: It is the courage to continue that counts.”
+1. Find something you’re passionate about and deeply understand.
+2. Focus on helping people just a few steps behind you.
+3. Start with a service — it gives you quick wins. You can build digital products later.
 
-Winning in life isn’t about getting it right all the time.
+### 2. Freelancing / Done-For-You Services
 
-It’s about not giving up when you don’t.
+In 2022, a Reddit survey showed that 45% of freelancers started earning their first income online with zero prior experience — just by offering services like copywriting, editing, or social media management. Most of them began with one client and built from there.
 
-I repeat.
+You can monetize existing skills — design, writing, marketing, coding, or video editing — with almost zero upfront investment.
 
-It’s not about getting things right all the time but about not giving up when you don’t.
+A business paid me a good amount of money to write for them for just an hour a day.
 
-Every setback is just setting the stage for a comeback, as long as you keep pushing.
+**How to start:**
 
-Be a loser.
+- Choose a single skill to offer.
+- Create a few portfolio samples.
+- Reach out to potential clients via cold email or platforms like Upwork and Fiverr or simply start showing your skills under a personal brand. This is why writing is such an important skill.
 
-Let your parents think you are stupid for not following their path. Start a business and embrace failure after failure. Study the interests that make you feel like an outcast.
+Writing is how you:
 
-Where most people conform is where greatness is born.
 
-#### 6. Robert Kiyosaki: “The richest people in the world look for and build networks; everyone else looks for work.”
 
-Whether you’re working a 9-5 or hustling on your own, the real power comes from the people you connect with.
+- Send emails
+- Write content
+- Write video scripts
+- Write advertisements and promotions
+- Send networking DMs
 
-Building networks, connections, and communities are the stepping stones to success no matter your path.
+- Clarify your ideas to enhance your speaking (in text messages, conversations, videos, and anything else… writing can and should come first).
 
-It's pretty simple.
+I am not talking about technical or academic writing.  
 
-Whenever I feel like sh*t, it's because I've stopped putting as much effort into the development of health, fitness, relationships, intelligence, or business.
+I am talking about impactful writing.  
 
-No amount of worrying is going to fix a problem solved by doing.
+Writing rooted in persuasion, marketing, sales, human nature, and psychology.
 
-#### 7. Estée Lauder: “I never dreamed about success, I worked for it.”
+You don't need fancy: 
 
-Dreaming big is great, but at the end of the day, it’s the action you take that turns those dreams into reality.
+fancy notebooks
+fancy courses 
+fancy gadgets 
 
-If you have goals, don’t just sit on them.
+What you need:
+ 
 
-Make a plan, break it down into steps, and start ticking them off.
+discipline 
+consistency 
+commitment
 
-**Just a quick one:** You can grab my Life Reset Plan.
+If you are not comfortable on video or don't have the equipments to create videos and pictures for content, learn to write.
 
-You can use it to create purpose, envision your future, enhance your focus, and prioritize what truly matters to reach your goals with less stress.
+In 6 days the price of the [Minimalist Writer](https://paystack.com/buy/writing-sprint) increases.
 
-[Check out the Life Reset Plan here.](https://selar.com/reset-plan /)
+In 5 days you’ll learn how to:
 
-#### 8. Heraclitus: “Change is the only constant in life.”
+- Build your niche of one
+- Avoid competition through Authenticity 
+- Turn 1 idea into 7 days of content
+- Write your first 20 foundational content with me live
+- Repurpose your words across platforms
+- Attract aligned followers and clients
+- Get exponential visibility in my 1M+ Facebook groups - [Thinkers and Performers](https://www.facebook.com/share/p/G57EVPHne3YSZamo/?mibextid=oFDknk), [Masterminds.](https://www.facebook.com/groups/formasterminds/?ref=share&mibextid=NSMWBT)
+- Write scroll stopping posts, threads and newsletters
 
-Sometimes, you get comfy in your routines, but life is all about change.
+Registration is open till Nov 25th. 
 
-If you're lost, start solving problems.
+8PM–10PM GMT+0.
 
-The problems that are staring you straight in the face. Your fitness, health, finances, mindset, work, or anything preventing you from having control over your life.
+You only invest $27/GHC 299.
 
-Experiment until you become obsessed and watch your life change.
-#### 9. Maya Angelou: “You can only become truly accomplished at something you love. Don’t make money your goal. Instead, pursue the things you love doing, and then do them so well that people can’t take their eyes off you.”
 
-It’s tempting to chase after the money or the title, but at the end of the day, it’s the passion for what you do that makes the journey worthwhile.
+**Tips:**
 
-If you love something, dive deep into it.
+- Learn to communicate clearly and deliver on time.
+- Use social proof (testimonials, screenshots).
+- Raise your prices as your demand grows.
 
-Master it.
 
-The recognition and success that come from doing something you love are far more satisfying than any paycheck.
+### 3. Community Building
 
-#### 10. Farrah Gray: ”Build your own dreams or someone else will hire you to build theirs.”
+When [Ali Abdaal](https://youtube.com/@aliabdaal) launched his “Part-Time YouTuber Academy,” it started as a small community of 200 creators sharing notes. That group has now grown into a thriving six-figure business because people stayed for connection and support.
 
-If you don’t set out to fulfill your own dreams, you will find yourself stuck working hard on someone else’s.
+**Why it’s beginner-friendly:**  
+People crave connection. You can build a community around shared interests — productivity, writing, health, or business — even with a small audience.
 
-Take charge of your own destiny.
+**How to start:**
 
-Step up and make your own path.
+- Pick a clear theme and audience.
+- Choose a platform (Discord, WhatsApp, Telegram, or Circle).
+- Host events, challenges, or discussions.
 
-Don’t spend 99% of your life fitting into someone else’s blueprint.
+**Tips:**
 
-If you don't choose your own game, society will assign you one, and society's games are incredibly boring. Same quest. Same routine. For 40 years until you win a mediocre prize. You don't want freedom from rules. You want the freedom to create your own.
+- Engage daily.
+- Lead with authenticity.
+- Once the community grows, monetize through memberships or digital products.  
+Think of creators like Sahil Bloom or Justin Welsh — they built thriving online communities that became the backbone of their businesses.
 
-There is someone putting in half the effort as you and making 10x as much because they took a bet on themselves to stop relying on someone to assign them work with a set dollar amount.
+### 4. Selling Digital Products
 
-Deciding to build digital leverage is the most important decision you can make
+If you want to sustain what you love to do then you'll have to make money.
 
-If you don’t know where to start, read the previous letter.
+If you want to make money doing what you love then you will have to start a business.
 
-Thanks for reading.
+If you want to start a business you will have to educate yourself with the broader ray of skills necessary to do so. That is a part of your interest-based education.  Starting a business, learning business is a part of your interest base education if you want to do what you want, by your own means, by your own desire, by your own control.
 
-Patrick Kyei
+Most people fall into two camps: (1) They work a job that disconnects them from how the product is sold and thus generates revenue, so they do not understand it. (2) They cannot possibly see how “selling” can be a mutually beneficial act, so they virtue signal themselves to death because they want to “focus on their art.”
+
+
+**Why it’s beginner-friendly:** 
+
+You create once, sell forever. Ebooks, templates, courses, guides — all can generate passive income.
+
+**How to start:**
+
+- Identify what problem you can solve.
+- Create a simple product (e.g., Notion template, short guide, or mini-course).
+- Use Gumroad or Selar to sell it.
+
+**Tips:**
+
+- Start small and improve over time.
+- Build an audience that trusts your recommendations.
+- Bundle products or add bonuses to increase perceived value.
+
+
+## Start Building Multiple Income Streams
+
+With just a few focused hours a day, you can significantly increase your monthly income. Most people will give excuses why can't. I built my brand to 7k while I still had a 9-5.
+
+It’s one of the best ways to stay ahead of inflation, market uncertainty, and corporate layoffs.
+
+A side hustle isn’t just about money — it’s about freedom, optionality, and peace of mind.
+
+So the question is:  
+**What will your side hustle be?**
+
+Or maybe you already have one?  
+
+If you enjoyed today’s newsletter, please share it with your friends and family.
+
+See you in the next.
+
+-Patrick.
