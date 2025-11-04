@@ -43,6 +43,8 @@ Think of it this way:
  
 Use your 9-5 to fund your 5-9 to build your new business.
 
+![freelancing](/assets/img/freelancing.jpg)
+
 Right now, over **4.95 billion people** around the world have internet access.
 
 That means access to _people_ has never been greater. And the **attention economy** is booming.
