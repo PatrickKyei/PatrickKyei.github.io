@@ -15,9 +15,9 @@ permalink: /monetization
 {% include monetization/message.html %}
 
 
-{% include monetization/learn.html %}
-
 {% include monetization/future.html %}
+
+{% include monetization/inside.html %}
 
 {% include monetization/templates.html%}
 
