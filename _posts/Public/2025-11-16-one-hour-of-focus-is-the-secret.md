@@ -1,5 +1,5 @@
 ---
-title: One hour of focus is the secret you are looking for
+title: One hour of focus is the secret you are searching for
 description: "The modern superpower."
 date: 2025-11-16
 image:
