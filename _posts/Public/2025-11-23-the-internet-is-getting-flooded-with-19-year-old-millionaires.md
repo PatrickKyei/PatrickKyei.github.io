@@ -17,10 +17,6 @@ tags:
 
 {% include embed/youtube.html id='Ad23AEd4FyY' %}
 
-# the internet is getting flooded with 19 year old millionaires
-
-### social media is modern leverage
-
 Unless you’ve been sleeping under a rock, you will have noticed that the world of work has changed significantly in the last few decades. 
 
 Remote work and artificial intelligence are the two biggest changes. 
