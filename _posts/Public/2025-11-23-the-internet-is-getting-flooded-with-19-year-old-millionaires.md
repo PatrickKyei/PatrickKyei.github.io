@@ -1,5 +1,5 @@
 ---
-title: The internet is getting flooded with 19 year old millionaires
+title: The internet is making 19-year-olds millionaires
 description: "Social media is modern leverage."
 date: 2025-11-23
 image:
