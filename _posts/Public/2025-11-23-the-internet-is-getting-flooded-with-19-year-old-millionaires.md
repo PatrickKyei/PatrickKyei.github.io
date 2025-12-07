@@ -124,11 +124,11 @@ Who wants to learn how to: 
 
 But you feel frustrated because:
 
-  - You post everyday but can't grow
-  - You don't know how to generate ideas
-  - You are not able to achieve your weekly goals 
-  - You want to monetize your account but cannot unlock the features
-  - You can not stop relying on the algorithm as your new boss to go viral
+- You post everyday but can't grow
+- You don't know how to generate ideas
+- You are not able to achieve your weekly goals 
+- You want to monetize your account but cannot unlock the features
+- You can not stop relying on the algorithm as your new boss to go viral
 
 The Minimalist Writer sprint starts 26th, 3 from when you received this email. Don't miss out. The interesting is that is less than the price of a pizza.
 
