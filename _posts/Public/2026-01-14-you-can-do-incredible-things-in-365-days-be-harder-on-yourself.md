@@ -15,6 +15,8 @@ tags:
   - lifestyle-design
 ---
 
+{% include embed/youtube.html id='LrUodhFYIjg' %}
+
 You're in this situation because you got distracted. You lost focus. You gave up your dreams and delighted in the comfort someone promised you. You stopped focusing on the path you were on. You went to school, got the job, and now what? Your thoughts are dominated by bills to pay, work that means nothing to you, and the lack of time or energy to take care of yourself, build something of your own, or truly engage with life. These thoughts multiply endlessly, imprisoning you in a stressed, survival-driven mentality. Life loses its zest. Days become robotic. Opportunities become scarce.
 
 You may be in a rough spot in life right now. The reason you can't tap into a higher state of consciousness is stress, anxiety, overwhelm, and distraction. You lack intention. You let habits slip. You went unconscious for a bit and found yourself in a cloud of responsibilities and cheap desires. You let the thoughts and emotions reproduce and take over. You lost sight of a vision that pulls you to channel the entirety of your energy into it. You lost connection to a higher version of yourself. You lost the why that fueled your ambition.
