@@ -254,6 +254,10 @@ body {
     padding-top: var(--padding-broad);
 }
 
+/* Hero Section */
+.hero .title {
+    font-weight: 800 !important;
+}
 
 header {
     display: flex;
@@ -418,6 +422,74 @@ ul ul {
 
 .list-feed a:hover {
     color: var(--color-text-link);
+}
+
+/* 07.1 Post Card Titles */
+.post-item .title {
+    font-weight: 800 !important;
+}
+
+/* Separator used in post cards between excerpt and meta (author/date) */
+.post-sep {
+    border: 0;
+    border-top: 1px solid var(--color-border-light);
+    margin: 0.75rem 0;
+    opacity: 0.6;
+}
+
+/* Post meta (author / dot / date) */
+.post-meta {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+}
+
+.post-meta .author-name,
+.post-meta .post-date-wrapper {
+    display: inline-flex;
+    align-items: center;
+    margin: 0;
+    line-height: 1;
+}
+
+.post-dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: #FFD54F; /* warm yellow */
+    display: inline-block;
+    flex: 0 0 auto;
+    margin: 0;
+    transform: translateY(0.6px);
+}
+
+.post-date-wrapper {
+    margin: 0;
+}
+
+.post-meta .author-name {
+    font-size: 0.9rem;
+    font-style: italic;
+}
+
+.post-meta .post-date-wrapper {
+    font-size: 0.86rem;
+    color: var(--color-text-sub);
+    font-style: italic;
+}
+
+/* Read full post link: match author/date sizing */
+.read-full {
+    font-size: 0.9rem;
+    line-height: 1;
+    color: #FFFFFF;
+    font-weight: 600;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.read-full:hover {
+    text-decoration: underline;
 }
 
 /* 08. Figures, Images, Code, Blockquotes, Tables */
@@ -1598,10 +1670,10 @@ li {
 }
 
 a[href^="http"] {
-    background-image: url(../img/external-link.svg);
+    background-image: none !important;
     background-repeat: no-repeat;
     background-position: right;
-    padding-right: 1.3rem;
+    padding-right: 0;
 }
 
 .home-sub-text {
@@ -1662,6 +1734,39 @@ a[href^="http"] {
     .home-image {
         padding-top: 2rem;
     }
+}
+
+/* Author profile: add horizontal padding on small screens */
+.author-profile .container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    box-sizing: border-box;
+}
+
+@media screen and (min-width: 769px) {
+    .author-profile .container {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+/* Stack and center social icons under the author image */
+.author-profile .column.is-5 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.author-profile .social-icons {
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+    margin-top: 0.25rem;
+}
+
+.author-profile .social-icons .image {
+    margin: 0;
 }
 
 

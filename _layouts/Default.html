@@ -6,11 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
+<title>{% if page.title %}{{ page.title }} | {{ site.heading }}{% else %}{{ site.heading }}{% endif %}</title>
     {% include meta.html %}
 
 <title>{% if page.title %}{{ page.title }} | {{ site.heading }}{% else %}{{ site.heading }}{% endif %}</title>
-
-    {% seo %}
     <!-- PWA Manifest -->
     <link rel="manifest" href="{{ site.baseurl }}/manifest.json" />
     <meta name="theme-color" content="#000000" />
