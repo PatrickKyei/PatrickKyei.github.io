@@ -16,6 +16,37 @@ layout: Stylesheet
   .post-navigation a:hover {
     text-decoration: underline;
   }
+
+/* Smaller, contained navigation when inside article */
+.post-navigation.in-article {
+    max-width: 680px;
+    margin: 1.25rem auto 0;
+    font-size: 0.95rem;
+    padding-top: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    gap: 1rem;
+}
+
+.post-navigation.in-article .previous-post,
+.post-navigation.in-article .next-post {
+    flex: 0 0 48%;
+}
+
+.post-navigation.in-article .previous-post {
+    text-align: left;
+}
+
+.post-navigation.in-article .next-post {
+    text-align: right;
+}
+
+.post-navigation.in-article a {
+    display: inline-block;
+    padding: 0.2rem 0.4rem;
+}
   
   /* main-content-padding.css */
   .main-content {
@@ -193,6 +224,18 @@ p {
     line-height: var(--text-leading-normal);
     font-weight: var(--text-weight-normal);
     margin: 0 0 1em 0;
+}
+
+/* Article content headings: make all heading levels uniformly deep/heavy */
+.note-page-section .content h1,
+.note-page-section .content h2,
+.note-page-section .content h3,
+.note-page-section .content h4,
+.note-page-section .content h5,
+.note-page-section .content h6 {
+    font-weight: 800;
+    color: var(--color-text-main);
+    letter-spacing: 0;
 }
 
 code {
@@ -1767,6 +1810,29 @@ a[href^="http"] {
 
 .author-profile .social-icons .image {
     margin: 0;
+}
+
+/* Article page: tighten content width and add gentle horizontal padding */
+.note-page-section {
+    max-width: 680px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0.8rem;
+    padding-right: 0.8rem;
+}
+
+@media screen and (min-width: 769px) {
+    .note-page-section {
+        padding-left: 2rem;
+        padding-right: 2rem;
+        max-width: 680px;
+    }
+}
+
+/* Slightly tighter paragraph spacing inside article content */
+.note-page-section .content p {
+    margin-bottom: 0.6rem;
+    line-height: 1.45;
 }
 
 

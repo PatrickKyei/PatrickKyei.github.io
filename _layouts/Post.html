@@ -181,6 +181,22 @@
                                 <h1 class="title is-1 has-text-weight-extrabold">{{page.title}}</h1>
                                 {%- include Content.html -%}
                                 {%- include Backlinks.html -%}
+
+                                <!-- post navigation (moved inside article column) -->
+                                <nav class="post-navigation in-article">
+                                    <div class="previous-post">
+                                        {% if page.previous %}
+                                        <a href="{{ page.previous.url }}" rel="prev">← Previous: {{ page.previous.title | truncate: 30
+                                            }}</a>
+                                        {% endif %}
+                                    </div>
+                                    <div class="next-post">
+                                        {% if page.next %}
+                                        <a href="{{ page.next.url }}" rel="next">Next: {{ page.next.title | truncate: 30 }} →</a>
+                                        {% endif %}
+                                    </div>
+                                </nav>
+
                             </div>
                         </div>
                         {%- endif -%}
@@ -197,20 +213,7 @@
 
                 {% include Share.html %}
 
-                <!--post navigation -->
-                <nav class="post-navigation">
-                    <div class="previous-post">
-                        {% if page.previous %}
-                        <a href="{{ page.previous.url }}" rel="prev">← Previous: {{ page.previous.title | truncate: 30
-                            }}</a>
-                        {% endif %}
-                    </div>
-                    <div class="next-post">
-                        {% if page.next %}
-                        <a href="{{ page.next.url }}" rel="next">Next: {{ page.next.title | truncate: 30 }} →</a>
-                        {% endif %}
-                    </div>
-                </nav>
+                <!--post navigation (removed here; it is now inside the article column) -->
 
         </section>
         {%- include Footer.html -%}
