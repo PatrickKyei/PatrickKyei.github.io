@@ -232,7 +232,7 @@ body,
 .input,
 .select,
 .textarea {
-  font-family: "Montserrat", "Poppins", -apple-system, "Segoe UI", Roboto, "IBM Plex Sans", BlinkMacSystemFont, "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif; }
+  font-family: "Poppins", "Montserrat", -apple-system, "Segoe UI", Roboto, "IBM Plex Sans", BlinkMacSystemFont, "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif; }
 
 code,
 pre {

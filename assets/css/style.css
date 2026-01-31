@@ -208,7 +208,7 @@ h4,
 h5,
 h6 {
     margin: 0;
-    font-family: 'Poppins', sans-serif,"Roboto";
+    font-family: 'Montserrat', sans-serif,"Roboto";
 }
 
 p a,
@@ -244,7 +244,7 @@ html {
 
 body {
     counter-reset: sidenote-counter;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
     color: var(--color-text-main);
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
