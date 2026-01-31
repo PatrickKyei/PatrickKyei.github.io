@@ -472,6 +472,47 @@ ul ul {
     font-weight: 800 !important;
 }
 
+/* Make post cards uniform height and clamp excerpts */
+.post-item {
+    display: flex;
+    flex-direction: column;
+}
+
+.post-item .card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.post-item .card-content {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+}
+
+/* Clamp excerpt to 3 lines with ellipsis */
+.line-clamp {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+/* Crop preview images to consistent height */
+.card-image .image img,
+.card-image img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    display: block;
+}
+
+/* Push post meta to card bottom so cards align */
+.post-sep + .post-meta,
+.post-meta {
+    margin-top: auto;
+}
+
 /* Separator used in post cards between excerpt and meta (author/date) */
 .post-sep {
     border: 0;
