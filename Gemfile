@@ -15,7 +15,7 @@ ruby '3.2.3'
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins
 
-gem "jekyll", "~> 4.0.0"
+gem "jekyll", "~> 4.2"
 # Performance-booster for watching directories on Windows
 
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
