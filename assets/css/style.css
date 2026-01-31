@@ -1,6 +1,5 @@
---- 
 layout: Stylesheet 
---- 
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&family=Poppins:wght@300;400;500;600;700;800&display=swap');
 @import "fruity.css";
 
 .post-navigation {
@@ -245,6 +244,10 @@ html {
 
 body {
     counter-reset: sidenote-counter;
+    font-family: 'Montserrat', sans-serif;
+    color: var(--color-text-main);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 .section {

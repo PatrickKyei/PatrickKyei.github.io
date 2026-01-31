@@ -228,11 +228,11 @@ section {
   display: block; }
 
 body,
-button,
-input,
-select,
-textarea {
-  font-family: "Poppins", "sans-serif", "Roboto", "IBM Plex Sans", BlinkMacSystemFont, -apple-system, "Segoe UI", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif; }
+.button,
+.input,
+.select,
+.textarea {
+  font-family: "Montserrat", "Poppins", -apple-system, "Segoe UI", Roboto, "IBM Plex Sans", BlinkMacSystemFont, "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif; }
 
 code,
 pre {
