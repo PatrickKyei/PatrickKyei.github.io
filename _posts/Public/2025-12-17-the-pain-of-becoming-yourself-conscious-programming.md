@@ -2,6 +2,7 @@
 title: The pain of becoming yourself
 description: "Conscious programming."
 date: 2025-12-17
+feed: show
 image:
   path: /assets/img/painOfBecoming.png
   alt: this is an image

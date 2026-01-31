@@ -2,6 +2,7 @@
 title: The Most Important High-Income Skill To Learn Early In Your 20's
 description: "You need money to do everything. It is prudent to learn how to take control of your income."
 date: 2025-08-20 07:00:00 +00
+feed: show
 image:
   path: /assets/img/img_20250821_100644_0000.png
   alt: this is an image

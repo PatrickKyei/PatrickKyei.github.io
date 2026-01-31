@@ -2,6 +2,7 @@
 title: Everything In Life Is Hard (How To Make Decisions That Lead To Fulfillment )
 description: "Hard decisions lead to an easy life. Easy decisions lead to a hard life."
 date: 2025-07-30 07:00:00 +00
+feed: show
 image:
   path: /assets/img/overwhelmed.jpg
   alt: this is an image

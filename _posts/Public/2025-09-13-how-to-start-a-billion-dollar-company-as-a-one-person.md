@@ -2,6 +2,7 @@
 title: How To Start A Billion Dollar Company As A One Person
 description: "My conviction on entrepreneurship"
 date: 2025-09-13
+feed: show
 image:
   path: /assets/img/one-person-business.png
   alt: this is an image

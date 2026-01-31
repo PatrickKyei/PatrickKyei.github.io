@@ -2,6 +2,7 @@
 title: What can beginners do to make money outside of a job
 description: Escape the modern rat race
 date: 2026-01-21
+feed: show
 image:
   path: /assets/img/rat-race.png
   alt: this is an image

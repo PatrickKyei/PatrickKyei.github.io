@@ -2,6 +2,7 @@
 title: You Only Need 1-2 Hours A Day To Change Your Life (The 1-Hour Rule)
 description: "Focus is a superpower"
 date: 2025-10-19
+feed: show
 image:
   path: /assets/img/focus-results.png
   alt: this is an image

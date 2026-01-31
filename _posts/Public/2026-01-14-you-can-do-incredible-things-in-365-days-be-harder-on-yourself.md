@@ -2,6 +2,7 @@
 title: You can do incredible things in 365 days (be harder on yourself)
 description: Get comfortable being uncomfortable
 date: 2026-01-14
+feed: show
 image:
   path: /assets/img/uncomfortable.png
   alt: this is an image

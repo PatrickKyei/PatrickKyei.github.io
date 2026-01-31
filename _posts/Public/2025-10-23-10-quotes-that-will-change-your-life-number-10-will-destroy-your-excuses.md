@@ -2,6 +2,7 @@
 title: 10 Quotes That Will Change Your Life (Number 10 Will Destroy Your Excuses)
 description: "Don’t miss the last quote."
 date: 2025-10-23
+feed: show
 image:
   path: /assets/img/10-quotes.png
   alt: this is an image

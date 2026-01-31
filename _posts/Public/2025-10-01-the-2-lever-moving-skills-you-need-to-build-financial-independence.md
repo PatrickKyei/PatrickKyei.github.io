@@ -2,6 +2,7 @@
 title: The 2 Lever Moving Skills You Need To Build Independent Income
 description: "Without it your business stands no chance."
 date: 2025-10-01
+feed: show
 image:
   path: /assets/img/leverage-levels.png
   alt: this is an image

@@ -2,6 +2,7 @@
 title: The internet is making 19-year-olds millionaires
 description: "Social media is modern leverage."
 date: 2025-11-23
+feed: show
 image:
   path: /assets/img/modern-leverage.png
   alt: this is an image
