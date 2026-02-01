@@ -1874,6 +1874,27 @@ a[href^="http"] {
     margin: 0;
 }
 
+
+/* Stack and center social icons under the call-to-action */
+.call-to-action {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.call-to-action .social-icons {
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+    margin-top: 0.25rem;
+}
+
+.call-to-action .social-icons .image {
+    margin: 0;
+}
+
+
 /* Article page: tighten content width and add gentle horizontal padding */
 .note-page-section {
     max-width: 680px;
