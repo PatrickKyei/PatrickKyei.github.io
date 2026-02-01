@@ -322,9 +322,7 @@ main {
     justify-content: flex-end;
 }
 
-@media screen and (min-width: 768px) {
-    .buttons.for-back-home:not(:last-child) {}
-}
+
 
 /* 05. Text Styles */
 
