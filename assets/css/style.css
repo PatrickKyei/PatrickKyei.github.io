@@ -478,10 +478,7 @@ ul ul {
     flex-direction: column;
 }
 
-/* Reduce horizontal gap between post cards */
-#posts-container {
-    gap: 0.5rem !important;
-}
+
 
 .post-item .card {
     display: flex;
