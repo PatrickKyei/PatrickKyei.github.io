@@ -2,6 +2,7 @@
 title: The traits of an irreplaceable individual (embrace change or risk staying the same)
 description: Embrace uncertainty.
 date: 2026-02-04
+feed: show
 image:
   path: /assets/img/unknown-hole.png
   alt: this is an image
