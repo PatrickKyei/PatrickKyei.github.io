@@ -4,7 +4,7 @@
 
 
 <!-- Running Local Server
-$ bundle exec jekyll s -l
+$ bundle exec jekyll serve -l
 
 Running Upgrade
 - gem "jekyll-theme-chirpy", "~> 3.2"

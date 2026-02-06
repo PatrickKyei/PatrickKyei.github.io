@@ -2,6 +2,7 @@
 title: 4 Side Hustles You Can Start And Why You Should Get One
 description: "You need $0 to start."
 date: 2025-11-04
+feed: show
 image:
   path: /assets/img/4-business-ideas.png
   alt: this is an image

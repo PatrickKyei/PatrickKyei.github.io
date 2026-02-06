@@ -1,6 +1,5 @@
---- 
 layout: Stylesheet 
---- 
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&family=Poppins:wght@300;400;500;600;700;800&display=swap');
 @import "fruity.css";
 
 .post-navigation {
@@ -17,6 +16,37 @@ layout: Stylesheet
   .post-navigation a:hover {
     text-decoration: underline;
   }
+
+/* Smaller, contained navigation when inside article */
+.post-navigation.in-article {
+    max-width: 680px;
+    margin: 1.25rem auto 0;
+    font-size: 0.95rem;
+    padding-top: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    gap: 1rem;
+}
+
+.post-navigation.in-article .previous-post,
+.post-navigation.in-article .next-post {
+    flex: 0 0 48%;
+}
+
+.post-navigation.in-article .previous-post {
+    text-align: left;
+}
+
+.post-navigation.in-article .next-post {
+    text-align: right;
+}
+
+.post-navigation.in-article a {
+    display: inline-block;
+    padding: 0.2rem 0.4rem;
+}
   
   /* main-content-padding.css */
   .main-content {
@@ -196,6 +226,18 @@ p {
     margin: 0 0 1em 0;
 }
 
+/* Article content headings: make all heading levels uniformly deep/heavy */
+.note-page-section .content h1,
+.note-page-section .content h2,
+.note-page-section .content h3,
+.note-page-section .content h4,
+.note-page-section .content h5,
+.note-page-section .content h6 {
+    font-weight: 800;
+    color: var(--color-text-main);
+    letter-spacing: 0;
+}
+
 code {
     font-size: var(--text-m);
     font-weight: var(--text-leading-normal);
@@ -209,7 +251,7 @@ h4,
 h5,
 h6 {
     margin: 0;
-    font-family: 'Poppins', sans-serif,"Roboto";
+    font-family: 'Montserrat', sans-serif,"Roboto";
 }
 
 p a,
@@ -245,12 +287,20 @@ html {
 
 body {
     counter-reset: sidenote-counter;
+    font-family: 'Poppins', sans-serif;
+    color: var(--color-text-main);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 .section {
     padding-top: var(--padding-broad);
 }
 
+/* Hero Section */
+.hero .title {
+    font-weight: 800 !important;
+}
 
 header {
     display: flex;
@@ -272,9 +322,7 @@ main {
     justify-content: flex-end;
 }
 
-@media screen and (min-width: 768px) {
-    .buttons.for-back-home:not(:last-child) {}
-}
+
 
 /* 05. Text Styles */
 
@@ -417,7 +465,135 @@ ul ul {
     color: var(--color-text-link);
 }
 
+/* 07.1 Post Card Titles */
+.post-item .title {
+    font-weight: 800 !important;
+}
+
+/* Make post cards uniform height and clamp excerpts */
+.post-item {
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.post-item .card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.post-item .card-content {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+}
+
+/* Clamp excerpt to 3 lines with ellipsis */
+.line-clamp {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+/* Crop preview images to consistent height (only post cards) */
+.post-item .card-image img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    display: block;
+}
+
+/* Push post meta to card bottom so cards align */
+.post-sep + .post-meta,
+.post-meta {
+    margin-top: auto;
+}
+
+/* Separator used in post cards between excerpt and meta (author/date) */
+.post-sep {
+    border: 0;
+    border-top: 1px solid var(--color-border-light);
+    margin: 0.75rem 0;
+    opacity: 0.6;
+}
+
+/* Post meta (author / dot / date) */
+.post-meta {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+}
+
+.post-meta .author-name,
+.post-meta .post-date-wrapper {
+    display: inline-flex;
+    align-items: center;
+    margin: 0;
+    line-height: 1;
+}
+
+.post-dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: #FFD54F; /* warm yellow */
+    display: inline-block;
+    flex: 0 0 auto;
+    margin: 0;
+    transform: translateY(0.6px);
+}
+
+.post-date-wrapper {
+    margin: 0;
+}
+
+.post-meta .author-name {
+    font-size: 0.9rem;
+    font-style: italic;
+}
+
+.post-meta .post-date-wrapper {
+    font-size: 0.86rem;
+    color: var(--color-text-sub);
+    font-style: italic;
+}
+
+/* Read full post link: match author/date sizing */
+.read-full {
+    font-size: 0.9rem;
+    line-height: 1;
+    color: #FFFFFF;
+    font-weight: 600;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.read-full:hover {
+    text-decoration: underline;
+}
+
 /* 08. Figures, Images, Code, Blockquotes, Tables */
+
+
+/* Product links: left-aligned, bold, with link icon, no button styling */
+.product-link {
+    display: inline-block;
+    font-weight: 700;
+    color: #FFFFFF;
+    text-decoration: underline;
+    margin-top: 0.5rem;
+    font-size: 0.9rem;
+    font-style: italic;
+}
+
+
+
+.product-link:hover {
+    text-decoration: underline;
+}
 
 img {
     max-width: 100%;
@@ -1039,7 +1215,9 @@ hr {
     font-size: 13px;
 }
 
-.content {}
+.content {
+    font-family: 'Poppins', sans-serif;
+}
 
 .content a {
     color: var(--color-text-link);
@@ -1595,10 +1773,10 @@ li {
 }
 
 a[href^="http"] {
-    background-image: url(../img/external-link.svg);
+    background-image: none !important;
     background-repeat: no-repeat;
     background-position: right;
-    padding-right: 1.3rem;
+    padding-right: 0;
 }
 
 .home-sub-text {
@@ -1659,6 +1837,83 @@ a[href^="http"] {
     .home-image {
         padding-top: 2rem;
     }
+}
+
+/* Author profile: add horizontal padding on small screens */
+.author-profile .container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    box-sizing: border-box;
+}
+
+@media screen and (min-width: 769px) {
+    .author-profile .container {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+/* Stack and center social icons under the author image */
+.author-profile .column.is-5 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.author-profile .social-icons {
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+    margin-top: 0.25rem;
+}
+
+.author-profile .social-icons .image {
+    margin: 0;
+}
+
+
+/* Stack and center social icons under the call-to-action */
+.call-to-action {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.call-to-action .social-icons {
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+    margin-top: 0.25rem;
+}
+
+.call-to-action .social-icons .image {
+    margin: 0;
+}
+
+
+/* Article page: tighten content width and add gentle horizontal padding */
+.note-page-section {
+    max-width: 680px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0.8rem;
+    padding-right: 0.8rem;
+}
+
+@media screen and (min-width: 769px) {
+    .note-page-section {
+        padding-left: 2rem;
+        padding-right: 2rem;
+        max-width: 680px;
+    }
+}
+
+/* Slightly tighter paragraph spacing inside article content */
+.note-page-section .content p {
+    margin-bottom: 0.6rem;
+    line-height: 1.45;
 }
 
 

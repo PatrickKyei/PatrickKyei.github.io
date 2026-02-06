@@ -44,18 +44,16 @@
             {% endif %}
 
             <div>
-              <a href="{{ post.url }}">Read Full Post</a>
+              <a class="read-full" href="{{ post.url }}">Read Full Post</a>
             </div>
 
-            <div class="is-flex is-justify-content-space-between is-size-7">
-              <p class="author-name">
-                {{ post.author | default: site.author }}
-              </p>
+            <hr class="post-sep" />
 
-              <p>
-                <time datetime="{{ post.date }}" class="post-date"
-                  >{{ post.date | date: "%B %d, %Y" }}</time
-                >
+            <div class="is-flex is-align-items-center is-size-7 post-meta">
+              <p class="author-name">{{ post.author | default: site.author }}</p>
+              <span class="post-dot" aria-hidden="true"></span>
+              <p class="post-date-wrapper">
+                <time datetime="{{ post.date }}" class="post-date">{{ post.date | date: "%B %d, %Y" }}</time>
               </p>
             </div>
           </div>

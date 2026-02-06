@@ -2,6 +2,7 @@
 title: The Pillars Of Independent Wealth Creation (The Modern Entrepreneur)
 description: "The Foundations Of Financial Freedom."
 date: 2025-08-13 07:00:00 +00
+feed: show
 image:
   path: /assets/img/working-man.png
   alt: this is an image

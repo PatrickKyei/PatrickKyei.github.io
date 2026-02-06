@@ -2,6 +2,7 @@
 title: One hour of focus is the secret you are searching for
 description: "The modern superpower."
 date: 2025-11-16
+feed: show
 image:
   path: /assets/img/one-hour-focus-1.png
   alt: this is an image

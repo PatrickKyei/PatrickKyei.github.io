@@ -2,6 +2,7 @@
 title: Build for yourself or be assigned to build for someone else
 description: "Create or be created"
 date: 2025-10-11
+feed: show
 image:
   path: /assets/img/creative-camera.png
   alt: this is an image
