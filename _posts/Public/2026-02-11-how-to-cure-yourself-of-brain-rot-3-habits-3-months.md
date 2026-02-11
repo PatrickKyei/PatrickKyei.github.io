@@ -1,6 +1,6 @@
 ---
 title: How to cure yourself of brain rot (3 habits, 3 months)
-description: Develop a meaningful lifestyle.
+description: Develop 3 meaningful habits.
 date: 2026-02-11
 feed: show
 image:
