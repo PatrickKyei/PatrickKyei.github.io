@@ -16,7 +16,7 @@ tags:
   - habit
   - productivity
 ---
-Most people are stuck at jobs, places and people they don't care about just to please their parents, friends and teachers. If you spend majority of your time on things you don't love, is that no the cause of most people's anger, frustration and early death? 
+Most people are stuck at jobs, places and people they don't care about just to please their parents, friends and teachers. If you spend majority of your time on things you don't love, is that not the cause of most people's anger, frustration and early death? 
 
 If work consumes 1/3 of your life, but drains your energy for the other 1/3, and you are asleep for the other 1/3… that is the first thing that needs to change.
 
