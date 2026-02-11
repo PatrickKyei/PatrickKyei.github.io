@@ -258,6 +258,6 @@ Thank for reading.
 
 When you’re ready, here are a few ways I can help further:
 
-- [The 2 Fullstack Writer](https://patrickkyei.com/fullstack-writer) for a high-value skill to become a creator without worrying about video or speaking.
-- [Self Monetization](https://patrickkyei.com/monetization) for a beginner level modern business course
+- [The Fullstack Writer](https://patrickkyei.com/fullstack-writer) for a high-value skill to become a creator without worrying about video or speaking.
+- [Self Monetization](https://patrickkyei.com/monetization) for a beginner friendly modern business course
 
