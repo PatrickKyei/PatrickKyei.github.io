@@ -65,7 +65,7 @@ One that builds your money (business, skill, investing).
 Anything more is a bonus, anything less is self-destructive.
 
 
-### ****1. Reading****
+### 1. Reading
 
 Reading keeps you informed and inspired. It broadens your perspective and equips you with the knowledge to innovate.
 
@@ -136,7 +136,7 @@ Nothing comes easy that is worth it.
 If you can spend 4 hours on mindless entertainment, you can spend 2 hours to fix your life.
   
 
-### ****2. Writing****
+### 2. Writing
 
 Writing helps you communicate your ideas clearly and effectively. It enhances your ability to connect with your audience and share your message and offers.
 
@@ -185,7 +185,7 @@ Writing is how you document your development.
 
 If you want to learn how to package your unique ideas into content that attracts the right people to your business, work, or career check out my [Fullstack Writer](https://patrickkyei.com/fullstack-writer) 
 
-### **3. Skill**
+### 3. Skill
 
 You need skills. 
 
