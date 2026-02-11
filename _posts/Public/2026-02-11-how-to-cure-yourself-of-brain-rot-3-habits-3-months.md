@@ -27,11 +27,11 @@ A 9-5 job is a great stepping stone, but is often a death sentence. You learn an
 
 If you want a different outcome you must choose a different path. You need to update your mental software from “Get a job and do that for the rest of my life” as a default setting to:
 
- - get a job,
- - start a personal project,
- - turn that project into a business,
- - make enough money, leave my job,
- - and focus on scaling my side hustle as the new path.
+- get a job,
+- start a personal project,
+- turn that project into a business,
+- make enough money, leave my job,
+- and focus on scaling my side hustle as the new path.
 
 You see, everyone needs money.
 
@@ -43,10 +43,10 @@ However, it’s not optimal.
 
 You might be earning a profit, but:
 
- - You’re not following your purpose by working a job you hate.
- - You’re not free if your boss calls you at night, telling you to show up tomorrow on your day off. If you say no, you lose your job.
- - You don’t have time to enjoy life
- - You don't get time to spend with family because you’re required to work like an animal.
+- You’re not following your purpose by working a job you hate.
+- You’re not free if your boss calls you at night, telling you to show up tomorrow on your day off. If you say no, you lose your job.
+- You don’t have time to enjoy life
+- You don't get time to spend with family because you’re required to work like an animal.
 
 You start smoking cigarettes or drinking alcohol to “get rid of” the stress.
 
