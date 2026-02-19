@@ -19,10 +19,10 @@ permalink: /playbook
 
         <p class="mb-5 is-size-5">
           Most people post randomly online and wonder why nobody buys from them.
-          <em>Writing is a tool to build trust at scale.</em> Inside this playbook, you'll learn how to write persuasively, grow your audience, and turn attention into income.
+          <em>Writing is a tool to build trust at scale.</em> Inside this playbook, you'll learn the foundations of digital writing, what hooks in the reader and keeps people coming for more.
         </p>
 
-        <a href="https://paystack.com/buy/writing-playbook" class="button is-white is-outlined is-medium">
+        <a href="https://selar.com/beginner-playbook" class="button is-white is-outlined is-medium">
           <span class="icon"><i class="fa-solid fa-cart-shopping"></i></span>
           <span>Get The Playbook</span>
         </a>
