@@ -1,0 +1,79 @@
+
+<nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation" style="background-color: #000; width: 100%; z-index: 1000;">
+  <style>
+  /* spacing for featured block below hero */
+  .masterminds-featured { margin-top: 2.5rem; }
+
+  @media screen and (min-width: 1024px) {
+    /* keep navbar fixed at top and set comfortable padding */
+    .navbar.is-fixed-top { padding: 0.6rem 1.25rem; }
+
+    /* brand (logo) stays left */
+    .navbar .navbar-brand { margin-right: 0; }
+
+    /* push the menu group to the far right */
+    .navbar .navbar-menu { margin-left: auto; display: flex; align-items: center; }
+
+    /* lay out start items horizontally */
+    .navbar .navbar-start { display: flex; flex-direction: row; gap: 2rem; align-items: center; }
+
+    .navbar .navbar-start .navbar-item { padding: 0.35rem 0.25rem; }
+
+    /* space the JOIN button slightly from links and align vertically */
+    .navbar .navbar-start a.button.is-warning { margin-left: 1rem; padding: 0.55rem 0.9rem; }
+
+    /* ensure page content is not hidden under fixed navbar */
+    body { padding-top: 64px; }
+
+    /* larger spacing for featured area on desktop */
+    .masterminds-featured { margin-top: 12rem; }
+  }
+  </style>
+  <div class="navbar-brand">
+  
+    <script src="{{ site.baseurl }}/assets/js/modeswitcher.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/Hamburger.js"></script>
+    <div class="navbar-item navbar-dark-mode__mobile is-hidden-tablet" onclick="modeSwitcher()">
+      <div class="buttons">
+        <a class="button is-text">
+          <span class="icon is-small">
+            <img src="{{ '/assets/img/sun.svg' | relative_url }}" id="theme-toggle-img--mobile">
+          </span>
+        </a>
+      </div>
+    </div>
+    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+  
+  <div id="navbarBasicExample" class="navbar-menu">
+    <div class="navbar-start"></div>
+
+    <div class="navbar-end" onclick="modeSwitcher()">
+      <a href="{{'/notes' | relative_url}}" class="navbar-item">
+        BLOG
+      </a>
+
+      <a href="https://www.youtube.com/@thepatrickkyei" class="navbar-item">
+        PODCAST
+      </a>
+
+      <a href="https://paystack.shop/pay/masterminds-hq" class="button is-warning is-medium">
+        <span>JOIN THE HQ</span>
+      </a>
+
+      <div class="navbar-item is-hidden-mobile">
+        <div class="buttons">
+          <a class="button is-text">
+            <span class="icon is-small">
+              <img src="{{ '/assets/img/sun.svg' | relative_url }}" id="theme-toggle-img">
+            </span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>
