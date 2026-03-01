@@ -8,5 +8,6 @@ permalink: /masterminds
 {% include masterminds/hero.html %}
 {% include masterminds/featured.html %}
 {% include masterminds/promo.html %}
+{% include masterminds/banner.html %}
 {% include masterminds/membership.html %}
 {% include masterminds/gallery.html %}
