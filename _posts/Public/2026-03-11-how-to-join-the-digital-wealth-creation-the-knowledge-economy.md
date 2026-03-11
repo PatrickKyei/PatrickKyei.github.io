@@ -69,6 +69,8 @@ Most people don’t know what to do to generate new wealth.
 
 I would argue that you do know. You’re looking at it right now. But you still have the “consume and save” mindset that limits how you perceive the gold rush happening right in front of you.
 
+![patents knowledge](/assets/img/parents-knowledge.jpg)
+
   
 
 All new fortunes are being built in the digital space.
