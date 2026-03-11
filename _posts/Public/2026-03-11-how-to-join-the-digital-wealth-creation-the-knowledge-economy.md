@@ -1,28 +1,20 @@
 ---
 
 title: How To Join The Digital Wealth Creation (The Knowledge Economy)
-
 description: 'The economy for knowledge workers.'
-
 date: 2026-03-11
-
 feed: show
 
 image:
-
-path: /assets/img/idea-economy.jpg
-
-alt: this is an image
+    path: /assets/img/idea-economy.jpg
+    alt: this is an image
 
 categories:
 
-- Business
-
-- Branding
-
-- Productivity
-
-- Self Mastery
+    - Business
+    - Branding
+    - Productivity
+    - Self Mastery
 
 tags:
 
