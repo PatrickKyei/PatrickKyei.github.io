@@ -8,22 +8,15 @@ feed: show
 image:
     path: /assets/img/idea-economy.jpg
     alt: this is an image
-
 categories:
-
     - Business
     - Branding
     - Productivity
     - Self Mastery
-
 tags:
-
-- tag
-
-- entrepreneurship
-
-- creatoreconomy
-
+    - tag
+    - entrepreneurship
+    - creatoreconomy
 ---
 
   
