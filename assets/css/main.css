@@ -2420,6 +2420,28 @@ body.has-navbar-fixed-bottom {
   .navbar-burger.is-active span:nth-child(3) {
     transform: translateY(-5px) rotate(-45deg); }
 
+@media (max-width: 768px) {
+  .navbar-brand {
+    flex-wrap: wrap;
+    width: 100%;
+  }
+
+  .navbar-burger {
+    position: absolute;
+    right: 0.75rem;
+    top: 0.65rem;
+    margin-left: 0;
+  }
+
+  .navbar {
+    overflow-x: hidden;
+  }
+
+  body {
+    overflow-x: hidden;
+  }
+}
+
 .navbar-menu {
   display: none; }
 
