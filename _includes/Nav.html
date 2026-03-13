@@ -34,17 +34,7 @@
     <a class="navbar-item" style="padding-left: 2;" href="{{ site.baseurl }}/index.html">
       <h6>{{site.heading}}</h6>
     </a>
-    <script src="{{ site.baseurl }}/assets/js/modeswitcher.js"></script>
     <script src="{{ site.baseurl }}/assets/js/Hamburger.js"></script>
-    <div class="navbar-item navbar-dark-mode__mobile is-hidden-tablet" onclick="modeSwitcher()">
-      <div class="buttons">
-        <a class="button is-text">
-          <span class="icon is-small">
-            <img src="{{ '/assets/img/sun.svg' | relative_url }}" id="theme-toggle-img--mobile">
-          </span>
-        </a>
-      </div>
-    </div>
     <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
       <span aria-hidden="true"></span>
       <span aria-hidden="true"></span>
@@ -77,17 +67,6 @@
       <a href="{{'/' | relative_url}}#about" class="navbar-item">
         About
       </a>
-    </div>
-    <div class="navbar-end is-hidden-mobile" onclick="modeSwitcher()">
-      <div class="navbar-item">
-        <div class="buttons">
-          <a class="button is-text">
-            <span class="icon is-small">
-              <img src="{{ '/assets/img/sun.svg' | relative_url }}" id="theme-toggle-img">
-            </span>
-          </a>
-        </div>
-      </div>
     </div>
   </div>
 </nav>

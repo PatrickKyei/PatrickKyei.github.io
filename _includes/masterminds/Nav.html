@@ -31,17 +31,7 @@
   </style>
   <div class="navbar-brand">
   
-    <script src="{{ site.baseurl }}/assets/js/modeswitcher.js"></script>
     <script src="{{ site.baseurl }}/assets/js/Hamburger.js"></script>
-    <div class="navbar-item navbar-dark-mode__mobile is-hidden-tablet" onclick="modeSwitcher()">
-      <div class="buttons">
-        <a class="button is-text">
-          <span class="icon is-small">
-            <img src="{{ '/assets/img/sun.svg' | relative_url }}" id="theme-toggle-img--mobile">
-          </span>
-        </a>
-      </div>
-    </div>
     <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
       <span aria-hidden="true"></span>
       <span aria-hidden="true"></span>
@@ -52,7 +42,7 @@
   <div id="navbarBasicExample" class="navbar-menu">
     <div class="navbar-start"></div>
 
-    <div class="navbar-end" onclick="modeSwitcher()">
+    <div class="navbar-end">
       <a href="{{'/notes' | relative_url}}" class="navbar-item has-text-white">
         BLOG
       </a>
@@ -64,16 +54,6 @@
       <a href="https://paystack.shop/pay/masterminds-hq" class="button is-warning is-medium" class="button is-warning is-medium" style="background-color: #ffc107; border-color: #ffc107; color: #000">
         <span>JOIN THE HQ</span>
       </a>
-
-      <div class="navbar-item is-hidden-mobile">
-        <div class="buttons">
-          <a class="button is-text">
-            <span class="icon is-small">
-              <img src="{{ '/assets/img/sun.svg' | relative_url }}" id="theme-toggle-img">
-            </span>
-          </a>
-        </div>
-      </div>
     </div>
   </div>
 </nav>
