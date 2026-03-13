@@ -5,4 +5,6 @@
 layout: Post
 permalink: /
 title: Patrick Kyei
+image:
+  path: assets/img/value-book.png
 ---
