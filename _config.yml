@@ -71,6 +71,9 @@ collections:
     notes:
       output: true
       permalink: /note/:title
+    events:
+      output: true
+      permalink: /events/:path/
 
 markdown: kramdown
 
@@ -98,6 +101,12 @@ defaults:
     values:
       layout: Post
       content-type: notes
+  - scope:
+      path: ""
+      type: events
+    values:
+      layout: Post
+      content-type: event
 
 
 # Exclude from processing.

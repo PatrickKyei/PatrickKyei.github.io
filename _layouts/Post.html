@@ -56,10 +56,10 @@
 </head>
 
 
-<body>
+<body class="has-navbar-fixed-top">
     <main>
         {%- include Nav.html -%}
-        <section class="section">
+        <section class="section" style="padding-top: 5rem;">
             <div class="columns is-centered">
 
                 <!-- Homepage Layout-->
@@ -200,6 +200,13 @@
                                 </nav>
                                 {% include Subscribe.html %}
                             </div>
+                        </div>
+                        {%- endif -%}
+
+                        <!--- Event Layout-->
+                        {%- if page.content-type == "event" -%}
+                        <div class="column is-12">
+                            {%- include events/file.html -%}
                         </div>
                         {%- endif -%}
 

@@ -1,0 +1,163 @@
+{% assign ev = page.event | default: page %}
+
+<section class="section" style="background: linear-gradient(135deg, #050913 0%, #0a1a2d 100%); color: #fff; padding: 2rem 1rem;">
+  <div class="container" style="padding: 0 1rem;">
+    <div class="columns is-vcentered is-multiline">
+
+      <div class="column is-6">
+        {% if ev.badge %}
+        <p class="subtitle is-6 has-text-primary" style="letter-spacing: 0.2em;">{{ ev.badge }}</p>
+        {% endif %}
+
+        <h1 class="title is-1 has-text-white" style="line-height: 1.1;">{{ page.title }}</h1>
+        {% if ev.subtitle %}
+        <h2 class="subtitle is-4 has-text-white-ter" style="max-width: 520px;">{{ ev.subtitle }}</h2>
+        {% endif %}
+
+        <div id="event-countdown" class="has-text-weight-semibold is-size-5" style="margin-top: 1rem; letter-spacing: 0.05em;"></div>
+
+        {% if ev.description %}
+        <p class="mt-5" style="max-width: 520px; color: rgba(255,255,255,0.85);">{{ ev.description }}</p>
+        {% endif %}
+
+        {% if ev.embed_url %}
+        <div class="mt-5" style="max-width: 520px;">
+          <div style="border: 1px solid rgba(255,255,255,0.12); border-radius: 0.5rem; overflow: hidden;">
+            <iframe
+              src="{{ ev.embed_url }}"
+              width="100%"
+              height="{{ ev.embed_height | default: 800 }}"
+              frameborder="0"
+              allow="fullscreen; payment"
+              style="display: block;"
+              aria-hidden="false"
+              tabindex="0"
+              loading="lazy"
+            ></iframe>
+          </div>
+        </div>
+        {% elsif ev.form_action %}
+        <form id="event-form" action="{{ ev.form_action }}" method="{{ ev.form_method | default: 'POST' }}" target="_blank" style="margin-top: 2.5rem; max-width: 520px;">
+          <div class="field">
+            <div class="control">
+              <input class="input" type="text" name="name" placeholder="Your name" required>
+            </div>
+          </div>
+          <div class="field">
+            <div class="control">
+              <input class="input" type="email" name="email" placeholder="Your email address" required>
+            </div>
+          </div>
+          <div class="field">
+            <div class="control">
+              <button class="button is-primary is-fullwidth" type="submit">{{ ev.form_cta | default: 'Request Invite' }}</button>
+            </div>
+          </div>
+        </form>
+        {% endif %}
+
+        {% if ev.details %}
+        <div class="mt-5" style="max-width: 520px; color: rgba(255,255,255,0.75); font-size: 0.95rem;">
+          {{ ev.details }}
+        </div>
+        {% endif %}
+
+        {% if content %}
+        <div class="mt-5" style="max-width: 520px; color: rgba(255,255,255,0.75); font-size: 0.95rem;">
+          {{ content }}
+        </div>
+        {% endif %}
+      </div>
+
+      <div class="column is-5 is-offset-1">
+        <div class="card" style="background: rgba(0,0,0,0.45); border: 1px solid rgba(255,255,255,0.06);">
+          {% assign flyer = ev.flyer_image | default: ev.cover_image %}
+          {% if flyer %}
+          <div class="card-image">
+            <figure class="image">
+              <img src="{{ flyer }}" alt="{{ page.title }}" style="border-radius: 0.5rem;" />
+            </figure>
+          </div>
+          {% endif %}
+          <div class="card-content" style="padding: 1.25rem;">
+            <div class="content" style="color: rgba(255,255,255,0.85);">
+              {% if ev.stream_label or ev.stream_platform %}
+              <p style="font-size: 0.85rem; margin-bottom: 0.4rem;">
+                <strong>{{ ev.stream_label | default: 'Streaming on' }}</strong>
+                {% if ev.stream_platform %}
+                  {{ ev.stream_platform }}
+                {% endif %}
+              </p>
+              {% endif %}
+
+              {% if ev.start_date %}
+              <p style="font-size: 0.85rem; margin-bottom: 0.4rem;">
+                <strong>Date</strong>: {{ ev.start_date | date: "%B %-d, %Y" }}
+              </p>
+              {% endif %}
+
+              {% if ev.time %}
+              <p style="font-size: 0.85rem; margin-bottom: 0.4rem;">
+                <strong>Time</strong>: {{ ev.time }}
+              </p>
+              {% endif %}
+
+              {% if ev.location %}
+              <p style="font-size: 0.85rem; margin-bottom: 0.4rem;">
+                <strong>Location</strong>: {{ ev.location }}
+              </p>
+              {% endif %}
+
+              {% if ev.cta_link and ev.cta_text %}
+              <p style="margin-top: 0.75rem;">
+                <a class="button is-outlined is-fullwidth" href="{{ ev.cta_link }}" target="_blank">{{ ev.cta_text }}</a>
+              </p>
+              {% endif %}
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script>
+(function () {
+  const countdownEl = document.getElementById('event-countdown');
+  if (!countdownEl) return;
+
+  const start = new Date("{{ ev.start_date | date: '%Y-%m-%dT%H:%M:%S%:z' }}");
+  if (isNaN(start)) {
+    countdownEl.innerText = '';
+    return;
+  }
+
+  function pad(value) {
+    return value.toString().padStart(2, '0');
+  }
+
+  function update() {
+    const now = new Date();
+    const diff = start - now;
+    if (diff <= 0) {
+      countdownEl.innerHTML = '<strong>Live now!</strong>';
+      clearInterval(interval);
+      return;
+    }
+
+    const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+    const hours = Math.floor((diff / (1000 * 60 * 60)) % 24);
+    const minutes = Math.floor((diff / (1000 * 60)) % 60);
+    const seconds = Math.floor((diff / 1000) % 60);
+
+    countdownEl.innerHTML = `<span style="opacity:.7">${pad(days)}</span> <span style="font-size:0.75rem; opacity:.8">days</span>
+      &nbsp; <span style="opacity:.7">${pad(hours)}</span> <span style="font-size:0.75rem; opacity:.8">hrs</span>
+      &nbsp; <span style="opacity:.7">${pad(minutes)}</span> <span style="font-size:0.75rem; opacity:.8">mins</span>
+      &nbsp; <span style="opacity:.7">${pad(seconds)}</span> <span style="font-size:0.75rem; opacity:.8">secs</span>`;
+  }
+
+  update();
+  const interval = setInterval(update, 1000);
+})();
+</script>

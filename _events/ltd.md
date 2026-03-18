@@ -1,0 +1,16 @@
+---
+badge: "How to Level Up"
+title: "Lifestyle Design"
+subtitle: "Become Fluent in the Game of Life and Craft Your Winning Conditions"
+start_date: "2026-02-07T21:00:00+0000"
+time: "9:00pm GMT"
+stream_label: "Streaming on"
+stream_platform: "YouTube"
+flyer_image: "/events/assets/lifestyle-design.png"
+embed_url: "https://luma.com/embed/event/evt-NrGqH3IGhqaHuqF/simple"
+cta_text: "Watch on YouTube"
+cta_link: "https://youtube.com/@thepatrickkyei"
+location: "Online"
+description: "Patrick Kyei as he walks through lifestyle design—how to build environments, habits, and relationships that put you on a consistent path toward more agency in life."
+details: "The invite is limited. Register early to hold your seat and get the replay."
+---
