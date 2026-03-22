@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Masterminds HQ
+title: Skillembassy
 permalink: /masterminds
 ---
 
