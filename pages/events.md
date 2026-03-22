@@ -5,7 +5,7 @@ permalink: /events
 content-type: static
 ---
 
-Here are the upcoming and past events. Click any event to view the landing page.
+Here are the upcoming and past events. Click any event to view the event details
 
 <ul>
 {% for event in site.events %}
