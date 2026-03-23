@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Minimalist Writer Sprint
+title: Minimalist Writer Bootcamp
 permalink: /minimalist
 ---
 
