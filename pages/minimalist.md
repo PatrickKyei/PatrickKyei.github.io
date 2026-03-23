@@ -6,14 +6,11 @@ permalink: /minimalist
 
 {% include minimalist/hero.html %}
 
-
 {% include minimalist/pain.html %}
 
 {% include minimalist/testimonial-1.html %}
 
 {% include minimalist/message.html %}
-
-{% include minimalist/quote.html %}
 
 {% include minimalist/story.html %}
 
@@ -35,6 +32,4 @@ permalink: /minimalist
 
 {% include minimalist/faqs.html %}
 
-{% include minimalist/instructor.html %}
-
-{% include minimalist/final-cta.html%}
+{% include minimalist/final-cta.html %}
