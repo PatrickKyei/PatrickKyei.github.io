@@ -39,7 +39,9 @@ jobs:
         with:
           ruby-version: '3.3.8' # match Gemfile Ruby version
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-          cache-version: 1 # Increment this number if you need to re-download cached gems
+          cache-version: 2 # Increment this number if you need to re-download cached gems
+      - name: Regenerate bundler bin stubs
+        run: bundle binstubs --force jekyll
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
