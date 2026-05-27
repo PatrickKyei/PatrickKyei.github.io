@@ -30,19 +30,20 @@
 {%- endcomment -%}
 
 <nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation" style="background-color: #000; width: 100%; z-index: 1000;">
-  <div class="navbar-brand">
-    <a class="navbar-item" style="padding-left: 2;" href="{{ site.baseurl }}/index.html">
-      <h6>{{site.heading}}</h6>
-    </a>
-    <script src="{{ site.baseurl }}/assets/js/Hamburger.js"></script>
-    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
-      <span aria-hidden="true"></span>
-      <span aria-hidden="true"></span>
-      <span aria-hidden="true"></span>
-    </a>
-  </div>
-  
-  <div id="navbarBasicExample" class="navbar-menu">
+  <div class="container">
+    <div class="navbar-brand">
+      <a class="navbar-item" style="display: flex; align-items: center;" href="{{ site.baseurl }}/index.html">
+        <img src="{{ site.baseurl }}/assets/img/favicons/favicon-32x32.png" alt="Logo" style="height: 32px; width: 32px;">
+      </a>
+      <script src="{{ site.baseurl }}/assets/js/Hamburger.js"></script>
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+    
+    <div id="navbarBasicExample" class="navbar-menu">
     <div class="navbar-start">
       <a href="{{'/notes' | relative_url}}" class="navbar-item">
         Letters
@@ -69,4 +70,5 @@
       </a>
     </div>
   </div>
+</div>
 </nav>
