@@ -15,6 +15,8 @@ tags:
   - quest
   - human-potential
   - selfimprovement
+  - philosophy
+  
 
 ---
 
