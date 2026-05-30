@@ -9,8 +9,8 @@ date: 2026-05-30
 feed: show
 
 image:
-  path: /assets/img/lost-art.png
-  alt: this is an image
+  path: /assets/img/lost-art.jpg
+  alt: lost art
 
 categories:
   - Productivity
