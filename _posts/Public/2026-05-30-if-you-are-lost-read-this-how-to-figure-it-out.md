@@ -146,19 +146,12 @@ In one year, you can:
   
 
 - master a specific skill.
-
 - build productive habits.
-
 - broaden your knowledge base.
-
 - improve your overall quality of life.
-
 - earn your first dollar on the internet.
-
 - connect with like-minded individuals.
-
 - gain clear insight into your vision and goals.
-
 - create thousands of different opportunities.
 
   
@@ -191,7 +184,7 @@ You haven't started a project, failed, and been given a REASON to look up someth
 
   
 
-This is where most creatives go wrong. ↓
+This is where most creatives go wrong.
 
   
 
@@ -318,9 +311,7 @@ Build something specific.
   
 
 - Instead of "learning design," build a landing page for an MVP product.
-
 - Instead of "learning marketing," write a 5-day email sequence.
-
 - Instead of "learning to write," build an audience of 100 people.
 
   
@@ -434,11 +425,8 @@ For the next 365 days:
   
 
 - Replace Netflix with books.
-
 - Replace gossip with podcasts.
-
 - Replace scrolling with learning.
-
 - Replace comfort with discipline.
 
   
