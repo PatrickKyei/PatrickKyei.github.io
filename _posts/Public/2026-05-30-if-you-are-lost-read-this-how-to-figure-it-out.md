@@ -1,7 +1,7 @@
 ---
 
 title: If You Are Lost, Read This (How To Figure It Out)
-description: Turn your life into a quest
+description: 'Turn your life into a quest.'
 date: 2026-05-30
 feed: show
 
