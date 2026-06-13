@@ -54,7 +54,7 @@ To give you a fresh perspective on progress, the Unknown and how to hold it down
   
 
 Most people expect life to be a certain way. They have this idea they think will change the world. They give it a shot for a few weeks, see no results and then they quit.
-
+aystack.com/buy/nexus-library
   
 
 They have this anticipation that their idea will blow up in 3 weeks and then they will become the next millionaire they've always dreamt of. Life is a not a love story. Where you have a forever happy ending.
@@ -96,15 +96,12 @@ Learn to use it for good.
 Whenever I reach a phase of life where confusion sets in, I build.
 
   
-
 Having a goal gives you direction in life. It forces you to order consciousness.
 
   
-
 When you are confused, explore the Unknown. Set a project.
 
   
-
 A "project" can be anything.
 
   
