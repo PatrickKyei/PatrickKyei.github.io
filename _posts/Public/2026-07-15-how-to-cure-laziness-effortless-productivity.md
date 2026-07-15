@@ -1,4 +1,5 @@
 ---
+
 title: How to cure laziness (effortless productivity)
 description: 'You need bursts of focused intensity work.'
 date: 2026-15-07
