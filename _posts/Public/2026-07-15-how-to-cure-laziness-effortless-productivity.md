@@ -1,6 +1,6 @@
 ---
 
-title: How to cure laziness (achieve effortless productivity)
+title: If you procrastinate a lot read this (how to achieve effortless productivity)
 description: 'You need bursts of focused intensity work.'
 date: 2026-07-15
 feed: show
