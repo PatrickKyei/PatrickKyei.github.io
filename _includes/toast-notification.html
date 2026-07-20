@@ -1,0 +1,125 @@
+<!-- Top banner notification -->
+<div id="top-banner" class="top-banner" role="status" aria-live="polite">
+  <div class="banner-inner">
+    <span id="banner-message"></span>
+    <a id="banner-link" class="banner-link" href="#" target="_blank" rel="noopener noreferrer"></a>
+    <button class="banner-close" type="button" aria-label="Close banner" onclick="hideBanner()">&times;</button>
+  </div>
+</div>
+
+<style>
+  .top-banner {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 9999;
+    background: linear-gradient(90deg, #d36a25 0%, #bd401e 100%);
+    color: #fff;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.12);
+    transform: translateY(-100%);
+    transition: transform 0.35s cubic-bezier(0.2, 0.9, 0.2, 1);
+  }
+
+  .top-banner.show {
+    transform: translateY(0);
+  }
+
+  .banner-inner {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 10px 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    font-size: 14px;
+    font-weight: 500;
+  }
+
+  .banner-link {
+    color: #fff;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    font-weight: 700;
+    margin-left: 4px;
+  }
+
+  .banner-close {
+    background: none;
+    border: none;
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+    line-height: 1;
+    margin-left: 8px;
+    padding: 0;
+  }
+
+  @media (max-width: 600px) {
+    .banner-inner {
+      font-size: 13px;
+      padding: 10px 12px;
+      flex-wrap: wrap;
+    }
+  }
+</style>
+
+<script>
+  const BANNER_STORAGE_KEY = 'topBannerShown';
+  const BANNER_CACHE_DURATION = 3 * 24 * 60 * 60 * 1000; // 3 days in milliseconds
+
+  function showBanner(message = 'Join my WhatsApp channel!', linkHref = 'https://whatsapp.com/channel/0029VagkTmXIXnlwXmlwWD2e', linkText = 'Join Today', duration = 10000) {
+    const banner = document.getElementById('top-banner');
+    const bannerMessage = document.getElementById('banner-message');
+    const bannerLink = document.getElementById('banner-link');
+
+    bannerMessage.textContent = message;
+    bannerLink.href = linkHref;
+    bannerLink.textContent = linkText;
+    banner.classList.add('show');
+
+    if (banner.hideTimer) {
+      clearTimeout(banner.hideTimer);
+    }
+
+    banner.hideTimer = setTimeout(() => {
+      hideBanner();
+    }, duration);
+  }
+
+  function hideBanner() {
+    const banner = document.getElementById('top-banner');
+    banner.classList.remove('show');
+  }
+
+  function shouldShowBanner() {
+    const lastShownTime = localStorage.getItem(BANNER_STORAGE_KEY);
+
+    if (!lastShownTime) {
+      return true;
+    }
+
+    const parsedTime = parseInt(lastShownTime, 10);
+    const now = Date.now();
+    const timeSinceLastShown = now - parsedTime;
+
+    return timeSinceLastShown > BANNER_CACHE_DURATION;
+  }
+
+  function recordBannerShown() {
+    localStorage.setItem(BANNER_STORAGE_KEY, Date.now().toString());
+  }
+
+  document.addEventListener('DOMContentLoaded', function() {
+    if (shouldShowBanner()) {
+      showBanner();
+      recordBannerShown();
+    }
+  });
+
+  window.showBanner = showBanner;
+  window.hideBanner = hideBanner;
+  window.shouldShowBanner = shouldShowBanner;
+  window.recordBannerShown = recordBannerShown;
+</script>
