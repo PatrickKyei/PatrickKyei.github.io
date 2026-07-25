@@ -1,10 +1,10 @@
 ---
 title: How to design your life (without the guesswork)
-description: 'In just 10 minutes'
+description: 'Do this in just 10 minutes'
 date: 2026-07-25
 feed: show
 image:
-  path: /assets/img/path-finder.jpg
+  path: /assets/img/north-star.jpg
   alt: this is an image
 categories:
   - Business
