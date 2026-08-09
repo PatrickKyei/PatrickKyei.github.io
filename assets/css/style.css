@@ -322,6 +322,41 @@ main {
     justify-content: flex-end;
 }
 
+.button.hero-cta {
+    background: linear-gradient(135deg, #39c1a4 0%, #57d6a7 48%, #76e0b7 100%);
+    color: #fff;
+    border: none;
+    border-radius: 999px;
+    box-shadow: 0 18px 35px rgba(10, 20, 40, 0.18);
+    padding-left: 1.6rem;
+    padding-right: 1.6rem;
+    transition: transform 220ms ease, box-shadow 220ms ease, background 220ms ease;
+}
+
+.button.hero-cta .icon {
+    margin-right: 0.8rem;
+}
+
+.button.hero-cta:hover,
+.button.hero-cta:focus {
+    transform: translateY(-1px);
+    box-shadow: 0 22px 40px rgba(10, 20, 40, 0.24);
+    background: linear-gradient(135deg, #29ad95 0%, #51d9a2 48%, #72e1b0 100%);
+}
+
+.button.hero-cta:active,
+.button.hero-cta.is-active {
+    transform: translateY(0);
+    box-shadow: 0 14px 28px rgba(10, 20, 40, 0.22);
+}
+
+@media (max-width: 768px) {
+    .button.hero-cta {
+        width: 100%;
+        justify-content: center;
+    }
+}
+
 
 
 /* 05. Text Styles */
