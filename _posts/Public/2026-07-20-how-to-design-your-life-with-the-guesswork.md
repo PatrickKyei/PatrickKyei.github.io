@@ -15,10 +15,6 @@ tags:
   - lifesytle-design
 ---
 
-# How to design your life (without the guesswork)
-### In just 10 minutes
-
-
 Most people don't know what they want in life.
 
 They suffer from a profound sense of emptiness—a quiet, internal plea for something more meaningful.
