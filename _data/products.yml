@@ -1,3 +1,38 @@
+-
+  id: playbook
+  title: "Creators Writing Playbook - Free"
+  image: "/assets/img/value-book.png"
+  alt: "The Value Creator Playbook"
+  desc: "You don't need an English degree to write online. Learn how to package your ideas into content that attracts the right people."
+  url: "/playbook"
+  paid: false
+
+-
+  id: nexus
+  title: "Nexus Reading Hub - Free"
+  image: "/assets/img/NexusLibrary.png"
+  alt: "micro-reading"
+  desc: "If you don't improve your mind, you cannot improve your life. Choosing a book over mindless entertainment is self-discipline."
+  url: "https://selar.com/nexus-library"
+  paid: false
+
+-
+  id: fullstack
+  title: "Fullstack Writer - Paid"
+  image: "/assets/img/fullstack-writer.png"
+  alt: "Fullstack Writer"
+  desc: "Turn your words into attention. Master the art of writing online to grow an audience around your work and business. 2000+ students already inside."
+  url: "/fullstack-writer"
+  paid: true
+
+-
+  id: monetization
+  title: "Self Monetization - Paid"
+  image: "/assets/img/SelfMonetization.png"
+  alt: "Self Monetization"
+  desc: "Turn your knowledge into a hyper profitable product, build a life of profound purpose and get paid for doing what you love."
+  url: "/monetization"
+  paid: true
 - title: "The Value Creator Playbook"
   description: "Write genius ideas that cause people to take action and win you followers who care about what you offer."
   image: "value-book.png"

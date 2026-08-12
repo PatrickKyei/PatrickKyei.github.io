@@ -1,0 +1,23 @@
+<div class="feature-cta">
+  <div class="feature-cta-inner container">
+    <h3 class="feature-cta-title">When You&rsquo;re Ready, Here&rsquo;s How I Can Help You:</h3>
+    <div class="feature-cta-line" aria-hidden="true"></div>
+
+    <!-- Feature: show two paid products from the products list -->
+    <div class="feature-products">
+      {%- assign paid = site.data.products | where: "paid", true -%}
+      {%- for p in paid limit:2 -%}
+        <div class="feature-product-card">
+          <a href="{{ p.url }}">
+            <div class="feature-product-image"><img src="{{ p.image }}" alt="{{ p.alt }}"/></div>
+            <div class="feature-product-content">
+              <h4 class="feature-product-title">{{ p.title | replace: " - Paid", "" }}</h4>
+              <p class="feature-product-desc">{{ p.desc | strip_newlines | truncate: 120 }}</p>
+              <div class="feature-product-cta"><span class="button is-small">View Product</span></div>
+            </div>
+          </a>
+        </div>
+      {%- endfor -%}
+    </div>
+  </div>
+</div>
