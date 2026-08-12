@@ -404,15 +404,14 @@ main {
 
 .related-wrapper {
     display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    justify-content: space-between;
+    grid-template-columns: repeat(3, auto);
+    justify-content: center;
     align-items: start;
-    grid-gap: 0.8rem 1rem;
-    width: 100%;
+    grid-gap: 1rem 1.5rem;
 }
 
 .related-group {
-    width: 100% !important;
+    width: auto !important;
     height: 100%;
 }
 
@@ -420,13 +419,13 @@ main {
 .related-card {
     cursor: pointer;
     background-color: var(--color-bg-sub);
-    padding: 12px;
-    border-radius: 10px;
+    padding: 16px;
+    border-radius: 12px;
     border: 1px solid rgba(255,255,255,0.03);
-    box-shadow: 0 1px 0 rgba(0,0,0,0.08) inset;
+    box-shadow: 0 2px 0 rgba(0,0,0,0.12) inset;
     transition: transform 160ms ease, background-color 160ms ease, border-color 160ms ease;
-    min-height: 100px;
-    width: 100%;
+    min-height: 120px;
+    width: 320px;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -440,22 +439,22 @@ main {
 
 .related-card-date {
     color: var(--color-text-sub);
-    font-size: 0.72rem;
-    margin-bottom: 6px;
+    font-size: 0.75rem;
+    margin-bottom: 8px;
 }
 
 .related-card-title {
     color: var(--color-text-main);
     margin: 0 0 6px 0;
-    font-size: 0.95rem;
+    font-size: 1rem;
     font-weight: 600;
 }
 
 .related-card .excerpt {
     color: var(--color-text-sub);
     margin-top: auto;
-    font-size: 0.86rem;
-    line-height: 1.35;
+    font-size: 0.92rem;
+    line-height: 1.45;
 }
 
 @media (max-width: 768px) {
