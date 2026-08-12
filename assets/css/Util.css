@@ -231,6 +231,26 @@ layout: Stylesheet
     margin-bottom: 15px  !important;
 }
 
+/* Ensure any server- or client-generated TOC is never numbered. Loaded after main.css. */
+#markdown-toc,
+#markdown-toc ul,
+#markdown-toc ol,
+#markdown-toc li {
+    list-style: none !important;
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+}
+
+/* Remove list marker for modern browsers */
+#markdown-toc li::marker {
+    content: none !important;
+}
+
+/* Reset any counters that could add numbers */
+#markdown-toc {
+    counter-reset: none !important;
+}
+
 .margin-bottom-20 {
     margin-bottom: 20px  !important;
 }

@@ -51,9 +51,9 @@
         {%- assign display_class = 'show' -%}
       {%- endif -%}
     <div class="related {{display_class}}" id="jekyll-seamless-relatedposts">
-      <h5 class="block-title">Related Posts</h5>
+      <h5 class="block-title">Further Reading</h5>
       <div class="related-wrapper">
-      {%- assign maxRelated = 8 -%}
+      {%- assign maxRelated = 3 -%}
       {%- assign minCommonTags =  1 -%}
       {%- assign maxRelatedCounter = 0 -%}
       {%- for post in site.posts -%}
@@ -71,10 +71,15 @@
             {%- endif -%}
           {%- endfor -%}
           {%- if sameTagCount >= minCommonTags -%}
-            <div class="related-group"><a href="{{note.url}}">
-              <h4>{{ note.title }}</h4>
-              <p class="excerpt">{{ post.content | markdownify | strip_html | truncate: 100 }}</p>
-            </a></div>
+            <div class="related-group">
+              <a href="{{ post.url }}">
+                <div class="related-card">
+                  <div class="related-card-date">{{ post.date | date: "%b %-d, %Y" }}</div>
+                  <h4 class="related-card-title">{{ post.title }}</h4>
+                  <p class="excerpt">{{ post.content | markdownify | strip_html | truncate: 120 }}</p>
+                </div>
+              </a>
+            </div>
             {%- assign maxRelatedCounter = maxRelatedCounter | plus: 1 -%}
             {%- if maxRelatedCounter >= maxRelated -%}
               {%- break -%}

@@ -403,25 +403,72 @@ main {
 }
 
 .related-wrapper {
-    column-count: 2 !important;
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-gap: 1rem 2rem;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    justify-content: space-between;
+    align-items: start;
+    grid-gap: 0.8rem 1rem;
+    width: 100%;
 }
 
 .related-group {
-    width: 95% !important;
+    width: 100% !important;
     height: 100%;
-    cursor: pointer;
-    background-color: var(--color-bg-main);
-    padding: 16px;
-    border-bottom: 1px solid var(--color-border);
-
 }
 
-.related-group:hover {
-    border-bottom: 1px solid var(--color-text-link);
+
+.related-card {
+    cursor: pointer;
     background-color: var(--color-bg-sub);
+    padding: 12px;
+    border-radius: 10px;
+    border: 1px solid rgba(255,255,255,0.03);
+    box-shadow: 0 1px 0 rgba(0,0,0,0.08) inset;
+    transition: transform 160ms ease, background-color 160ms ease, border-color 160ms ease;
+    min-height: 100px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.related-card:hover {
+    transform: translateY(-6px);
+    background-color: var(--color-bg-main);
+    border-color: rgba(255,255,255,0.06);
+}
+
+.related-card-date {
+    color: var(--color-text-sub);
+    font-size: 0.72rem;
+    margin-bottom: 6px;
+}
+
+.related-card-title {
+    color: var(--color-text-main);
+    margin: 0 0 6px 0;
+    font-size: 0.95rem;
+    font-weight: 600;
+}
+
+.related-card .excerpt {
+    color: var(--color-text-sub);
+    margin-top: auto;
+    font-size: 0.86rem;
+    line-height: 1.35;
+}
+
+@media (max-width: 768px) {
+    .related-wrapper {
+        grid-template-columns: 1fr;
+        grid-gap: 0.75rem;
+    }
+    .related-card {
+        width: 100%;
+        padding: 14px;
+        min-height: 110px;
+        border-radius: 10px;
+    }
 }
 
 .related-group a {
@@ -900,23 +947,40 @@ hr {
 }
 
 
-#markdown-toc li {
-    margin-left: 1rem;
-    list-style: decimal;
-}
-
-#markdown-toc li * {
-    padding-left: 3px;
-}
 
 #markdown-toc {
-    padding: 1.5em;
-    list-style: decimal;
-    display: inline-block;
-    background: var(--color-bg-main);
+    padding: 0.6em;
+    display: block;
+    background: transparent;
     width: 100%;
-    margin: 0;
+    margin: 0 0 1rem 0;
+    font-size: 0.95rem;
 }
+
+/* Ensure TOC lists are never numbered (handles server-generated <ol>) */
+#markdown-toc, #markdown-toc ul, #markdown-toc ol, #markdown-toc li {
+    list-style: none !important;
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+}
+
+#markdown-toc .toc-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#markdown-toc .toc-list li {
+    margin: 0.22rem 0;
+    position: relative;
+}
+
+#markdown-toc .toc-h1 { padding-left: 0; font-weight: 700; }
+#markdown-toc .toc-h2 { padding-left: 0.35rem; }
+#markdown-toc .toc-h3 { padding-left: 0.75rem; }
+#markdown-toc .toc-h4 { padding-left: 1.2rem; font-size: 0.92rem; }
+
+#markdown-toc a { color: var(--color-text-sub); display:inline-block; }
 
 #markdown-toc a {
     text-decoration: none;
@@ -924,6 +988,76 @@ hr {
 
 #markdown-toc a:hover {
     text-decoration: underline;
+}
+
+/* Side panel for posts: TOC and notes graph */
+.side-panel {
+    background: transparent;
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
+    max-width: 220px;
+    margin-left: 2rem;
+}
+
+.side-panel #markdown-toc {
+    background: transparent;
+    border-radius: 4px;
+    padding: 0.6rem 0.6rem;
+    color: var(--color-text-sub);
+    border-left: 1px solid rgba(255,255,255,0.04);
+    margin-left: 0.6rem;
+    width: calc(100% - 0.6rem);
+}
+
+/* Ensure no numbering for any list inside the TOC */
+#markdown-toc ul, #markdown-toc ol { list-style: none !important; margin: 0; padding: 0; }
+
+/* Active item styling: subtle blue indicator and highlight */
+#markdown-toc .toc-list li.active > a {
+    color: var(--color-text-link);
+    font-weight: 600;
+}
+#markdown-toc .toc-list li.active::before {
+    content: '';
+    position: absolute;
+    left: -10px;
+    width: 3px;
+    height: 1.1rem;
+    background: var(--color-text-link);
+    border-radius: 2px;
+}
+
+.reading-time {
+    color: var(--color-text-sub);
+    font-weight: 600;
+}
+
+/* Reading time tooltip showing word count on hover */
+.reading-time {
+    position: relative;
+    cursor: default;
+}
+.reading-time::after {
+    content: attr(data-count);
+    position: absolute;
+    top: 120%;
+    right: 0;
+    background: rgba(0,0,0,0.7);
+    color: #fff;
+    padding: 6px 8px;
+    font-size: 0.8rem;
+    border-radius: 6px;
+    white-space: nowrap;
+    opacity: 0;
+    transform: translateY(6px);
+    transition: opacity 150ms ease, transform 150ms ease;
+    pointer-events: none;
+    z-index: 40;
+}
+.reading-time:hover::after,
+.reading-time:focus::after {
+    opacity: 1;
+    transform: translateY(0);
 }
 
 

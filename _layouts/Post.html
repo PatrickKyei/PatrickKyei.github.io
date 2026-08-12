@@ -152,7 +152,7 @@
 
                         <!--- Post Layout-->
                         {%- if page.content-type == "post" -%}
-                        <div class="column is-5-widescreen  is-6-desktop is-8-tablet is-12-mobile">
+                        <div class="column is-6-widescreen  is-6-desktop is-8-tablet is-12-mobile">
                             <div class="note-page-section">
                                 <div>
                                     {%- if site.preferences.homepage.enabled -%}
@@ -173,14 +173,18 @@
                                     {% include Subscribe.html %}
 
                                 </section>
-                                <p class="post-meta"
-                                    style="margin-top: 1.5rem; margin-bottom: 0.5rem; color: #ffffff; font-size: 1.2rem;">
-                                    {{ page.date | date: "%B %-d, %Y" }} | Patrick Kyei
-                                </p>
+                                <div style="display:flex;justify-content:space-between;align-items:center;margin-top:1.5rem;margin-bottom:0.5rem;">
+                                    <p class="post-meta"
+                                        style="margin:0; color: #ffffff; font-size: 1.2rem;">
+                                        {{ page.date | date: "%B %-d, %Y" }} | Patrick Kyei
+                                    </p>
+                                    <p id="reading-time" class="reading-time" style="margin:0;color:#9aa0a6;font-size:1rem;">&nbsp;</p>
+                                </div>
 
                                 <h1 class="title is-1 has-text-weight-extrabold">{{page.title}}</h1>
                                 {%- include Content.html -%}
                                 {%- include Backlinks.html -%}
+                                {%- include Related.html -%}
 
                                 <!-- post navigation (moved inside article column) -->
                                 <nav class="post-navigation in-article">
@@ -201,6 +205,10 @@
                                 {% include Subscribe.html %}
                             </div>
                         </div>
+                        {%- endif -%}
+
+                        {%- if page.content-type == "post" -%}
+                        <!-- Side panel removed (TOC and notes graph disabled) -->
                         {%- endif -%}
 
                         <!--- Event Layout-->
@@ -291,6 +299,24 @@
         window.addEventListener('appinstalled', () => {
             deferredPrompt = null;
             installPrompt.style.display = 'none';
+        });
+    </script>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Reading time
+            const content = document.querySelector('.note-page-section .content') || document.querySelector('.note-page-section');
+            if (content) {
+                const text = content.innerText || '';
+                const words = text.trim().split(/\s+/).filter(Boolean).length;
+                const minutes = Math.max(1, Math.round(words / 200));
+                const el = document.getElementById('reading-time');
+                if (el) {
+                    el.textContent = minutes + ' min read';
+                    el.setAttribute('data-count', words + ' words');
+                    el.setAttribute('title', words + ' words');
+                }
+            }
         });
     </script>
 
