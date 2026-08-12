@@ -59,7 +59,11 @@
 <body class="has-navbar-fixed-top">
     <main>
         {%- include Nav.html -%}
+        {%- if page.content-type == "post" -%}
+        <section class="section" style="padding-top: 2.6rem;">
+        {%- else -%}
         <section class="section" style="padding-top: 5rem;">
+        {%- endif -%}
             <div class="columns is-centered">
 
                 <!-- Homepage Layout-->
