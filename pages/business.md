@@ -5,6 +5,7 @@ permalink: /business/
 ---
 
 {% include business/hero.html %}
+{% include business/message.html %}
 {% include business/who.html %}
 {% include business/create.html %}
 {% include business/launch.html %}
