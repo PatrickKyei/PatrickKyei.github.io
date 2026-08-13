@@ -345,15 +345,3 @@ Thanks for reading.
 
 
 -Patrick.
-
-  
-
----
-
-  
-
-When you’re ready, here are a few ways I can help further:
-
-
-- [The Fullstack Writer](https://patrickkyei.com/fullstack-writer) for building an audience for yourself, business or career without worrying about video or speaking.
-- [Self Monetization](https://patrickkyei.com/monetization) for building a hyper profitable digital product in 21 Days.

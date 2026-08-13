@@ -254,10 +254,3 @@ Learn to collect, create, and communicate value and you will become irreplaceabl
 Thanks for reading.
 
 -Patrick.
-
----
-
-When you’re ready, here are a few ways I can help further:
-
-- [The Fullstack Writer](https://patrickkyei.com/fullstack-writer) for a high-value skill to become a creator without worrying about video or speaking.
-- [Self Monetization](https://patrickkyei.com/monetization) for a beginner friendly modern business course
